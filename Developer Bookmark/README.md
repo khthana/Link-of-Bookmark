@@ -29,3 +29,11 @@ https://towardsdatascience.com/develop-and-sell-a-machine-learning-app-from-star
 
 บทสรุปของ Data Science Essential รุ่นที่ 1
 https://medium.com/botnoi-classroom/%E0%B8%9A%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%82%E0%B8%AD%E0%B8%87-data-science-essential-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-1-73b12b60fd51
+
+
+<b>========================= Programming =========================</b><br>
+<ol>
+<li> <a href="https://www.algorithmtut.com/%E0%B8%A3%E0%B8%A7%E0%B8%A1-resources-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-kotlin/ ">รวม Resources สำหรับศึกษาภาษา Kotlin</a></li>
+<li> <a href="http://www.tamemo.com/post/80/functional-programming-should-be-your/ ">มารู้จักกับ Functional Programming สิ่งที่คุณต้องรู้ในตอนนี้กันเถอะ</a></li>
+<li> <a href=" "></a></li>
+</ol>
