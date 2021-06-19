@@ -1,0 +1,12 @@
+Easy eIoT
+
+sudo apt install git bc bison flex libssl-dev libncurses5-dev
+sudo apt-get install raspberrypi-kernel-headers
+
+ cd ~/
+      git clone https://github.com/birdtechstep/tiny.git
+      cd tiny
+      make
+      sudo cp *.ko /lib/modules/`uname -r`/kernel/drivers/gpu/drm/tiny/
+      sudo depmod
+      

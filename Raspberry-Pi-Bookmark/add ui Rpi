@@ -1,0 +1,4 @@
+#บันทึกช่วยจำ : หากเราเลือกที่จะใช้ raspbian image file สำหรับงานเฉพาะด้าน และ image file นั้นไม่ได้มี Desktop ติดมาด้วย แล้ววันดี คืนดี เราอยากเปลี่ยนใจติดตั้งขึ้นมาก็ใช้คำสั่ง 
+$ sudo apt-get update
+$ sudo apt install raspberrypi-ui-mods
+$ sudo reboot

@@ -1,0 +1,20 @@
+การติดตั้ง Raspbian  bluster  บน Raspberry Pi 4 Model B  แบบ  headless มา ผมเองก็เพิ่งจะได้รับ Raspberry Pi 4 มาวันนี้และก็ได้ติดตั้งแบบ headless  (เพราะไม่มี micro HDMI) ไปแล้ว ก็เลยขอเล่าขั้นตอนไว้ให้อ่านละกัน 
+1. ดาวน์โหลด image file มาก่อน และติดตั้งบน SD Card ผมใช้ของ Sandisk Class 10 ขนาด 16 BG  หลังจาก​ write​ image​ เสร็จแล้วยัง mount  SD card กับ PC ก่อน เพื่อทำการ config ระบบข่ายงาน
+2. ไปที่ boot partition บน SD Card เขียนไฟล์เปล่า ตั้งชื่อ ssh (ไม่ต้องมีนามสกุล) เพื่อให้สามารถทำการ ssh เข้าไปใช้งานได้
+3. ไปที่ rootfs partition บน SD Card ย้ายไปที่ etc/wap_supplicant ทำการ edit ไฟล์ชื่อ wap_supplicant.conf ด้วยรูปแบบนี้
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+country=TH
+update_config=1
+network={
+   ssid="XXXXXXXX"
+   psk="999999"
+}
+บรรทัด 1-2 จะมีมาอยู่แล้ว ไม่ต้องแก้ไขอะไร นอกนั้นก็พิมพ์ตาม แก้ไขแต่ ssid และ psk
+4. ถ้าต้องการ static ip address ให้กับ WiFi ก็ย้ายไปที่ etc แล้วแก้ไขไฟล์ชื่อ dhcpcd.conf โดยเติมข้อความ
+interface wlan0
+static ip_address=999.999.999.999/24
+static routers=999.999.999.999
+static domain_name_servers=8.8.8.8
+หมายเหตุ เปลี่ยนตัว 999.999.999.999 ให้เป็นไปตามระบบที่ท่านใช้
+5. reject SD Card แล้วนำไปใส่กับ Raspi บอร์ด เสียบไฟ แล้วก็รอ หรือท่านอาจลองทำการ ping เพื่อดูว่า ip address ที่กำหนดไว้ตามข้อ 4 ใช้ได้หรือยัง ถ้าไม่ได้ใช้ static ip ก็ลอง ping ไปที่ raspberrypi.local ดู 
+ปล. สิทธิ์ในการเข้าถึงของไฟล์จะเป็นของ root นั่นคือ หากใช้ PC ในระบบของ Linux ท่านต้องใช้สิทธิของ root ในการแก้ไข (ในระบบของ Windows ผมไม่ทราบนะ) ในกรณีของผมติดตั้งแบบนี้ ใช้ได้ผลนะ รอบเดียวผ่าน ไม่มีอะไรต้องพลิกแพลง ถ้าใครนำไปใช้แล้วไม่ได้ผลก็ ...นะ ลองดู

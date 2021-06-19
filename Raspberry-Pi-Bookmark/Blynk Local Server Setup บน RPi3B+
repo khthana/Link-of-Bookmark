@@ -1,0 +1,36 @@
+ลำดับขั้นตอนจดใว้กันลืม ตอนที่ติดตั้ง ทำผ่านแล้ว ลุยอยู่สองสามวัน เลยเอามาแชร์ 
+1 ติดตั้ง Java10 บน RPi 3B+ 
+    sudo apt-get install oracle-java10-installer
+    ติดตั้งแล้ว ทดสอบ 
+        java -version
+        Output: java version "10"
+ใช้ RPi 3B+ จะได้วิ่ง เร็วหน่อย
+    https://www.raspberrypi.org/magpi/raspberry-pi-specs-benchmarks/
+    SysBench CPU 
+2 ติดตั้ง Local Blynk Server
+   ไป download ฺServer มาจาก 
+    https://github.com/blynkkk/blynk-server/releases
+    ไปลาก file : server-0.39.5.jar มาใช้
+3 สร้าง blynk directory ภายในนี้ สร้าง directory ใว้ชื่อ dataForServer สำหรับ blynk 
+    mkdir dataForServer
+    อันนี้ เอาใว้เก็บข้อมูลที blynk จะเอามาเก็บใว้ ระหว่างทำงาน 
+4 ลากเอา server-0.39.5..... มาวางใน blynk directory
+5 เริ่ม blynk local server โดย
+     java -jar server-0.39.5.jar -dataFolder ./dataForServer
+     ผลที่ได้จะเห็น 
+        Blynk Server successfully started.
+        All server output is stored in current folder in 'logs/blynk.log' file.
+6 หาว่า IP ของ server นี้ ( ก็คือของ Rpi3B+ นี่เอง ) 
+เพื่อจะเอาไปใช้เวลา login เข้า blynk 
+เป็นเสร็จการติดตั้ง........
+การทำงานจาก มือถือ 
+    1 เปิด blynk app
+    2 login เข้าไป โดยเลือก custom login ไม่ใช่ login เข้า Blynk Cloud Server
+    3 ต้อง register new user ด้วย
+        3.1 จด Authen ที่ blynk ให้มาด้วย 
+    4 ก็สร้าง app เพื่อ interface กับ Hardware  ตามที่เราต้องการ ส่วน application ก็อาศัยโดยใช้ arduino.ide เขียนเพื่อตอบสนอง คำสั่งจากมือถือ 
+หวังว่า คงจะมีประโยชน์บ้าง 
+Note: 
+1 Server port คือ 9443 และ Application port คือ 8080
+2 พบว่า การเริ่ม Blynk local server บน Desktop ( Mint 18.3 ) vs Rpi3B+ นั้น เวลาต่างกันอย่างชัดเจน ของ Rpi ใช้เวลานานกว่า กว่าที่ 
+Blynk Server successfully started. จะโผล่ขึ้นมา

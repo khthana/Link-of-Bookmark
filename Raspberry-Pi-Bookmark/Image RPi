@@ -1,0 +1,18 @@
+longkong (ลองของ) เป็น image ไฟล์สำหรับใช้กับ Raspberry pi 4 จัดทำขึ้นสำหรับมือใหม่หัดเล่น rPi โดยใน img ไฟล์จะประกอบด้วยโปรแกรม ไลบรารี่และโมดูล สำหรับ "ลองเล่นดู" โดยหลักๆ มีโปรแกรมต่างๆ ดังนี้
+1. Firefox esr
+2. Visual studio code (custom build)
+3. OBS
+4. OpenCV 4.3.0
+5. Tensorflow 2.1
+6. Webmin (https://localhost:10000)
+7. Apache2 ( Disable onboot)
+8. phpMyAdmin ( Disable onboot : user=root, pass=pi)
+9. Maria DB( Disable onboot)
+ใช้ระบบปฏิบัติการ raspbian buster (อัปเดต 14 เม.ย. 63)
+วิธีการติดตั้ง
+1. Download longkong.zip จาก gdrive
+2. แตกไฟล์ zip จะได้ไฟล์ longkong.img
+3. ใช้โปรแกรมสำหรับเขียน img ลง SD-Card (แนะนำให้ใช้โปรแกรม Etcher)
+4. เมื่อเปิดด้วย raspberry pi แล้ว ให้ทำการขยายขนาดพื้นที่ โดยเข้าไปที่ raspi-config เลือก 7. Advanced Options -> 1. Expand Filesystem
+5. reboot
+ใครที่มี raspberry pi ไปโหลดมาลองได้ครับ https://drive.google.com/file/d/12IldOUhdCw5ppbiZrZhZy3H1qbaJZjk2/view?usp=sharing
