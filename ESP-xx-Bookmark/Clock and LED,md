@@ -1,0 +1,18 @@
+<h2>Clock & LED </h2>
+<ol>
+      <li> <a href="http://embedded-lab.com/blog/wifi-enabled-scrolling-led-matrix-display/">Wifi enabled 8×64 pixel LED matrix display </a></li>
+      <li> <a href="https://www.hackster.io/ericBcreator/1024-led-matrix-wifi-message-board-with-menu-web-interface-1b2666">1024 LED Matrix WiFi Message Board with Menu + Web Interface </a></li>      
+      <li> <a href="https://github.com/littlevgl/lv_sim_codeblocks_win?fbclid=IwAR1kT_KYN1PJUEIC75rH67UeCqkF7ikmGK5Y5X8WqsmmK93foJ4plxr9IX4">Windows PC simulator project for LittlevGL embedded GUI Library  </a></li>
+      <li> <a href="https://hackaday.com/2019/05/09/robot-arms-nudge-the-hands-of-time-in-the-strangest-clock/?fbclid=IwAR0xJYc6gJxQxT7NY52kkHWiBwHIDyfeFf1gtvfSH2IAAswpkAKy6aAQ6qo">Robot Arms Nudge The Hands Of Time In The Strangest Clock </a></li>
+      <li> <a href="https://www.youtube.com/watch?v=hLVk8cUd4cI&fbclid=IwAR24NwZTC2G5Q5AgIX9joTRtMpRyb4zZ1NpaGnZdl32gPYdq-9uHZoLsZaI">วิธีการทำและโค๊ดนาฬิกาพยากรณ์อากาศภาษาไทย V.2 esp8266 weather clock with openweathermap thai version </a></li>
+      <li> <a href="https://www.youtube.com/watch?v=HvGbwPQBhjQ&feature=youtu.be&fbclid=IwAR15Dn472Ohe5aq3KPCuEKFxeuGHRZCxN--qTWXobI2zYWZV4aK2GiAkAlM">Arduino : Scrolling LED Text (share code) </a></li>      
+      <li> <a href="https://www.thaieasyelec.com/article-wiki/review-product-article/moving-sign-display-with-led-dot-matrix-16x16.html">ทำป้ายตัวอักษรวิ่งด้วย LED Dot Matrix 16x16 โดยส่งข้อมูลผ่าน Serial Communication </a></li>
+      <li> <a href="https://www.youtube.com/watch?v=s2LcI5iMHbM&fbclid=IwAR3M6MyBCMgWWlqInLUg-omz5LY5_aX1xwDMfB98PE7iSPIyacvsZLutPNM">NodeMCU + LED RGB P3 32x64 | Thai and English </a></li>  
+      <li> <a href="https://hackaday.com/2019/10/29/an-esp32-clock-with-a-transforming-led-matrix/?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR1OsFLRBfMaHePQtL4loafy_4ir9SjPoIwXu6BaR0kb-Lin7_k8ohR4CJI">An ESP32 Clock With A Transforming LED Matrix  </a></li>      
+      <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2065988836777216/">ชำแหละโครงสร้าง DW Font  </a></li>
+      <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2071669542875812/">Led Strip </a></li>      
+      <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2055126424530124/">การใช้งาน ไลบรารี DW Font </a></li>
+      <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2072870272755739/">P3 ภาษาไทย 2 บรรทัดอิสระ </a></li>
+      <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2027979420578158/">Dot Matrix LED </a></li>
+      <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2061212653921501/?hc_location=ufi">LED P3 </a></li>             
+</ol>
