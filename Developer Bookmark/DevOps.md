@@ -31,3 +31,12 @@ https://medium.com/@pasitat/devops-handbook-10-security-change-compliance-5a0fba
 Kubernetes-The-Hard-Way-CentOS
 https://github.com/rdamrong/Kubernetes-The-Hard-Way-CentOS
 
+<font color="blue">
+<H2> Learning </H2>
+</font>
+<b>========================= Docker =========================</b><br>
+<ol>
+<li> <a href="https://training.docker.com/category/self-paced-online">Docker Online</a></li>
+<li> <a href="https://github.com/docker/labs">Docker Labs</a></li>
+</ol>
+
