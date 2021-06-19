@@ -140,7 +140,6 @@ MaixPy </a></li>
     <li> <a href="https://medium.com/@kritsadaj/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-micro-bit-%E0%B8%81%E0%B8%B1%E0%B8%9A-android-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-otg-925e8ae764d3">ดาวน์โหลด micro:bit กับ Android ผ่าน OTG</a></li>         
     <li> <a href="https://www.facebook.com/vsupacha.engrtu/videos/2252234894871213/">bit racer แข่งขัน</a></li>          
     <li> <a href="https://create.arduino.cc/projecthub/Arduino_Genuino/arduino-iot-cloud-google-sheets-integration-71b6bc?fbclid=IwAR0eLWiIV3x6JWIv_DA8wZXnS8h_9ilMNc98-VnIEIaezUNQwMVod11a4Zc">Arduino IoT Cloud Google Sheets</a></li>         
-
     <li> <a href="https://www.facebook.com/nat.wrw/videos/10156972909320347/">Flappy Bird</a></li>
     <li> <a href="https://www.youtube.com/watch?v=udz7qlHT400">Building and Controlling 4WD Arduino Robot</a></li>
     <li> <a href="https://www.facebook.com/interestingengineering/videos/1105114929558210/">sign language into speech</a></li>
