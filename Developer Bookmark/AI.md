@@ -1,3 +1,9 @@
+<b>========================= Deep Learning =========================</b><br>
+<ol>
+<li> <a href="http://www.cio.com/article/3193689/artificial-intelligence/which-deep-learning-network-is-best-for-you.html ">Which deep learning network is best for you?</a></li>
+<li> <a href=" "></a></li>
+</ol>
+
 การเรียนรู้ของเครื่อง
 https://phyblas.hinaboshi.com/saraban/kanrianrukhongkhrueang
 
