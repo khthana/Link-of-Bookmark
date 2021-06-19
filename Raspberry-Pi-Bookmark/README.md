@@ -108,3 +108,7 @@ https://www.youtube.com/watch?v=_IBIO7dLRBw
     <li> <a href="https://raspberrytips.com/raspberry-pi-commands/?fbclid=IwAR1ih3THUIitw1FzD7wojKFTSWQFtrg83neLLR-bAfjFfMIWsk46Ng5YncY">57 Raspberry Pi commands that everyone should know </a></li>  
     <li> <a href="https://www.facebook.com/iot.kmutnb/posts/268978167056278">Duckiebots in the Duckietown </a></li>     
     <li> <a href="http://abyz.me.uk/rpi/pigpio/examples.html?fbclid=IwAR2_jRtHQWmCJY25Qk-2ArQpfrMsPUn1XlXCGxtY8h88joKQsw07g9IKJtg">pigpio library </a></li>         
+<li> <a href="https://android.gadgethacks.com/how-to/make-google-assistant-control-almost-anything-with-ifttt-0174635/">Make Google Assistant Control Almost Anything with IFTTT </a></li>
+<li> <a href="https://github.com/mjg59/python-broadlink">Python control for Broadlink RM2 IR controllers</a></li>
+<li> <a href="https://developers.google.com/assistant/sdk/prototype/getting-started-pi-python/">Google Assistant SDK</a></li>
+<li> <a href="http://aiyth.blogspot.com/2017/05/ssh-aiyprojects-xxxximg.html ">เล่น Voice และวิทยุ</a></li>
