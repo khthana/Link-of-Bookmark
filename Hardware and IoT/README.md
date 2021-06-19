@@ -162,3 +162,9 @@ MaixPy </a></li>
     <li> <a href="https://medium.com/@supotsaeea/sonoff-with-nodered-without-firmware-upgrade-10ed3e33466d">Sonoff with NodeRED without firmware upgrade</a></li>         
 </ol>  
 
+<b>========================= POV =========================</b><br>
+<ol>
+<li> <a href="https://www.cmmakerclub.com/2016/02/show-tell/diy-pov-persistence-of-vision/">มาทำ POV (Persistence of Vision) กันเถอะ</a></li>
+<li> <a href="https://circuitdigest.com/microcontroller-projects/arduino-propeller-display ">Arduino Propeller LED Display</a></li>
+</ol>
+
