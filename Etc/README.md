@@ -1,5 +1,13 @@
 # Interesting
 
+เทคนิค Word ในการทำเอกสาร ข้อสอบ แบบทดสอบ
+https://www.youtube.com/watch?v=mAwxbd7-upo
+
+เทคนิค Word สำหรับงานเอกสารวิชาการ และการวิจัย
+https://www.youtube.com/watch?v=tTE8DmmfaGs
+
+Excel Expert Training
+https://www.facebook.com/ExcelExpertTraining/posts/1997349847201490
 
 <b>========================= Skill =========================</b><br>
 <ol>

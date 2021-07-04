@@ -167,4 +167,7 @@ MaixPy </a></li>
 <li> <a href="https://www.cmmakerclub.com/2016/02/show-tell/diy-pov-persistence-of-vision/">มาทำ POV (Persistence of Vision) กันเถอะ</a></li>
 <li> <a href="https://circuitdigest.com/microcontroller-projects/arduino-propeller-display ">Arduino Propeller LED Display</a></li>
 </ol>
+The Google Home has an undocumented local API that you can now access
+https://www.facebook.com/watch/?v=1745504962412520
+
 
