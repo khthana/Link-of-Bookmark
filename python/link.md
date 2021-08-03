@@ -30,8 +30,8 @@
 2. [12 Beginner Python Projects - Coding Course -- FreeCodeCamp](https://www.youtube.com/watch?v=8ext9G7xspg)
 3. [sendex : Python, Machine Learning, Neural Networks, Django, AI](https://www.youtube.com/c/sentdex/playlists)
 4. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 1]](https://www.youtube.com/watch?v=N1fnq4MF3AE)
-5. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 1]](https://www.youtube.com/watch?v=2_TK8JYJiwQ&t=31620s)
-6. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 1]](https://www.youtube.com/watch?v=_G-yOINsXvE)
+5. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 2]](https://www.youtube.com/watch?v=2_TK8JYJiwQ&t=31620s)
+6. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 3]](https://www.youtube.com/watch?v=_G-yOINsXvE)
 
 
 ## ETC
