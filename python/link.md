@@ -22,8 +22,11 @@
 
 [In line link style](http://www.google.com "Go to Google's Homepage")
 
-# UDEMY
+## UDEMY
 [The Ultimate Python Guide for Beginners](https://www.udemy.com/course/the-ultimate-python-guide-for-beginners/learn/lecture/26286888#overview)
 
-# ETC
+## YOUTUBE
+[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
+## ETC
 [Visualize Data Structures in VSCode](https://addyosmani.com/blog/visualize-data-structures-vscode/ "Visualize Data Structures in VSCode")
