@@ -9,4 +9,14 @@
 8. [Software Testing Simple (Software Quality Assurance QA)](https://www.udemy.com/course/software-testing-simple/learn/lecture/17834278#overview)
 9. [Software Testing and Quality Assurance Fundamentals](https://www.udemy.com/course/becoming-a-software-tester/learn/lecture/11013384#overview)
 10. [TDD in 3 Hours : Test Driven Development Complete Guide](https://www.udemy.com/cart/subscribe/course/3167666/)
+11. [Learn How to Work online on Software Testing websites](https://www.udemy.com/course/learn-software-testing-in-two-weeks-and-start-earning-online/learn/lecture/13906848#overview)
+
+## MOOC
+1. [Software Testing - UDACITY](https://classroom.udacity.com/courses/cs258)
+2. [CS 6340: Software Analysis & Testing - UDACITY](https://classroom.udacity.com/courses/ud333)
+3. [Introduction to Software Testing - Coursera](https://www.coursera.org/learn/introduction-software-testing)
+
+## ETC
+1. [มาทำ Unit Testing บน Python กันเถอะ !](https://www.borntodev.com/2020/04/07/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3-unit-testing-%E0%B8%9A%E0%B8%99-python-%E0%B8%81%E0%B8%B1%E0%B8%99/)
+2. [มาเริ่มต้นเขียน Unit Test, TDD, Failing Test , Gitlab CI กันเถอะ](https://www.borntodev.com/2020/04/07/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3-unit-testing-%E0%B8%9A%E0%B8%99-python-%E0%B8%81%E0%B8%B1%E0%B8%99/)
 
