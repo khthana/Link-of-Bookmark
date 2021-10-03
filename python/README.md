@@ -21,6 +21,9 @@
 2. [The Art of Doing: Create 10 Python GUIs with Tkinter](https://www.udemy.com/course/the-art-of-doing-create-10-python-guis-with-tkinter-today/learn/lecture/21494484?start=0#overview)
 3. [Python Interview Questions & Answers](https://www.udemy.com/course/python-interview-questions-and-answers/learn/lecture/25941186#overview)
 4. [Make Simple Games with Python](https://www.udemy.com/course/make-simple-games-with-python/learn/lecture/27553464#overview)
+5. [Python Learn by Python Projects & Python Quizzes in 2021](https://www.udemy.com/course/the-complete-python-for-beginner-master-python-from-scratch/learn/lecture/15434760?start=0#overview)
+6. [Python Interview Questions & Answers](https://www.udemy.com/course/python-interview-questions-and-answers/learn/lecture/25941186#overview)
+7. 
 
 ## YOUTUBE
 1. [sendex : Python, Machine Learning, Neural Networks, Django, AI](https://www.youtube.com/c/sentdex/playlists)
@@ -43,7 +46,12 @@
 4. [การใช้ f-string เพื่อจัดรูปแบบสายอักขระใน python](https://phyblas.hinaboshi.com/20190714)
 5. [Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle](https://www.kaggle.com/learn)
 6. [FrameDev - Django](https://www.frame-dev.com/)
-7. 
+7. [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html)
+8. [Top 30 Apple Coding Interview Questions (With Solutions)](https://betterprogramming.pub/top-30-apple-coding-interview-questions-with-solutions-19990071ebfc)
+9. [10 Beginner Tips for Learning Python](https://betterprogramming.pub/10-beginner-tips-for-learning-python-2578e7f49ec8)
+10. [7 VS Code Tricks I Learned From My Colleagues](https://betterprogramming.pub/7-vs-code-tricks-i-learned-from-my-colleagues-6abb340601b4
+11. [kaggle Learn](https://www.kaggle.com/learn)
+12. [การใช้ f-string เพื่อจัดรูปแบบสายอักขระใน python](https://phyblas.hinaboshi.com/20190714)
 
 
 
