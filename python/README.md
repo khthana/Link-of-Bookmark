@@ -26,14 +26,12 @@
 7. [Advanced Foundations of Python Programming | 2021 Training](https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/learn/lecture/28083060#overview)
 
 ## YOUTUBE
-1. [sendex : Python, Machine Learning, Neural Networks, Django, AI](https://www.youtube.com/c/sentdex/playlists)
-2. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 1]](https://www.youtube.com/watch?v=N1fnq4MF3AE)
-3. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 2]](https://www.youtube.com/watch?v=2_TK8JYJiwQ&t=31620s)
-4. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 3]](https://www.youtube.com/watch?v=_G-yOINsXvE)
-5. [Python Programming the Series](https://www.youtube.com/playlist?list=PLXa5k-zW5T_0HoABfZADoiPbHWuZio_ib)
-6. [Ultimate Python](https://www.youtube.com/c/UltimatePython)
-7. [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
-8. 
+1. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 1]](https://www.youtube.com/watch?v=N1fnq4MF3AE)
+2. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 2]](https://www.youtube.com/watch?v=2_TK8JYJiwQ&t=31620s)
+3. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 3]](https://www.youtube.com/watch?v=_G-yOINsXvE)
+4. [Python Programming the Series](https://www.youtube.com/playlist?list=PLXa5k-zW5T_0HoABfZADoiPbHWuZio_ib)
+5. [Ultimate Python](https://www.youtube.com/c/UltimatePython)
+6. [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
 ## FreeCodeCamp
 1. [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
@@ -41,6 +39,16 @@
 3. [Backend Web Development with Python - Full Course(https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/)
 4. [OpenCV Tutorial - Develop Computer Vision Apps in the Cloud With Python](https://www.youtube.com/watch?v=iXNsAYOTzgM)
 5. [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
+6. [Learn Algorithms and Data Structures in Python](https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/)
+
+
+## สอนเขียนโปรแกรมใน YOUTUBE
+1. [sentdex](https://www.youtube.com/c/sentdex)
+2. [Caleb Curry](https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA)
+3. [TokyoEdtech](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)
+4. [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+5. [Kalle Hallden](https://www.youtube.com/c/KalleHallden)
+6. [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 
 ## ETC
 1. [Visualize Data Structures in VSCode](https://addyosmani.com/blog/visualize-data-structures-vscode/ "Visualize Data Structures in VSCode")
@@ -59,7 +67,11 @@
 14. [Pretty Printed : Python Web Development Tutorials](https://prettyprinted.com/)
 15. [A basic calculator using Tkinter GUI.](https://github.com/Rogerup/Tkalc)
 16. [50 Python Projects with Source Code ](https://dev.to/kiransethu46/50-python-projects-with-source-code-2n7g)
-17. 
+17. [Programmer's guide to Python](https://github.com/Anku5hk/Programmers_guide_to_Python/blob/main/book.md)
+18. [Testing GraphQL Queries with Apollo Client](https://programmingwithmosh.com/)
+19. [realpython](https://realpython.com/)
+20. [Python for Absolute Beginners Course](https://training.talkpython.fm/courses/explore_beginners/python-for-absolute-beginners?utm_source=talkpython)
+
 
 
 
