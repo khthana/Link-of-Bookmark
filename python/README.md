@@ -23,7 +23,7 @@
 4. [Make Simple Games with Python](https://www.udemy.com/course/make-simple-games-with-python/learn/lecture/27553464#overview)
 5. [Python Learn by Python Projects & Python Quizzes in 2021](https://www.udemy.com/course/the-complete-python-for-beginner-master-python-from-scratch/learn/lecture/15434760?start=0#overview)
 6. [Python Interview Questions & Answers](https://www.udemy.com/course/python-interview-questions-and-answers/learn/lecture/25941186#overview)
-7. 
+7. [Advanced Foundations of Python Programming | 2021 Training](https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/learn/lecture/28083060#overview)
 
 ## YOUTUBE
 1. [sendex : Python, Machine Learning, Neural Networks, Django, AI](https://www.youtube.com/c/sentdex/playlists)
@@ -32,12 +32,15 @@
 4. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 3]](https://www.youtube.com/watch?v=_G-yOINsXvE)
 5. [Python Programming the Series](https://www.youtube.com/playlist?list=PLXa5k-zW5T_0HoABfZADoiPbHWuZio_ib)
 6. [Ultimate Python](https://www.youtube.com/c/UltimatePython)
+7. [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+8. 
 
 ## FreeCodeCamp
 1. [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
 2. [12 Beginner Python Projects - Coding Course](https://www.youtube.com/watch?v=8ext9G7xspg)
 3. [Backend Web Development with Python - Full Course(https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/)
 4. [OpenCV Tutorial - Develop Computer Vision Apps in the Cloud With Python](https://www.youtube.com/watch?v=iXNsAYOTzgM)
+5. [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
 
 ## ETC
 1. [Visualize Data Structures in VSCode](https://addyosmani.com/blog/visualize-data-structures-vscode/ "Visualize Data Structures in VSCode")
@@ -52,6 +55,7 @@
 10. [7 VS Code Tricks I Learned From My Colleagues](https://betterprogramming.pub/7-vs-code-tricks-i-learned-from-my-colleagues-6abb340601b4
 11. [kaggle Learn](https://www.kaggle.com/learn)
 12. [การใช้ f-string เพื่อจัดรูปแบบสายอักขระใน python](https://phyblas.hinaboshi.com/20190714)
+13. [300+ Python Interview Questions and Answers ](https://pythonawesome.com/300-python-interview-questions-and-answers/)
 
 
 
