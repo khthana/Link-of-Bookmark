@@ -56,6 +56,10 @@
 11. [kaggle Learn](https://www.kaggle.com/learn)
 12. [การใช้ f-string เพื่อจัดรูปแบบสายอักขระใน python](https://phyblas.hinaboshi.com/20190714)
 13. [300+ Python Interview Questions and Answers ](https://pythonawesome.com/300-python-interview-questions-and-answers/)
+14. [Pretty Printed : Python Web Development Tutorials](https://prettyprinted.com/)
+15. [A basic calculator using Tkinter GUI.](https://github.com/Rogerup/Tkalc)
+16. [50 Python Projects with Source Code ](https://dev.to/kiransethu46/50-python-projects-with-source-code-2n7g)
+17. 
 
 
 
