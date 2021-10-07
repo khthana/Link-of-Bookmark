@@ -50,6 +50,10 @@
 5. [Kalle Hallden](https://www.youtube.com/c/KalleHallden)
 6. [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 
+## Online IDE
+1. [pythontutor](https://pythontutor.com/live.html#mode=edit)
+2. [replit](https://replit.com/@ThanaHongsuwan/Chapter1#main.py)
+
 ## ETC
 1. [Visualize Data Structures in VSCode](https://addyosmani.com/blog/visualize-data-structures-vscode/ "Visualize Data Structures in VSCode")
 2. [5 Feature ใหม่ที่น่าสนใจใน Python 3.10](https://stackpython.co/tutorial/5-feature-python-310)
@@ -71,6 +75,9 @@
 18. [Testing GraphQL Queries with Apollo Client](https://programmingwithmosh.com/)
 19. [realpython](https://realpython.com/)
 20. [Python for Absolute Beginners Course](https://training.talkpython.fm/courses/explore_beginners/python-for-absolute-beginners?utm_source=talkpython)
+21. [MASTERMIND](http://www.easysurf.cc/master3.htm)
+22. [Python_Mathayom_1_2_3.ipynb](https://colab.research.google.com/drive/1rm-kW7Nh5q3kk9JsnvBea2oUr42W9GIF#scrollTo=UA3GRRX3iees)
+23. 
 
 
 
