@@ -30,8 +30,15 @@
 2. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 2]](https://www.youtube.com/watch?v=2_TK8JYJiwQ&t=31620s)
 3. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 3]](https://www.youtube.com/watch?v=_G-yOINsXvE)
 4. [Python Programming the Series](https://www.youtube.com/playlist?list=PLXa5k-zW5T_0HoABfZADoiPbHWuZio_ib)
-5. [Ultimate Python](https://www.youtube.com/c/UltimatePython)
-6. [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+6. [Ultimate Python](https://www.youtube.com/c/UltimatePython)
+7. [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+
+## PYGAME
+1. [TECHWITHTIM : pygame-tutorial](https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/)
+2. [TECHWITHTIM : tetris-pygame](https://www.techwithtim.net/tutorials/game-development-with-python/tetris-pygame/)
+3. [TECHWITHTIM : snake-pygame](https://www.techwithtim.net/tutorials/game-development-with-python/snake-pygame/)
+4. [TECHWITHTIM : side-scroller-pygame](https://www.techwithtim.net/tutorials/game-development-with-python/side-scroller-pygame/)
+5. [YT Series : Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
 ## FreeCodeCamp
 1. [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
