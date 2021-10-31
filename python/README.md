@@ -37,8 +37,12 @@
 1. [TECHWITHTIM : pygame-tutorial](https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/)
 2. [TECHWITHTIM : tetris-pygame](https://www.techwithtim.net/tutorials/game-development-with-python/tetris-pygame/)
 3. [TECHWITHTIM : snake-pygame](https://www.techwithtim.net/tutorials/game-development-with-python/snake-pygame/)
-4. [TECHWITHTIM : side-scroller-pygame](https://www.techwithtim.net/tutorials/game-development-with-python/side-scroller-pygame/)
-5. [YT Series : Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+4. [TECHWITHTIM : Car Racing](https://www.youtube.com/watch?v=L3ktUWfAMPg&list=PLzMcBGfZo4-kmY7Nh4kI9kPPnxJ5JMRPj)
+5. [TECHWITHTIM : side-scroller-pygame](https://www.techwithtim.net/tutorials/game-development-with-python/side-scroller-pygame/)
+6. [YT Series : Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+7. [UDEMY : 2D Game Development for Beginners in Python from scratch (CAR)](https://www.udemy.com/course/draft/2322332/learn/lecture/14382554?start=0#overview)
+8. [UDEMY : Asteroids with Python PyGame](https://www.udemy.com/course/asteroids-with-python-pygame/learn/lecture/28293566?start=0#overview)
+
 
 ## FreeCodeCamp
 1. [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
