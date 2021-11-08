@@ -7,94 +7,100 @@
 - [Narin Group: [Robot] การใช้ชุดขับมอเตอร์ L298N Dual H-Bridge Motor Controller](http://naringroup.blogspot.com/2016/03/robot-l298n-dual-h-bridge-motor.html)
 
 ### Clock
-[Mini LED Clock](https://123led.wordpress.com/mini-led-clock/)
-[32x8-Dot-Matrix-Clock](https://github.com/ioxhop/32x8-Dot-Matrix-Clock/tree/master/Clock_ESP8266)
-[Dot Matrix แสดงภาษาไทย](https://www.youtube.com/user/mrcybero/search?query=DOT)
-[Nodemcu ( esp8266 ) and max7219 led matrix display](https://www.youtube.com/watch?v=dzuMXUQwKx8)
-[การเขียนโปรแกรม Arduino ติดต่อกับ Dotmatrix](https://www.youtube.com/watch?v=GjYIhbgLgCc)
+- [Mini LED Clock](https://123led.wordpress.com/mini-led-clock/)
+- [32x8-Dot-Matrix-Clock](https://github.com/ioxhop/32x8-Dot-Matrix-Clock/tree/master/Clock_ESP8266)
+- [Dot Matrix แสดงภาษาไทย](https://www.youtube.com/user/mrcybero/search?query=DOT)
+- [Nodemcu ( esp8266 ) and max7219 led matrix display](https://www.youtube.com/watch?v=dzuMXUQwKx8)
+- [การเขียนโปรแกรม Arduino ติดต่อกับ Dotmatrix](https://www.youtube.com/watch?v=GjYIhbgLgCc)
 
 ### Dot Matrix
-[Game with 8x8 LED matrix on Arduino](http://blog.itdxer.com/2016/09/26/arduino-game.html)
-[Gammon Forum : Electronics : Microprocessors : Interfacing LED displays with the MAX7219 driver](http://www.gammon.com.au/forum/?id=11516)
-[Arduino Dot Matrix Game Console: 7 Steps (with Pictures)](https://www.instructables.com/id/Arduino-Dot-Matrix-Game-Console/)
-[cool LED Matrix](https://www.facebook.com/watch/?v=548443945598391)
-[LedControl](http://wayoda.github.io/LedControl/pages/software)
+- [Game with 8x8 LED matrix on Arduino](http://blog.itdxer.com/2016/09/26/arduino-game.html)
+- [Gammon Forum : Electronics : Microprocessors : Interfacing LED displays with the MAX7219 driver](http://www.gammon.com.au/forum/?id=11516)
+- [Arduino Dot Matrix Game Console: 7 Steps (with Pictures)](https://www.instructables.com/id/Arduino-Dot-Matrix-Game-Console/)
+- [cool LED Matrix](https://www.facebook.com/watch/?v=548443945598391)
+- [LedControl](http://wayoda.github.io/LedControl/pages/software)
 
 ### Graphic
-[ออกแบบจอกราฟฟิก](https://www.facebook.com/groups/arduino.thai/permalink/3079294805446609/)
-[Dot Matrix : Sakda](https://www.facebook.com/groups/arduino.thai/permalink/3443815432327876/)
+- [ออกแบบจอกราฟฟิก](https://www.facebook.com/groups/arduino.thai/permalink/3079294805446609/)
+- [Dot Matrix : Sakda](https://www.facebook.com/groups/arduino.thai/permalink/3443815432327876/)
 
 ### PID 
-[PID สำหรับ มอเตอร์ DC](https://medium.com/@waratep/pid-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-dc-8014f79b5a7d)
-[สอนการใช้ PID ประยุกต์กับหุ่นยนต์เดินตามเส้นเบื้องต้น](https://www.youtube.com/watch?v=zVbqXbINK68)
-[Hardware Demo of a Digital PID Controller](https://www.youtube.com/watch?v=fusr9eTceEo)
-[Arduino-PID-AutoTune-Library](https://github.com/br3ttb/Arduino-PID-AutoTune-Library)
-[ตัวอย่างโปรแกรมหุ่นยนต์เดินตามเส้นแบบ PID](http://www.princebot.net/article/12/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A-pid-%E0%B8%A2%E0%B9%89%E0%B8%B3%E0%B8%99%E0%B8%B0%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87-555?fbclid=IwAR2NVzwmXdKiw4FscjEYYgxv3u5igfzFLtJnnEiq31QDFzd4GaytqM1-DLo)
-[Segway_Mega2560_V3](https://github.com/QuadTinnakon/Segway_Mega2560_V3)
+- [PID สำหรับ มอเตอร์ DC](https://medium.com/@waratep/pid-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-dc-8014f79b5a7d)
+- [สอนการใช้ PID ประยุกต์กับหุ่นยนต์เดินตามเส้นเบื้องต้น](https://www.youtube.com/watch?v=zVbqXbINK68)
+- [Hardware Demo of a Digital PID Controller](https://www.youtube.com/watch?v=fusr9eTceEo)
+- [Arduino-PID-AutoTune-Library](https://github.com/br3ttb/Arduino-PID-AutoTune-Library)
+- [ตัวอย่างโปรแกรมหุ่นยนต์เดินตามเส้นแบบ PID](http://www.princebot.net/article/12/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A-pid-%E0%B8%A2%E0%B9%89%E0%B8%B3%E0%B8%99%E0%B8%B0%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87-555?fbclid=IwAR2NVzwmXdKiw4FscjEYYgxv3u5igfzFLtJnnEiq31QDFzd4GaytqM1-DLo)
+- [Segway_Mega2560_V3](https://github.com/QuadTinnakon/Segway_Mega2560_V3)
 
 ### SOUND 
-
-<h2>Sound </h2>
-<ol>
-    <li> <a href="http://chiptuneminute.blogspot.com/">CHIPTUNEMINUTE </a></li>
-    <li> <a href="https://makezine.com/projects/make-35/advanced-arduino-sound-synthesis/">Skill Builder: Advanced Arduino Sound Synthesis </a></li> 
-    <li> <a href="https://medium.com/sathittham/arduino-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%94%E0%B8%B1%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-buzzer-b32b0482e8d8   ">[Arduino] เสียงดังด้วย Buzzer – Sathittham’s Blog – Medium </a></li> 
-    <li> <a href="https://blog.yavilevich.com/2016/08/arduino-sound-level-meter-and-spectrum-analyzer/">Arduino sound level meter and spectrum analyzer </a></li>
-    <li> <a href="https://www.instructables.com/id/Arduino-Pulse-Width-Modulation-Digital-to-Analog-C/">Arduino Pulse-Width Modulation Digital to Analog Conversion </a></li>
-    <li> <a href="http://pcarduino.blogspot.com/2013/11/arduino-r-2r-ladder-audio-dac.html">Arduino R-2R ladder Audio DAC </a></li>  
-    <li> <a href="https://create.arduino.cc/projecthub/connornishijima/tone-with-8-bit-volume-control-no-extra-components-370c66?ref=platform&ref_id=424_recent___&offset=8">Tone() with 8-bit Volume Control </a></li>
-    <li> <a href="https://www.instructables.com/id/Arduino-Audio-Output/">Arduino Audio Output</a></li>  
-  </ol> 
-
-<h2>Robot </h2>
-<ol>
-  <li> <a href="https://www.facebook.com/iot.kmutnb/posts/286096828677745">T-Bots Self-Balancing Robot  </a></li>    
-  <li> <a href="https://maker.pro/arduino/projects/build-arduino-self-balancing-robot/">How to Build an Arduino Self-Balancing Robot </a></li>  
-  <li> <a href="https://www.facebook.com/groups/248804759327872/permalink/295699811305033/">คลิปการแข่งขัน Maze Runner </a></li>  
-  <li> <a href="https://www.instructables.com/id/SMARTPHONE-CONTROLLED-ROBOT-USING-BLE-40-/?fbclid=IwAR29miQnXxocnD0syK2yWMxKFcAdHk2_vFhQHyx5Jjn3rdmpHoHi2tfVg3g">SMARTPHONE CONTROLLED ROBOT </a></li>
-  <li> <a href="https://www.facebook.com/krumonrobot/videos/2779247108756002/">การแข่งหุ่นยนต์ระดับกลาง ม.ปลาย </a></li>
-  <li> <a href="https://www.facebook.com/watch/?v=482581338920494">#iBITRobotKit </a></li>
-  <li> <a href="https://www.facebook.com/watch/?v=289365478400888">ตัวอย่าง </a></li>  
-  <li> <a href="https://www.instructables.com/id/InstaBots-Upright-Rover/">SainSmart InstaBots Upright Rover(Self-Balancing Robot With Arduino) </a></li>    
-  <li> <a href="https://www.instructables.com/id/Arduino-Self-Balancing-Robot-1/?fbclid=IwAR0GhxMe6stV3ckEICx9YI5F6jkDXjyIZXFTp3wGXKFYKbfdRrUqtId0wLU">Arduino Self-Balancing Robot</a></li>      
-  <li> <a href="https://www.youtube.com/watch?v=ETPhiqBqXEY&fbclid=IwAR10eX_h0YlIIHorL2tO662mTfQun0A1aRjzYKv1ebtaX-Qgm9Y03PthtLw">Mini Robot Car </a></li>    
-  <li> <a href="https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot?fbclid=IwAR04Ub61W0Xh3NxR3Vi8CqqGMzwj_lMzpiTOMSvCRGp4_YwMF3Khw6Lveew">DIY Self Balancing Robot using Arduino </a></li>  
-  <li> <a href="https://www.facebook.com/watch/?v=289365478400888">ตัวอย่าง </a></li>    
-  <li> <a href="https://www.instructables.com/id/Making-the-Spielatron-Robotic-Glockenspiel/">Making the Spielatron (Robotic Glockenspiel) ติ้งหน่อง</a></li>      
-  <li> <a href="https://www.instructables.com/Line-Follower-Robot-With-Arduino-Really-Fast-and-R/ ">Line Follower Robot With Arduino - Very Fast and Very Simple</a></li> 
-  <li> <a href="https://create.arduino.cc/projecthub/cparrapa/otto-diy-build-your-own-robot-in-one-hour-5f2a1c ">Otto DIY build your own robot</a></li>    
-  <li> <a href="https://www.youtube.com/watch?v=Jjuc5SBl25w ">Maze solving robot with Shortest Path</a></li>  
-  <li> <a href="https://www.youtube.com/watch?v=9Gax_hVO2xc ">Maze Solving Robot - MIT Carte Blanche</a></li>
-
-  </ol> 
-  
-<h2>Bluetooth </h2>
-<ol>
-    <li> <a href="https://mcuoneclipse.com/2013/06/19/using-the-hc-06-bluetooth-module/">Using the HC-06 Bluetooth Module </a></li> 
-    <li> <a href="https://archive.cmmakerclub.com/2016/10/micro/arduino-2/arduino-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%97%E0%B8%B9%E0%B8%98-hc05-%E0%B9%81%E0%B8%A5/">ตั้งค่าโมดูลบลูทูธ HC05 และ HC06 เพื่อติดต่อสื่อสารกันด้วย AT Command </a></li>   
-    <li> <a href="http://noderedsupotsaeea.blogspot.com/2017/01/ibeacon-hm10-ble-bluetooth-low-energy.html">iBeacon ด้วย HM10 BLE (Bluetooth Low Energy)  </a></li> 
- </ol> 
+- [CHIPTUNEMINUTE](http://chiptuneminute.blogspot.com/)
+- [Skill Builder: Advanced Arduino Sound Synthesis](https://makezine.com/projects/make-35/advanced-arduino-sound-synthesis/)
+- [[Arduino] เสียงดังด้วย Buzzer – Sathittham’s Blog – Medium](https://medium.com/sathittham/arduino-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%94%E0%B8%B1%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-buzzer-b32b0482e8d8)
+- [Arduino sound level meter and spectrum analyzer](https://blog.yavilevich.com/2016/08/arduino-sound-level-meter-and-spectrum-analyzer/)
+- [Arduino Pulse-Width Modulation Digital to Analog Conversion](https://www.instructables.com/id/Arduino-Pulse-Width-Modulation-Digital-to-Analog-C/)
+- [Arduino R-2R ladder Audio DAC](http://pcarduino.blogspot.com/2013/11/arduino-r-2r-ladder-audio-dac.html)
+- [Tone() with 8-bit Volume Control](https://create.arduino.cc/projecthub/connornishijima/tone-with-8-bit-volume-control-no-extra-components-370c66?ref=platform&ref_id=424_recent___&offset=8)
+- [Arduino Audio Output](https://www.instructables.com/id/Arduino-Audio-Output/)
  
- <h2>Timer </h2>
-<ol>
-    <li> <a href="http://exploreembedded.com/wiki/AVR_Timer_Interrupts">AVR Timer Interrupts  </a></li>    
-    <li> <a href="https://exploreembedded.com/wiki/AVR_Timer_programming">AVR Timer programming   </a></li>    
-    <li> <a href="https://menglab.blogspot.com/2018/06/timer1.html?m=1&fbclid=IwAR19pEAIHbdNqHlYlcuVS3bGg2D3Fqc9xmtM0lg5PPiOW4jM1oXkp8dGLDQ">ทดลองใช้งาน Timer1 บนอาดุยโน่   </a></li>      
-</ol>   
- 
-<h2>CNC </h2>
-<ol> 
-    <li> <a href="https://www.zonemaker.com/">สินค้าโดย MAKER เพื่อ MAKER </a></li> 
-    <li> <a href="https://www.instructables.com/id/DIY-Arduino-Drawing-Machine/">DIY Arduino CNC Drawing Machine </a></li> 
-    <li> <a href="https://aofcnc.blogspot.com/">cnc เด็กหัดเดิน  </a></li> 
-    <li> <a href="http://panmaneecnc.blogspot.com/2017/04/cnc-controller-estlcam.html">Minicnc  </a></li> 
-    <li> <a href="https://create.arduino.cc/projecthub/me_zain/mini-arduino-cnc-7e4e30?ref=platform&ref_id=424_recent_30days__&offset=7">Mini Arduino CNC </a></li> 
-    <li> <a href="https://www.facebook.com/watch/?v=361326701170840">EggBot </a></li>   
-    <li> <a href="https://hackaday.com/2018/09/16/drawbot-badge-represents-the-cnc-world-in-badge-design/?fbclid=IwAR2vH6CknObMbmIQS4-zJtGG3SmvESfHda_eEAvmeM2Q4w30W6dAWlu2gVg">DrawBot </a></li>   
-    <li> <a href="https://www.youtube.com/watch?v=nkO8--Zyl8w&fbclid=IwAR3f64QE2mOCTIzxP_FgYciMMt97FSWsZyr6h0VVZEfCqPCv75O7VAEZucU">How To Make Homework Writing Machine at Home </a></li>     
-</ol>
+### ROBOT
+- [T-Bots Self-Balancing Robot](https://www.facebook.com/iot.kmutnb/posts/286096828677745)
+- [How to Build an Arduino Self-Balancing Robot](https://maker.pro/arduino/projects/build-arduino-self-balancing-robot/)
+- [คลิปการแข่งขัน Maze Runner](https://www.facebook.com/groups/248804759327872/permalink/295699811305033/)
+- [SMARTPHONE CONTROLLED ROBOT](https://www.instructables.com/id/SMARTPHONE-CONTROLLED-ROBOT-USING-BLE-40-/)
+- [การแข่งหุ่นยนต์ระดับกลาง ม.ปลาย ](https://www.facebook.com/krumonrobot/videos/2779247108756002/)
+- [iBITRobotKit](https://www.facebook.com/watch/?v=482581338920494)
+- [ตัวอย่าง](https://www.facebook.com/watch/?v=289365478400888)
+- [SainSmart InstaBots Upright Rover(Self-Balancing Robot With Arduino)](https://www.instructables.com/id/InstaBots-Upright-Rover/)
+- [Arduino Self-Balancing Robot](https://www.instructables.com/id/Arduino-Self-Balancing-Robot-1/)
+- [Mini Robot Car](https://www.youtube.com/watch?v=ETPhiqBqXEY)
+- [DIY Self Balancing Robot using Arduino](https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot)
+- [ตัวอย่าง](https://www.facebook.com/watch/?v=289365478400888)
+- [Making the Spielatron (Robotic Glockenspiel) ติ้งหน่อง](https://www.instructables.com/id/Making-the-Spielatron-Robotic-Glockenspiel/)
+- [Line Follower Robot With Arduino - Very Fast and Very Simple](https://www.instructables.com/Line-Follower-Robot-With-Arduino-Really-Fast-and-R/ )
+- [Otto DIY build your own robot](https://create.arduino.cc/projecthub/cparrapa/otto-diy-build-your-own-robot-in-one-hour-5f2a1c)
+- [Maze solving robot with Shortest Path](https://www.youtube.com/watch?v=Jjuc5SBl25w)
+- [Maze Solving Robot - MIT Carte Blanche](https://www.youtube.com/watch?v=9Gax_hVO2xc)
 
-<h3>Project</h3>
+   
+### Bluetooth
+- [Using the HC-06 Bluetooth Module](https://mcuoneclipse.com/2013/06/19/using-the-hc-06-bluetooth-module/)
+- [ตั้งค่าโมดูลบลูทูธ HC05 และ HC06 เพื่อติดต่อสื่อสารกันด้วย AT Command](https://archive.cmmakerclub.com/2016/10/micro/arduino-2/arduino-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%97%E0%B8%B9%E0%B8%98-hc05-%E0%B9%81%E0%B8%A5/)
+- [iBeacon ด้วย HM10 BLE (Bluetooth Low Energy)](http://noderedsupotsaeea.blogspot.com/2017/01/ibeacon-hm10-ble-bluetooth-low-energy.html)
+
+### Timer
+- [AVR Timer Interrupts](http://exploreembedded.com/wiki/AVR_Timer_Interrupts)
+- [AVR Timer programming ](https://exploreembedded.com/wiki/AVR_Timer_programming)
+- [Pin Change Interruptions ISR | PCINT | Arduino101](https://www.youtube.com/watch?v=ZDtRWmBMCmw)
+- [Timer Interrupt Register Configuration in Arduino](https://www.youtube.com/watch?v=-Mk98R5D9ZI)
+- [Timer Interrupt ISR + Examples | Arduino101](https://www.youtube.com/watch?v=Uv9UeYUsA8A&list=PLsR1AO4QH1AyR0HEQH9eq53K9RSfzXsbD&index=5)
+- [Internal Comparator | Full Tutorial On How To Use It](https://www.youtube.com/watch?v=0vRF8Ce9umE&list=PLsR1AO4QH1AwuEGl7D0rM45HWpjgxaZ5r&index=3)
+- [Tutorial: Using Comparator Interrupts with the Arduino at the example of a Microphone](https://www.youtube.com/watch?v=QdJrJXQaiy8)
+- [Arduino 101: Timers and Interrupts](https://www.robotshop.com/community/forum/t/arduino-101-timers-and-interrupts/13072)
+
+### FreeRTOS
+- [FreeRTOS Arduino Tutorials](https://microcontrollerslab.com/use-freertos-arduino/)
+- [Using FreeRTOS with Arduino AVR [1]](https://rawats.medium.com/using-freertos-with-arduino-avr-1-79372ed93dbb)
+- [Using FreeRTOS with Arduino AVR [2]](https://rawats.medium.com/using-freertos-with-arduino-avr-2-1f0808edd5ce)
+- [Uing FreeRTOS with Arduino AVR [3]](https://rawats.medium.com/using-freertos-with-arduino-avr-3-556d56f93654)
+- [Using FreeRTOS with Arduino AVR [4]](https://rawats.medium.com/using-freertos-with-arduino-avr-4-3873845d732)
+
+### Assembly
+- [ASM_Blink.S](https://github.com/RalphBacon/202-Assembler-for-Arduino/blob/main/Arduino_Assembler_Blink/ASM_Blink.S)
+- [การเขียน ภาษา Assembly กับ Arduino Uno ATmega328P](http://www.lungmaker.com/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-assembly-%E0%B8%81%E0%B8%B1%E0%B8%9A-arduino-uno-atmega328p/)
+
+### CNC
+- [สินค้าโดย MAKER เพื่อ MAKER](https://www.zonemaker.com/)
+- [DIY Arduino CNC Drawing Machine](https://www.instructables.com/id/DIY-Arduino-Drawing-Machine/)
+- [cnc เด็กหัดเดิน](https://aofcnc.blogspot.com/)
+- [Minicnc](http://panmaneecnc.blogspot.com/2017/04/cnc-controller-estlcam.html)
+- [Mini Arduino CNC](https://create.arduino.cc/projecthub/me_zain/mini-arduino-cnc-7e4e30?ref=platform&ref_id=424_recent_30days__&offset=7)
+- [EggBot](https://www.facebook.com/watch/?v=361326701170840)
+- [DrawBot](https://hackaday.com/2018/09/16/drawbot-badge-represents-the-cnc-world-in-badge-design/)
+- [How To Make Homework Writing Machine at Home](https://www.youtube.com/watch?v=nkO8--Zyl8w)
+
+### Project
+
+
 <ol>
 <li> <a href="https://blog.arduino.cc/2018/12/10/this-one-button-device-can-do-many-things/   ">Arduino Blog » This one-button device can do many things </a></li>  
 <li> <a href="https://www.reddit.com/r/arduino/comments/6sdtxr/arduino_emulating_an_8086_pc_a_work_in_progress/   ">Arduino emulating an 8086 PC (a work in progress, but it's working) : arduino </a></li>  
