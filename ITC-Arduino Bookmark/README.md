@@ -1,47 +1,38 @@
 # ITC & Arduino
 
-<h2>Motor </h2>
-<ol>
-  <li> <a href="http://thaiopensource.org/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-arduino-robot-%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-android-app-bluetooth-joystick-%E0%B8%81/">มาเล่น-arduino-robot-ควบคุมด้วย-android-app-bluetooth-joystick</a></li>
-  <li> <a href="https://www.instructables.com/id/Arduino-Modules-L298N-Dual-H-Bridge-Motor-Controll/">Arduino Modules - L298N Dual H-Bridge Motor Controller</a></li>
-  <li> <a href="https://www.ioxhop.com/article/99/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B5%E0%B8%8B%E0%B8%B5?fbclid=IwAR0JKo-iTfs7XFO-1knfLJhEn0jcEHd5qx_mcj1P0ApHWc4cyECSUgx-NSw">การควบคุมมอเตอร์ดีซี</a></li>  
-<li> <a href="http://naringroup.blogspot.com/2016/03/robot-l298n-dual-h-bridge-motor.html">Narin Group: [Robot] การใช้ชุดขับมอเตอร์ L298N Dual H-Bridge Motor Controller</a></li>
+### Motor 
+[มาเล่น-arduino-robot-ควบคุมด้วย-android-app-bluetooth-joystick](http://thaiopensource.org/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-arduino-robot-%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-android-app-bluetooth-joystick-%E0%B8%81/)
+[Arduino Modules - L298N Dual H-Bridge Motor Controller](https://www.instructables.com/id/Arduino-Modules-L298N-Dual-H-Bridge-Motor-Controll/)
+[การควบคุมมอเตอร์ดีซี](https://www.ioxhop.com/article/99/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B5%E0%B8%8B%E0%B8%B5)
+[Narin Group: [Robot] การใช้ชุดขับมอเตอร์ L298N Dual H-Bridge Motor Controller](http://naringroup.blogspot.com/2016/03/robot-l298n-dual-h-bridge-motor.html)
 
-</ol>  
+### Clock
+[Mini LED Clock](https://123led.wordpress.com/mini-led-clock/)
+[32x8-Dot-Matrix-Clock](https://github.com/ioxhop/32x8-Dot-Matrix-Clock/tree/master/Clock_ESP8266)
+[Dot Matrix แสดงภาษาไทย](https://www.youtube.com/user/mrcybero/search?query=DOT)
+[Nodemcu ( esp8266 ) and max7219 led matrix display](https://www.youtube.com/watch?v=dzuMXUQwKx8)
+[การเขียนโปรแกรม Arduino ติดต่อกับ Dotmatrix](https://www.youtube.com/watch?v=GjYIhbgLgCc)
 
-<h2>Clock </h2>
-<ol>
-    <li> <a href="https://123led.wordpress.com/mini-led-clock/">Mini LED Clock</a></li>
-    <li> <a href="https://github.com/ioxhop/32x8-Dot-Matrix-Clock/tree/master/Clock_ESP8266">32x8-Dot-Matrix-Clock</a></li>  
-    <li> <a href="https://www.youtube.com/user/mrcybero/search?query=DOT">Dot Matrix แสดงภาษาไทย</a></li>
-    <li> <a href="https://www.youtube.com/watch?v=dzuMXUQwKx8&feature=youtu.be">Nodemcu ( esp8266 ) and max7219 led matrix display</a></li>  
-    <li> <a href="https://www.youtube.com/watch?v=GjYIhbgLgCc">การเขียนโปรแกรม Arduino ติดต่อกับ Dotmatrix</a></li>  
-</ol>  
+### Dot Matrix
+[Game with 8x8 LED matrix on Arduino](http://blog.itdxer.com/2016/09/26/arduino-game.html)
+[Gammon Forum : Electronics : Microprocessors : Interfacing LED displays with the MAX7219 driver](http://www.gammon.com.au/forum/?id=11516)
+[Arduino Dot Matrix Game Console: 7 Steps (with Pictures)](https://www.instructables.com/id/Arduino-Dot-Matrix-Game-Console/)
+[cool LED Matrix](https://www.facebook.com/watch/?v=548443945598391)
+[LedControl](http://wayoda.github.io/LedControl/pages/software)
 
-<h3>Dot Matrix</h3>
-<ol>
-  <li> <a href="http://blog.itdxer.com/2016/09/26/arduino-game.html">Game with 8x8 LED matrix on Arduino</a></li>
-<li> <a href="http://www.gammon.com.au/forum/?id=11516">Gammon Forum : Electronics : Microprocessors : Interfacing LED displays with the MAX7219 driver</a></li>
-<li> <a href="https://www.instructables.com/id/Arduino-Dot-Matrix-Game-Console/">Arduino Dot Matrix Game Console: 7 Steps (with Pictures)/a></li>
-<li> <a href="https://www.facebook.com/highvoltagestech/videos/548443945598391/?hc_ref=ARQ8Lxem58tjdyesdXL06np7Su1mCi4n2uiNdybE-iy5wdBojvo531o1AfuvT8xV2Iw&__xts__[0]=68.ARBft21na3ClHUaxc-6LxtBfIlUqdGZlhsWT4cdSPwj_tKkZhfKJzX0mlAdDgTR57_FcVrsYBpI8WJwXVjKrbmgr4gZHtQoTndErHkelUjXjD7bKSvwBetYS18fmgv_yDMkMz7TXXfwSRbvAFrF9Fbj2O6xuxj05DhOVp3Cm5mMCjlBhiDAB4n6_HwPAWGRmNATYb0wZ7QShHrpDhs1XwbHlyUoWBqRZPin0uR8DwA&__tn__=FC-R">Facebook </a></li>
-<li> <a href="http://wayoda.github.io/LedControl/pages/software">LedControl</a></li>
-</ol>
+### Graphic
+[ออกแบบจอกราฟฟิก](https://www.facebook.com/groups/arduino.thai/permalink/3079294805446609/)
+[Dot Matrix : Sakda](https://www.facebook.com/groups/arduino.thai/permalink/3443815432327876/)
 
-<h2>Graphic </h2>
-<ol>
-    <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/3079294805446609/">ออกแบบจอกราฟฟิก</a></li>  
-    <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/3443815432327876/">Dot Matrix : Sakda </a></li>    
-</ol>  
+### PID 
+[PID สำหรับ มอเตอร์ DC](https://medium.com/@waratep/pid-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-dc-8014f79b5a7d)
+[สอนการใช้ PID ประยุกต์กับหุ่นยนต์เดินตามเส้นเบื้องต้น](https://www.youtube.com/watch?v=zVbqXbINK68)
+[Hardware Demo of a Digital PID Controller](https://www.youtube.com/watch?v=fusr9eTceEo)
+[Arduino-PID-AutoTune-Library](https://github.com/br3ttb/Arduino-PID-AutoTune-Library)
+[ตัวอย่างโปรแกรมหุ่นยนต์เดินตามเส้นแบบ PID](http://www.princebot.net/article/12/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A-pid-%E0%B8%A2%E0%B9%89%E0%B8%B3%E0%B8%99%E0%B8%B0%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87-555?fbclid=IwAR2NVzwmXdKiw4FscjEYYgxv3u5igfzFLtJnnEiq31QDFzd4GaytqM1-DLo)
+[Segway_Mega2560_V3](https://github.com/QuadTinnakon/Segway_Mega2560_V3)
 
-<h2>PID </h2>
-<ol>
-    <li> <a href="https://medium.com/@waratep/pid-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-dc-8014f79b5a7d">PID สำหรับ มอเตอร์ DC</a></li>
-    <li> <a href="https://www.youtube.com/watch?v=zVbqXbINK68">สอนการใช้ PID ประยุกต์กับหุ่นยนต์เดินตามเส้นเบื้องต้น</a></li>
-    <li> <a href="https://www.youtube.com/watch?v=fusr9eTceEo">Hardware Demo of a Digital PID Controller</a></li>
-    <li> <a href="https://github.com/br3ttb/Arduino-PID-AutoTune-Library">Arduino-PID-AutoTune-Library</a></li>
-    <li> <a href="http://www.princebot.net/article/12/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A-pid-%E0%B8%A2%E0%B9%89%E0%B8%B3%E0%B8%99%E0%B8%B0%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87-555?fbclid=IwAR2NVzwmXdKiw4FscjEYYgxv3u5igfzFLtJnnEiq31QDFzd4GaytqM1-DLo">ตัวอย่างโปรแกรมหุ่นยนต์เดินตามเส้นแบบ PID</a></li>
-    <li> <a href="https://github.com/QuadTinnakon/Segway_Mega2560_V3">Segway_Mega2560_V3 </a></li>
-</ol> 
+### SOUND 
 
 <h2>Sound </h2>
 <ol>
