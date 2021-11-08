@@ -83,6 +83,7 @@
 - [Using FreeRTOS with Arduino AVR [2]](https://rawats.medium.com/using-freertos-with-arduino-avr-2-1f0808edd5ce)
 - [Uing FreeRTOS with Arduino AVR [3]](https://rawats.medium.com/using-freertos-with-arduino-avr-3-556d56f93654)
 - [Using FreeRTOS with Arduino AVR [4]](https://rawats.medium.com/using-freertos-with-arduino-avr-4-3873845d732)
+- [Digikey - FreeRTOS Series](https://www.digikey.com/en/maker/search-results?g=newest&k=RTOS&y=13825c8674444e22884d8d26197819d1)
 
 ### Assembly
 - [ASM_Blink.S](https://github.com/RalphBacon/202-Assembler-for-Arduino/blob/main/Arduino_Assembler_Blink/ASM_Blink.S)
