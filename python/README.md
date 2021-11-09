@@ -2,6 +2,7 @@
 ## Case Study
 1. [50 Python Projects with Source Code](https://dev.to/kiransethu46/50-python-projects-with-source-code-2n7g)
 2. [GitHub : A basic calculator using Tkinter GUI](https://github.com/Rogerup/Tkalc)
+3. [Snake in Excel with Python (& xlwings)](https://www.youtube.com/watch?v=kayebcQ8pFw)
 
 ## โจทย์ 
 1. [Project Euler](https://projecteuler.net/archives)
@@ -42,6 +43,7 @@
 6. [YT Series : Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 7. [UDEMY : 2D Game Development for Beginners in Python from scratch (CAR)](https://www.udemy.com/course/draft/2322332/learn/lecture/14382554?start=0#overview)
 8. [UDEMY : Asteroids with Python PyGame](https://www.udemy.com/course/asteroids-with-python-pygame/learn/lecture/28293566?start=0#overview)
+9. [Creating a platformer in Pygame with a camera, collisions, animation states and particle effects](https://www.youtube.com/watch?v=YWN8GcmJ-jA)
 
 
 ## FreeCodeCamp
@@ -88,8 +90,7 @@
 20. [Python for Absolute Beginners Course](https://training.talkpython.fm/courses/explore_beginners/python-for-absolute-beginners?utm_source=talkpython)
 21. [MASTERMIND](http://www.easysurf.cc/master3.htm)
 22. [Python_Mathayom_1_2_3.ipynb](https://colab.research.google.com/drive/1rm-kW7Nh5q3kk9JsnvBea2oUr42W9GIF#scrollTo=UA3GRRX3iees)
-23. 
-
+23. [damien-hirst](https://www.phillips.com/detail/damien-hirst/UK010120/16)
 
 
 
