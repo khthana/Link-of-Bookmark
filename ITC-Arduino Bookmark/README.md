@@ -107,6 +107,7 @@
 
 ### Project
 - [AI บันทึกเสียงจากป่า](https://www.facebook.com/groups/birdwatchersclub/permalink/4340540159309488/)
+- [Top 10 ESP8266 projects to try in 2021!](https://www.youtube.com/watch?v=hCypun_D43c)
 - [Piano Tiles 2 Robot | HIGHSCORE | Piano Tiles Auto Player | Hack](https://www.youtube.com/watch?v=5jsPdwsDeDo)
 - [Arduino Web Radio Player](https://www.hackster.io/tommyho/arduino-web-radio-player-c4cb23)
 - [Arduino Project EP3](https://www.youtube.com/watch?v=piRVK1rNafw)
