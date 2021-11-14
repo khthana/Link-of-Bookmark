@@ -85,10 +85,15 @@
 - [Using FreeRTOS with Arduino AVR [4]](https://rawats.medium.com/using-freertos-with-arduino-avr-4-3873845d732)
 - [Digikey - FreeRTOS Series](https://www.digikey.com/en/maker/search-results?g=newest&k=RTOS&y=13825c8674444e22884d8d26197819d1)
 
-### Assembly
+### Assembly & LOW LEVEL
 - [ASM_Blink.S](https://github.com/RalphBacon/202-Assembler-for-Arduino/blob/main/Arduino_Assembler_Blink/ASM_Blink.S)
 - [การเขียน ภาษา Assembly กับ Arduino Uno ATmega328P](http://www.lungmaker.com/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-assembly-%E0%B8%81%E0%B8%B1%E0%B8%9A-arduino-uno-atmega328p/)
 - [Level Up Your Arduino Code: Registers](https://www.youtube.com/watch?v=6q1yEb_ukw8)
+- [Using EEPROM with Arduino - Internal & External](https://www.youtube.com/watch?v=ShqvATqXA7g&list=RDCMUCzml9bXoEM0itbcE96CB03w&index=7)
+- [สอน Arduino Tutorial : Arduino Watch Dog Timer](https://www.allnewstep.com/article/120/31-%E0%B8%AA%E0%B8%AD%E0%B8%99-arduino-tutorial-arduino-watch-dog-timer)
+- [สอนใช้งาน Arduino คำสั่ง Watch Dog Timer ตรวจสอบการทำงานของโปรแกรม](https://www.allnewstep.com/article/257/57-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-arduino-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87-watch-dog-timer-%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1)
+- [Arduino สอนใช้งาน Arduino สื่อสารส่งข้อมูลกันแบบ I2C Arduino 3 บอร์ด](https://www.allnewstep.com/article/242/42-arduino-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-arduino-%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A-i2c-arduino-3-%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94)
+- [
 
 ### CNC
 - [สินค้าโดย MAKER เพื่อ MAKER](https://www.zonemaker.com/)
@@ -104,7 +109,6 @@
 - [AI บันทึกเสียงจากป่า](https://www.facebook.com/groups/birdwatchersclub/permalink/4340540159309488/)
 - [Piano Tiles 2 Robot | HIGHSCORE | Piano Tiles Auto Player | Hack](https://www.youtube.com/watch?v=5jsPdwsDeDo)
 - [Arduino Web Radio Player](https://www.hackster.io/tommyho/arduino-web-radio-player-c4cb23)
-- [
 - [Arduino Project EP3](https://www.youtube.com/watch?v=piRVK1rNafw)
 - [Arduino Project EP2](https://www.youtube.com/watch?v=tPtB1f01ov8)
 - [Arduino Project EP3](https://www.youtube.com/watch?v=j1Nx0rJfLyM)
