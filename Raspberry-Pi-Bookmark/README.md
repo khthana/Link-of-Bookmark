@@ -1,5 +1,8 @@
 # Raspberry Pi-Bookmark
 
+- [Tank Laser Tag Sherman & Panther](https://www.dfrobot.com/blog-1378.html)
+- [Programming Raspberry Pi Pico RP2040 with Arduino IDE](https://rawats.medium.com/programming-raspberry-pi-pico-rp2040-with-arduino-ide-a08eb8d662ab)
+
 <h2>NEW</h2>
 ทำ Raspberry Pi ให้เป็น WiFi Storage
 https://www.youtube.com/watch?v=_IBIO7dLRBw
