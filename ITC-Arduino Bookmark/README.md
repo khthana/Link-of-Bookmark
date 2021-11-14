@@ -88,6 +88,7 @@
 ### Assembly
 - [ASM_Blink.S](https://github.com/RalphBacon/202-Assembler-for-Arduino/blob/main/Arduino_Assembler_Blink/ASM_Blink.S)
 - [การเขียน ภาษา Assembly กับ Arduino Uno ATmega328P](http://www.lungmaker.com/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-assembly-%E0%B8%81%E0%B8%B1%E0%B8%9A-arduino-uno-atmega328p/)
+- [Level Up Your Arduino Code: Registers](https://www.youtube.com/watch?v=6q1yEb_ukw8)
 
 ### CNC
 - [สินค้าโดย MAKER เพื่อ MAKER](https://www.zonemaker.com/)
@@ -100,109 +101,101 @@
 - [How To Make Homework Writing Machine at Home](https://www.youtube.com/watch?v=nkO8--Zyl8w)
 
 ### Project
+- [AI บันทึกเสียงจากป่า](https://www.facebook.com/groups/birdwatchersclub/permalink/4340540159309488/)
+- [Piano Tiles 2 Robot | HIGHSCORE | Piano Tiles Auto Player | Hack](https://www.youtube.com/watch?v=5jsPdwsDeDo)
+- [Arduino Web Radio Player](https://www.hackster.io/tommyho/arduino-web-radio-player-c4cb23)
+- [
+- [Arduino Project EP3](https://www.youtube.com/watch?v=piRVK1rNafw)
+- [Arduino Project EP2](https://www.youtube.com/watch?v=tPtB1f01ov8)
+- [Arduino Project EP3](https://www.youtube.com/watch?v=j1Nx0rJfLyM)
+- [One wheel (unicycle) balancing robot with reaction wheel](https://www.youtube.com/watch?v=gMUbhUjxXhY)
+- [Arduino Blog » This one-button device can do many things](https://blog.arduino.cc/2018/12/10/this-one-button-device-can-do-many-things/)
+- [Arduino emulating an 8086 PC (a work in progress, but it's working) : arduino](https://www.reddit.com/r/arduino/comments/6sdtxr/arduino_emulating_an_8086_pc_a_work_in_progress/ )
+- [Oscilloscope in a Matchbox - Arduino: 13 Steps (with Pictures)](https://www.instructables.com/id/Oscilloscope-in-a-Matchbox-Arduino/)
+- [Arduino Pocket Tetris - Embedded Lab](http://embedded-lab.com/blog/arduino-pocket-tetris/)
+- [Arduino Blog » Ultrasonic Arduino-to-Arduino Communication](https://blog.arduino.cc/2018/06/01/ultrasonic-arduino-to-arduino-communication/)
+- [QuadTinnakon/Segway_Mega2560_V3](https://github.com/QuadTinnakon/Segway_Mega2560_V3)
+- [Making the Spielatron (Robotic Glockenspiel): 11 Steps (with Pictures)](http://www.instructables.com/id/Making-the-Spielatron-Robotic-Glockenspiel/)
+ 
+### ทั่วไป 
+- [micropython-ulab : Numpy Like](https://github.com/v923z/micropython-ulab)
+- [โปรแกรม Arduino IDE สำหรับใช้บน Visual Studio ](https://marketplace.visualstudio.com/items?itemName=VisualMicro.ArduinoIDEforVisualStudio)
+- [Top 10 Arduino Projects Of All Time](https://www.youtube.com/watch?v=3p6wQm_LqMo)
+- [ทำ programmer สำหรับเบิร์นโค้ด arduino](https://www.facebook.com/groups/arduino.thai/permalink/3117072668335489/)
+- [10 เทคนิคในการเขียนโค้ดภาษา C ทำให้ LED บนบอร์ด Ardiuno กระพริบ](https://www.facebook.com/iot.kmutnb/posts/479693739318052)
+- [LED Matrix Flow](https://www.facebook.com/watch/?v=548443945598391)
+- [Arduino Programming with VSCode](https://www.dmcinfo.com/latest-thinking/blog/id/9484/arduino-programming-with-vscode)
+- [ป้ายไฟวิ่งเล็กควบคุมผ่าน App Android](https://www.youtube.com/watch?v=NlbvbDItu1M)
+- [Plotclock](https://www.youtube.com/watch?v=2DZSj8b2RGw)
+- [เอกสารประกอบการเรียน การอินเตอร์เฟสไมโครโปรเซสเซอร์ ](http://narong.ece.engr.tu.ac.th/microlab/document/index.php)
+- [3-Bit Binary Calculator](https://create.arduino.cc/projecthub/22warehamD/3-bit-binary-calculator-using-arduino-uno-e9d93b)
+- [Homebrew Arduino Pulse Monitor](https://www.instructables.com/id/Homebrew-Arduino-Pulse-Monitor-Visualize-Your-Hear/)
+- [CD-ROM Stepper Motor with Arduino Motor Shield L293d](https://www.youtube.com/watch?v=3kZPqMbo1SY)
+- [Mini Robot Car](https://www.youtube.com/watch?v=ETPhiqBqXEY)
+- [DIY Pinball Game Machine](https://www.facebook.com/watch/?v=1048763375276008)
+- [Servo Robotic arm](https://www.youtube.com/watch?v=MCYJAyIXBdA)
+- [Make Your Own 1D Pong Game](https://www.instructables.com/id/Make-Your-Own-1D-Pong-Game/)
+- [การใช้งานจอแสดงผลกราฟิกโนเกีย (NOKIA 5110)](https://www.arduitronics.com/article/61/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2-nokia-5110)
+- [State Machine](https://www.bloggang.com/mainblog.php?id=zol&month=12-07-2009&group=10&gblog=119)
+- [Heartbeat Sensor](https://www.elprocus.com/heartbeat-sensor-working-application/)
+- [SN-2549 XH2.54 ](https://www.mcucity.com/product/864/sn-2549-xh2-54-sm-plug-terminal-spring-clamp-terminals-crimping-tool-crimping-pliers-for-d-sub-termi-2)
+- [Circuit Simulator](http://www.falstad.com/circuit/circuitjs.html)
+- [multi function shield examples](http://arduinolearning.com/code/multi-function-shield-examples.php)
+- [การสร้างสัญญาณ พัลส์วิดท์มอดูเลชั่น (PWM) แบบ Phase shitf ด้วย Arduino](https://eleceasy.com/t/pwm-phase-shitf-arduino/615?u=archer&fbclid=IwAR2RwIsnQVzpUj7Xgh6tUPCasMSXzszcGAkdA8LDw6l60_TX0PXP_BaTV-E)
+- [Arduino communication library for Peacefair PZEM-004T Energy monitor](https://github.com/olehs/PZEM004T?fbclid=IwAR0wEkSl6YYlXnZSZkSbzD4rrbrs5xzqeZpltDSQ3GwBxBGzI1RR3HW6MzQ)
+- [This one-button device can do many things](https://blog.arduino.cc/2018/12/10/this-one-button-device-can-do-many-things/)
+- [Oscilloscope in a Matchbox](https://www.instructables.com/id/Oscilloscope-in-a-Matchbox-Arduino/)
+- [Ultrasonic Arduino-to-Arduino Communication](https://blog.arduino.cc/2018/06/01/ultrasonic-arduino-to-arduino-communication/)
+- [Making the Spielatron](https://www.instructables.com/id/Making-the-Spielatron-Robotic-Glockenspiel/)
+- [Arduino Engineering Kit Drawing Robot](https://www.facebook.com/watch/?v=10155504756781641)
+- [Juggling Machine Listens To The Bounce To Keep Ball In The Air](https://hackaday.com/2018/07/25/juggling-machine-listens-to-the-bounce-to-keep-ball-in-the-air/
+- [Ping pong ball bounces forever under Arduino control](https://blog.arduino.cc/2018/07/25/ping-pong-ball-bounces-forever-under-arduino-control/)
+- [TOP 10 Arduino-Servo Motor Projects | 2018](https://www.youtube.com/watch?v=Ogm3ITBxkL8)
+- [Oscilloscope draw - XY mode](http://www.electronoobs.com/eng_arduino_tut63.php)
+- [Hungry Robot](https://www.youtube.com/watch?v=KfP_LfUiwdc)
+- [ArdOsc is a matchbox-sized, Arduino Nano-based oscilloscope]("https://blog.arduino.cc/2018/09/19/ardosc-is-a-matchbox-sized-arduino-nano-based-oscilloscope/)
+- [config ค่าต่างๆ ผ่าน Serial Port](https://www.facebook.com/groups/arduino.thai/permalink/2096062827103150/)
+- [It's A Bot Time](https://www.facebook.com/watch/?v=267197853955660)
+- [แนวทางการเรียนรู้ด้านระบบสมองกลฝังตัวด้วย Arduino](https://www.iot.eng.kmutnb.ac.th/pub/docs/2018/learning_with_arduino/)
+- [Burning Bootloader](https://www.playbotix.com/2018/12/usbasp.html?m=1)
+- [Bootloader](https://www.facebook.com/groups/448555958824892/permalink/890088838004933/)
+- [การทำนาฬิกาใบพัดโดยใช้ NodeMCU เบื้องต้น](https://www.youtube.com/watch?v=o9LO2ACAcVs)
+- [เอกสารประกอบการบรรยาย: ตัวอย่างกิจกรรมการเรียนรู้ ](https://www.iot.eng.kmutnb.ac.th/pub/docs/electronics_and_coding_labs/)
+
+### Course<
+- [Tech Explorations™ Basic electronics for Arduino Makers Udemy](https://www.udemy.com/course/basic-electronics/)
+- [Tech Explorations™ Make an Arduino Robot Udemy](https://www.udemy.com/course/arduino-robot/)
+- [Tech Explorations™ Arduino Mastery Projects Udemy](https://www.udemy.com/course/arduino-step-by-step-2017-getting-started-projects/)
+- [Tech Explorations™ KiCad like a Pro Udemy](https://www.udemy.com/course/kicad-like-a-pro-2e/)
+- [Tech Explorations™ Advanced Arduino Boards and Tools Udemy ](https://www.udemy.com/course/advanced-arduino-boards-and-tools/)
+- [Raspberry Pi Essentials and Extras Udemy](https://www.udemy.com/course/raspberry-pi-essentials-and-extras/)
+
+### อื่นๆ
+- [Arduino Project: Plotclock with a DS3231 Real Time Clock and an Arduino UNO.](https://www.youtube.com/watch?v=2DZSj8b2RGw)
+- [Microprocessor Lab](http://narong.ece.engr.tu.ac.th/microlab/document/index.php)
+- [Homebrew Arduino Pulse Monitor   (Visualize Your Heartbeat): 11 Steps (with Pictures)](https://www.instructables.com/id/Homebrew-Arduino-Pulse-Monitor-Visualize-Your-Hear/ )
+- [CD-ROM Stepper Motor with Arduino Motor Shield L293d](https://www.youtube.com/watch?v=3kZPqMbo1SY)
+- [Mini Robot Car in the size of Arduino Uno | ATtiny85 | L293D](https://www.youtube.com/watch?v=ETPhiqBqXEY)
+- [DIY Pinball Game Machine](https://www.facebook.com/punjabkesarijugaad/videos/1048763375276008/)
+- [How to make Micro Servo Robotic arm arduino based simple DIY](https://www.youtube.com/watch?v=MCYJAyIXBdA)
+- [Top 5 Homemade Arduino Projects - Machines Media](http://machinesmedia.com/top-5-homemade-arduino-projects/)
+- [Bloggang.com : ศล - State Machine](https://www.bloggang.com/mainblog.php?id=zol&month=12-07-2009&group=10&gblog=119)
+- [ใบความรู้ เคอร์ชอฟฟ์](http://www.wicec.ac.th/web/ebook/ep1/content_kir.htm)
+- [Heart Beat Sensor - How to Measure Heart Beat: Working and Application](https://www.elprocus.com/heartbeat-sensor-working-application/)
+- [3x3 System of Equations Solver - with detailed explanation](https://www.mathportal.org/calculators/system-of-equations-solver/system-3x3.php)
+- [SN-2549 XH2.54 SM plug terminal spring clamp terminals Crimping Tool Crimping pliers For D-SUB Terminals Sq.mm 0.08-0.5 AWG28-22<](https://www.mcucity.com/product/864/sn-2549-xh2-54-sm-plug-terminal-spring-clamp-terminals-crimping-tool-crimping-pliers-for-d-sub-termi-2)
+- [Top 10 Arduino Projects 2018 | Amazing Arduino School Projects](https://www.youtube.com/watch?v=iuYq_rafFco)
+- [marcobrianza/ClickButton: A simple one-button Arduino library to get short and long clicks, multiple clicks (double click, triple click etc.). Click-and-hold is also possible.](https://github.com/marcobrianza/ClickButton)
+- [IoT Engineering @ KMUTNB](https://www.iot.eng.kmutnb.ac.th/pub/docs/2018/learning_with_arduino/ )
+- [ทำแขนกล Robot ARM ด้วย Arduino แถมยังบันทึกตำแหน่งแบบง่ายๆ](https://eleceasy.com/t/robot-arm-arduino/72)
+- [[Arduino] ตั้งค่าโมดูลบลูทูธ HC05 และ HC06 เพื่อติดต่อสื่อสารกันด้วย AT Command - Chiang Mai Maker Club | Thailand](http://archive.cmmakerclub.com/2016/10/micro/arduino-2/arduino-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%97%E0%B8%B9%E0%B8%98-hc05-%E0%B9%81%E0%B8%A5/)
+- [Using the HC-06 Bluetooth Module](https://mcuoneclipse.com/2013/06/19/using-the-hc-06-bluetooth-module/ )
+- [บทความ - Mosfex : ขาย Arduino, NodeMCU, Raspberry Pi, Orange Pi, อุปกรณ์อิเล็กทรอนิกส์ ](https://www.mosfex.com/article)
+- [Node-RED: iBeacon ด้วย HM10 BLE (Bluetooth Low Energy)](http://noderedsupotsaeea.blogspot.com/2017/01/ibeacon-hm10-ble-bluetooth-low-energy.html )
+- [multi function shield examples](http://arduinolearning.com/code/multi-function-shield-examples.php)
+- [200+ Arduino Projects List for Final Year Students- Engineering Solutions](https://www.mechlectures.com/arduino-projects-list-final-year-students/)
+- [SainSmart InstaBots Upright Rover(Self-Balancing Robot With Arduino): 9 Steps](http://www.instructables.com/id/InstaBots-Upright-Rover/)
+- [เลื่อยฉลุไฟฟ้าพร้อมแท่น DREMEL รุ่น MOTO SAW MS20-01CL](http://www.toolmartonline.com/index.php?option=com_virtuemart&Itemid=4&category_id=51&flypage=flypage.tpl&lang=th&limitstart=0&page=shop.product_details&product_id=969&vmcchk=1&Itemid=4)
 
 
-<ol>
-<li> <a href="https://blog.arduino.cc/2018/12/10/this-one-button-device-can-do-many-things/   ">Arduino Blog » This one-button device can do many things </a></li>  
-<li> <a href="https://www.reddit.com/r/arduino/comments/6sdtxr/arduino_emulating_an_8086_pc_a_work_in_progress/   ">Arduino emulating an 8086 PC (a work in progress, but it's working) : arduino </a></li>  
-<li> <a href="https://www.instructables.com/id/Oscilloscope-in-a-Matchbox-Arduino/   ">Oscilloscope in a Matchbox - Arduino: 13 Steps (with Pictures) </a></li>    
-<li> <a href="http://embedded-lab.com/blog/arduino-pocket-tetris/   ">Arduino Pocket Tetris - Embedded Lab </a></li>  
-<li> <a href="https://blog.arduino.cc/2018/06/01/ultrasonic-arduino-to-arduino-communication/   ">Arduino Blog » Ultrasonic Arduino-to-Arduino Communication </a></li>  
-<li> <a href="https://github.com/QuadTinnakon/Segway_Mega2560_V3   ">QuadTinnakon/Segway_Mega2560_V3 </a></li>   
-<li> <a href="http://www.instructables.com/id/Making-the-Spielatron-Robotic-Glockenspiel/   ">Making the Spielatron (Robotic Glockenspiel): 11 Steps (with Pictures) </a></li>     
-</ol>  
-
-<h2>ทั่วไป </h2>
-<ol>
-    <li> <a href="https://marketplace.visualstudio.com/items?itemName=VisualMicro.ArduinoIDEforVisualStudio">โปรแกรม Arduino IDE สำหรับใช้บน Visual Studio  </a></li>   
-    <li> <a href="https://www.youtube.com/watch?v=3p6wQm_LqMo">Top 10 Arduino Projects Of All Time </a></li>       
-    <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/3117072668335489/">ทำ programmer สำหรับเบิร์นโค้ด arduino </a></li>      
-    <li> <a href="https://www.facebook.com/iot.kmutnb/posts/479693739318052">10 เทคนิคในการเขียนโค้ดภาษา C ทำให้ LED บนบอร์ด Ardiuno กระพริบ </a></li>    
-    <li> <a href="https://www.facebook.com/watch/?v=548443945598391">LED Matrix Flow </a></li>  
-    <li> <a href="https://www.dmcinfo.com/latest-thinking/blog/id/9484/arduino-programming-with-vscode">Arduino Programming with VSCode </a></li>    
-    <li> <a href="https://www.youtube.com/watch?v=NlbvbDItu1M">ป้ายไฟวิ่งเล็กควบคุมผ่าน App Android </a></li>    
-    <li> <a href="https://www.youtube.com/watch?v=2DZSj8b2RGw">Plotclock </a></li>   
-    <li> <a href="http://narong.ece.engr.tu.ac.th/microlab/document/index.php">เอกสารประกอบการเรียน การอินเตอร์เฟสไมโครโปรเซสเซอร์ </a></li>   
-    <li> <a href="https://create.arduino.cc/projecthub/22warehamD/3-bit-binary-calculator-using-arduino-uno-e9d93b">3-Bit Binary Calculator </a></li>   
-    <li> <a href="https://www.instructables.com/id/Homebrew-Arduino-Pulse-Monitor-Visualize-Your-Hear/">Homebrew Arduino Pulse Monitor </a></li>   
-    <li> <a href="https://www.youtube.com/watch?v=3kZPqMbo1SY&feature=youtu.be">CD-ROM Stepper Motor with Arduino Motor Shield L293d </a></li>     
-    <li> <a href="https://www.youtube.com/watch?v=ETPhiqBqXEY&feature=youtu.be">Mini Robot Car </a></li>  
-    <li> <a href="https://www.facebook.com/watch/?v=1048763375276008">DIY Pinball Game Machine </a></li>  
-    <li> <a href="https://www.youtube.com/watch?v=MCYJAyIXBdA">Servo Robotic arm </a></li>    
-    <li> <a href="https://www.instructables.com/id/Make-Your-Own-1D-Pong-Game/">Make Your Own 1D Pong Game </a></li>  
-    <li> <a href="https://www.arduitronics.com/article/61/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2-nokia-5110">การใช้งานจอแสดงผลกราฟิกโนเกีย (NOKIA 5110) </a></li>  
-    <li> <a href="https://www.bloggang.com/mainblog.php?id=zol&month=12-07-2009&group=10&gblog=119">State Machine</a></li>  
-    <li> <a href="https://www.elprocus.com/heartbeat-sensor-working-application/">Heartbeat Sensor </a></li>    
-    <li> <a href="https://www.mcucity.com/product/864/sn-2549-xh2-54-sm-plug-terminal-spring-clamp-terminals-crimping-tool-crimping-pliers-for-d-sub-termi-2">SN-2549 XH2.54 </a></li>    
-    <li> <a href="http://www.falstad.com/circuit/circuitjs.html">Circuit Simulator </a></li>  
-    <li> <a href="http://arduinolearning.com/code/multi-function-shield-examples.php">multi function shield examples </a></li>    
-    <li> <a href="https://eleceasy.com/t/pwm-phase-shitf-arduino/615?u=archer&fbclid=IwAR2RwIsnQVzpUj7Xgh6tUPCasMSXzszcGAkdA8LDw6l60_TX0PXP_BaTV-E">การสร้างสัญญาณ พัลส์วิดท์มอดูเลชั่น (PWM) แบบ Phase shitf ด้วย Arduino </a></li>    
-    <li> <a href="https://github.com/olehs/PZEM004T?fbclid=IwAR0wEkSl6YYlXnZSZkSbzD4rrbrs5xzqeZpltDSQ3GwBxBGzI1RR3HW6MzQ">Arduino communication library for Peacefair PZEM-004T Energy monitor  </a></li>  
-    <li> <a href="https://blog.arduino.cc/2018/12/10/this-one-button-device-can-do-many-things/">This one-button device can do many things </a></li>  
-    <li> <a href="https://www.instructables.com/id/Oscilloscope-in-a-Matchbox-Arduino/">Oscilloscope in a Matchbox </a></li>
-    <li> <a href="https://blog.arduino.cc/2018/06/01/ultrasonic-arduino-to-arduino-communication/">Ultrasonic Arduino-to-Arduino Communication </a></li>
-    <li> <a href="https://www.instructables.com/id/Making-the-Spielatron-Robotic-Glockenspiel/">Making the Spielatron </a></li>
-    <li> <a href="https://www.facebook.com/watch/?v=10155504756781641">Arduino Engineering Kit Drawing Robot </a></li>
-    <li> <a href="https://hackaday.com/2018/07/25/juggling-machine-listens-to-the-bounce-to-keep-ball-in-the-air/?fbclid=IwAR09sVKAtq2QPv7FkyIqzEqYKvd76IFLjfITn9n_qzUtFTw4pxtOTJsQ7qI">Juggling Machine Listens To The Bounce To Keep Ball In The Air </a></li>  
-    <li> <a href="https://blog.arduino.cc/2018/07/25/ping-pong-ball-bounces-forever-under-arduino-control/?fbclid=IwAR0c0LnN-ysCngc3f8WfDfq7As2XrrUlZvB2BiSD3jQuc4ENqrZyjSfCFUQ">Ping pong ball bounces forever under Arduino control </a></li>  
-    <li> <a href="https://www.youtube.com/watch?v=Ogm3ITBxkL8&fbclid=IwAR012KkuiUKlJ8AWY21KX0ou5GNx-73o7uJ424pNpAdmp4BAy0eWHKk6n-k">TOP 10 Arduino-Servo Motor Projects | 2018 </a></li>  
-    <li> <a href="http://www.electronoobs.com/eng_arduino_tut63.php?fbclid=IwAR09D-h0XavxAQ-vi1lUhhiHmCmAlDhEyAYamHiF4M8BOk4eMwLRMLH6BFQ">Oscilloscope draw - XY mode  </a></li>  
-    <li> <a href="https://www.youtube.com/watch?v=KfP_LfUiwdc&fbclid=IwAR1gwhPs3V4jM2zdkK1OFHYs5KiXjAehDzVs3wxYUnwvPfScq5gZx_KRrEQ">Hungry Robot  </a></li>  
-    <li> <a href="https://blog.arduino.cc/2018/09/19/ardosc-is-a-matchbox-sized-arduino-nano-based-oscilloscope/?fbclid=IwAR3sRk4mz2_SfvrqY1hDHchuS0GrstTrfmB9LpBQZZbCisKuFFexOXTUaLM">ArdOsc is a matchbox-sized, Arduino Nano-based oscilloscope </a></li>    
-    <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2096062827103150/">config ค่าต่างๆ ผ่าน Serial Port </a></li>    
-    <li> <a href="https://www.facebook.com/watch/?v=267197853955660">It's A Bot Time </a></li>    
-    <li> <a href="https://www.iot.eng.kmutnb.ac.th/pub/docs/2018/learning_with_arduino/">แนวทางการเรียนรู้ด้านระบบสมองกลฝังตัวด้วย Arduino  </a></li>      
-    <li> <a href="https://www.playbotix.com/2018/12/usbasp.html?m=1&fbclid=IwAR19oOWbo67TcCTXV-H13B-9Iif_yj60Nt-ZNdVcXFQA1b1BOwEWWe1xCc8">Burning Bootloader  </a></li>    
-    <li> <a href="https://www.facebook.com/groups/448555958824892/permalink/890088838004933/">Bootloader </a></li>      
-    <li> <a href="https://www.youtube.com/watch?v=o9LO2ACAcVs&fbclid=IwAR18pahKUwSdsdszv9Ws3ZFV08zlY2yIhiQaGtegmCojIysbSMOfBf2nZ6g">การทำนาฬิกาใบพัดโดยใช้ NodeMCU เบื้องต้น </a></li>     
-    <li> <a href="https://www.iot.eng.kmutnb.ac.th/pub/docs/electronics_and_coding_labs/?fbclid=IwAR0olp-18mgUNjyGBHrNl96v3CBcB0FYjYsLOX4Xf_4Bz4obPHVXQienISU">เอกสารประกอบการบรรยาย: ตัวอย่างกิจกรรมการเรียนรู้  </a></li>     
-  </ol>    
-
-<h3>Course</h3>
-<ol>
-  <li> <a href="https://www.udemy.com/course/basic-electronics/">Tech Explorations™ Basic electronics for Arduino Makers Udemy</a></li>  
-  <li> <a href="https://www.udemy.com/course/arduino-robot/">Tech Explorations™ Make an Arduino Robot Udemy</a></li>  
-  <li> <a href="https://www.udemy.com/course/arduino-step-by-step-2017-getting-started-projects/">Tech Explorations™ Arduino Mastery Projects Udemy </a></li>  
-  <li> <a href="https://www.udemy.com/course/kicad-like-a-pro-2e/">Tech Explorations™ KiCad like a Pro Udemy </a></li>  
-  <li> <a href="https://www.udemy.com/course/advanced-arduino-boards-and-tools/">Tech Explorations™ Advanced Arduino Boards and Tools Udemy </a></li>  
-  <li> <a href="https://www.udemy.com/course/raspberry-pi-essentials-and-extras/">Raspberry Pi Essentials and Extras Udemy </a></li>  
-
-</ol>
-  <h3>อื่นๆ</h3>
-<ol>
-  <li> <a href="https://www.youtube.com/watch?v=2DZSj8b2RGw   ">Arduino Project: Plotclock with a DS3231 Real Time Clock and an Arduino UNO. - YouTube </a></li>  
-  <li> <a href="http://narong.ece.engr.tu.ac.th/microlab/document/index.php   ">Microprocessor Lab </a></li>  
-  <li> <a href="https://create.arduino.cc/projecthub/22warehamD/3-bit-binary-calculator-using-arduino-uno-e9d93b   ">3-Bit Binary Calculator Using Arduino Uno - Arduino Project Hub </a></li>    
-  <li> <a href="https://www.instructables.com/id/Homebrew-Arduino-Pulse-Monitor-Visualize-Your-Hear/   ">Homebrew Arduino Pulse Monitor   (Visualize Your Heartbeat): 11 Steps (with Pictures) </a></li>  
-  <li> <a href="https://www.youtube.com/watch?v=3kZPqMbo1SY&feature=youtu.be   ">CD-ROM Stepper Motor with Arduino Motor Shield L293d - YouTube </a></li>  
-  <li> <a href="https://www.youtube.com/watch?v=ETPhiqBqXEY&feature=youtu.be   ">Mini Robot Car in the size of Arduino Uno | ATtiny85 | L293D - YouTube </a></li>  
-  <li> <a href="https://www.facebook.com/punjabkesarijugaad/videos/1048763375276008/   ">DIY Pinball Game Machine </a></li>  
-  <li> <a href="https://www.youtube.com/watch?v=MCYJAyIXBdA   ">How to make Micro Servo Robotic arm arduino based simple DIY - YouTube </a></li>  
-  <li> <a href="http://www.instructables.com/id/Make-Your-Own-1D-Pong-Game/   ">Make Your Own 1D Pong Game </a></li>    
-  <li> <a href="https://www.arduitronics.com/article/61/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2-nokia-5110   ">การใช้งานจอแสดงผลกราฟิกโนเกีย (NOKIA 5110) - Arduitronics สำหรับผู้สนใจพัฒนา Arduino, Raspberry Pi</a></li>  
-  <li> <a href="http://machinesmedia.com/top-5-homemade-arduino-projects/   ">Top 5 Homemade Arduino Projects - Machines Media </li>  
-  <li> <a href="https://www.bloggang.com/mainblog.php?id=zol&month=12-07-2009&group=10&gblog=119   ">Bloggang.com : ศล - State Machine </a></li> 
-  <li> <a href="http://www.wicec.ac.th/web/ebook/ep1/content_kir.htm   ">ใบความรู้ เคอร์ชอฟฟ์ </a></li>
-  <li> <a href="https://www.elprocus.com/heartbeat-sensor-working-application/   ">Heart Beat Sensor - How to Measure Heart Beat: Working and Application </a></li>
-  <li> <a href="https://www.mathportal.org/calculators/system-of-equations-solver/system-3x3.php   ">3x3 System of Equations Solver - with detailed explanation </a></li>
-  <li> <a href="https://www.mcucity.com/product/864/sn-2549-xh2-54-sm-plug-terminal-spring-clamp-terminals-crimping-tool-crimping-pliers-for-d-sub-termi-2   ">SN-2549 XH2.54 SM plug terminal spring clamp terminals Crimping Tool Crimping pliers For D-SUB Terminals Sq.mm 0.08-0.5 AWG28-22</a></li>
-
-</ol>
-
-<h3>อื่นๆ</h3>
-<ol>
-   <li> <a href="https://www.youtube.com/watch?v=iuYq_rafFco&fbclid=IwAR1KKMXrZrlh9iSVAQi3DcmOq2NKbwUZjY5W8k-FjSKUXxtDRPhQ4lpr_rA   ">Top 10 Arduino Projects 2018 | Amazing Arduino School Projects - YouTube </a></li> 
-  <li> <a href="https://github.com/marcobrianza/ClickButton   ">marcobrianza/ClickButton: A simple one-button Arduino library to get short and long clicks, multiple clicks (double click, triple click etc.). Click-and-hold is also possible. </a></li> 
-  <li> <a href="https://www.iot.eng.kmutnb.ac.th/pub/docs/2018/learning_with_arduino/   ">IoT Engineering @ KMUTNB </a></li> 
-  <li> <a href="https://eleceasy.com/t/robot-arm-arduino/72   ">ทำแขนกล Robot ARM ด้วย Arduino แถมยังบันทึกตำแหน่งแบบง่ายๆ - Controller / Arduino - อิเล็กอีซี่(Eleceasy) </a></li> 
-  <li> <a href="http://archive.cmmakerclub.com/2016/10/micro/arduino-2/arduino-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%97%E0%B8%B9%E0%B8%98-hc05-%E0%B9%81%E0%B8%A5/   ">[Arduino] ตั้งค่าโมดูลบลูทูธ HC05 และ HC06 เพื่อติดต่อสื่อสารกันด้วย AT Command - Chiang Mai Maker Club | Thailand </a></li> 
-  <li> <a href="https://mcuoneclipse.com/2013/06/19/using-the-hc-06-bluetooth-module/   ">Using the HC-06 Bluetooth Module | MCU on Eclipse </a></li>   
-  <li> <a href="https://www.mosfex.com/article   ">บทความ - Mosfex : ขาย Arduino, NodeMCU, Raspberry Pi, Orange Pi, อุปกรณ์อิเล็กทรอนิกส์  </a></li> 
-  <li> <a href="http://noderedsupotsaeea.blogspot.com/2017/01/ibeacon-hm10-ble-bluetooth-low-energy.html   ">Node-RED: iBeacon ด้วย HM10 BLE (Bluetooth Low Energy) </a></li> 
-  <li> <a href="http://www.electronicsinfoline.com/pin/37267/?utm_medium=social&utm_campaign=postplanner&utm_source=facebook.com   ">RC boat with NRF24L01+ and Arduino | Electronics Infoline </a></li> 
-  <li> <a href="http://arduinolearning.com/code/multi-function-shield-examples.php   ">multi function shield examples </a></li> 
-  <li> <a href="https://www.mechlectures.com/arduino-projects-list-final-year-students/   ">200+ Arduino Projects List for Final Year Students- Engineering Solutions </a></li> 
-  <li> <a href="http://www.instructables.com/id/InstaBots-Upright-Rover/   ">SainSmart InstaBots Upright Rover(Self-Balancing Robot With Arduino): 9 Steps </a></li>     
-  <li> <a href="http://www.falstad.com/circuit/circuitjs.html   ">http://www.falstad.com/circuit/circuitjs.html </a></li> 
-  <li> <a href="http://www.toolmartonline.com/index.php?option=com_virtuemart&Itemid=4&category_id=51&flypage=flypage.tpl&lang=th&limitstart=0&page=shop.product_details&product_id=969&vmcchk=1&Itemid=4   ">เลื่อยฉลุไฟฟ้าพร้อมแท่น DREMEL รุ่น MOTO SAW MS20-01CL ราคา-ขาย Bosch Makita | TOOLMART ขายเครื่องมือช่าง เครื่องมือไฟฟ้า จำหน่ายราคาถูก </a></li>     
-</ol>     
+     
