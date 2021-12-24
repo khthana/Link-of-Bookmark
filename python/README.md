@@ -1,3 +1,7 @@
+## General Programming
+1. [Programming in Practice - Executive Summary](https://www.udemy.com/course/pipintroduction/learn/lecture/28868934#overview)
+2. 
+
 
 ## Case Study
 1. [50 Python Projects with Source Code](https://dev.to/kiransethu46/50-python-projects-with-source-code-2n7g)
@@ -27,12 +31,15 @@
 7. [Advanced Foundations of Python Programming | 2021 Training](https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/learn/lecture/28083060#overview)
 
 ## YOUTUBE
-1. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 1]](https://www.youtube.com/watch?v=N1fnq4MF3AE)
-2. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 2]](https://www.youtube.com/watch?v=2_TK8JYJiwQ&t=31620s)
-3. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 3]](https://www.youtube.com/watch?v=_G-yOINsXvE)
-4. [Python Programming the Series](https://www.youtube.com/playlist?list=PLXa5k-zW5T_0HoABfZADoiPbHWuZio_ib)
+1. [Python As Fast as Possible - Learn Python in ~75 Minutes](https://www.youtube.com/watch?v=VchuKL44s6E)
+2. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 1]](https://www.youtube.com/watch?v=N1fnq4MF3AE)
+3. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 2]](https://www.youtube.com/watch?v=2_TK8JYJiwQ&t=31620s)
+4. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 3]](https://www.youtube.com/watch?v=_G-yOINsXvE)
+5. [Python Programming the Series](https://www.youtube.com/playlist?list=PLXa5k-zW5T_0HoABfZADoiPbHWuZio_ib)
 6. [Ultimate Python](https://www.youtube.com/c/UltimatePython)
 7. [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+8. [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
+9. [12 Hour Coding Livestream - Creating an Online Game with Python](https://www.youtube.com/watch?v=wDIQ17T3sRk)
 
 ## PYGAME
 1. [TECHWITHTIM : pygame-tutorial](https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/)
