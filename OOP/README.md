@@ -6,6 +6,7 @@
 
 1. [Object Oriented Design 3](https://www.youtube.com/watch?v=uTy29hb1J_c)
 2. [MICROSERVICE-SPRINGBOOT](https://www.youtube.com/playlist?list=PLtsTccOGFwUIcbQnwl2Ta6IUNFi02py1_)
+3. [Object Oriented Programming with Python - Full Course for Beginners](https://www.youtube.com/watch?v=Ej_02ICOIgs)
 
 
 ## COURSE
