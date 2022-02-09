@@ -74,30 +74,43 @@
 1. [pythontutor](https://pythontutor.com/live.html#mode=edit)
 2. [replit](https://replit.com/@ThanaHongsuwan/Chapter1#main.py)
 
+## NumPy, Data Science
+1. [ปูพื้นฐานการใช้ Python ร่วมกับ NumPy | สำหรับงาน Data Science (KongRuksiam)](https://www.youtube.com/watch?v=MDA8SbfdLKA)
+2. 
+
+## GitHub from book
+1. [Mastering-Python-Design-Patterns-Second-Edition](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition)
+2. [Python-3-Object-Oriented-Programming-Third-Edition](https://github.com/PacktPublishing/Python-3-Object-Oriented-Programming-Third-Edition)
+3. [Python-Object-Oriented-Programming---4th-edition](https://github.com/PacktPublishing/Python-Object-Oriented-Programming---4th-edition)
+4. [PYTHON WORLD](https://github.com/Python-World)
+5. 
+
+
 ## ETC
-1. [Visualize Data Structures in VSCode](https://addyosmani.com/blog/visualize-data-structures-vscode/ "Visualize Data Structures in VSCode")
-2. [5 Feature ใหม่ที่น่าสนใจใน Python 3.10](https://stackpython.co/tutorial/5-feature-python-310)
-3. [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
-4. [การใช้ f-string เพื่อจัดรูปแบบสายอักขระใน python](https://phyblas.hinaboshi.com/20190714)
-5. [Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle](https://www.kaggle.com/learn)
-6. [FrameDev - Django](https://www.frame-dev.com/)
-7. [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html)
-8. [Top 30 Apple Coding Interview Questions (With Solutions)](https://betterprogramming.pub/top-30-apple-coding-interview-questions-with-solutions-19990071ebfc)
-9. [10 Beginner Tips for Learning Python](https://betterprogramming.pub/10-beginner-tips-for-learning-python-2578e7f49ec8)
-10. [7 VS Code Tricks I Learned From My Colleagues](https://betterprogramming.pub/7-vs-code-tricks-i-learned-from-my-colleagues-6abb340601b4
-11. [kaggle Learn](https://www.kaggle.com/learn)
-12. [การใช้ f-string เพื่อจัดรูปแบบสายอักขระใน python](https://phyblas.hinaboshi.com/20190714)
-13. [300+ Python Interview Questions and Answers ](https://pythonawesome.com/300-python-interview-questions-and-answers/)
-14. [Pretty Printed : Python Web Development Tutorials](https://prettyprinted.com/)
-15. [A basic calculator using Tkinter GUI.](https://github.com/Rogerup/Tkalc)
-16. [50 Python Projects with Source Code ](https://dev.to/kiransethu46/50-python-projects-with-source-code-2n7g)
-17. [Programmer's guide to Python](https://github.com/Anku5hk/Programmers_guide_to_Python/blob/main/book.md)
-18. [Testing GraphQL Queries with Apollo Client](https://programmingwithmosh.com/)
-19. [realpython](https://realpython.com/)
-20. [Python for Absolute Beginners Course](https://training.talkpython.fm/courses/explore_beginners/python-for-absolute-beginners?utm_source=talkpython)
-21. [MASTERMIND](http://www.easysurf.cc/master3.htm)
-22. [Python_Mathayom_1_2_3.ipynb](https://colab.research.google.com/drive/1rm-kW7Nh5q3kk9JsnvBea2oUr42W9GIF#scrollTo=UA3GRRX3iees)
-23. [damien-hirst](https://www.phillips.com/detail/damien-hirst/UK010120/16)
+1. [Python Developer Roadmap](https://stackpython.co/tutorial/python-developer-roadmap)
+2. [Visualize Data Structures in VSCode](https://addyosmani.com/blog/visualize-data-structures-vscode/ "Visualize Data Structures in VSCode")
+3. [5 Feature ใหม่ที่น่าสนใจใน Python 3.10](https://stackpython.co/tutorial/5-feature-python-310)
+4. [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
+5. [การใช้ f-string เพื่อจัดรูปแบบสายอักขระใน python](https://phyblas.hinaboshi.com/20190714)
+6. [Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle](https://www.kaggle.com/learn)
+7. [FrameDev - Django](https://www.frame-dev.com/)
+8. [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html)
+9. [Top 30 Apple Coding Interview Questions (With Solutions)](https://betterprogramming.pub/top-30-apple-coding-interview-questions-with-solutions-19990071ebfc)
+10. [10 Beginner Tips for Learning Python](https://betterprogramming.pub/10-beginner-tips-for-learning-python-2578e7f49ec8)
+11. [7 VS Code Tricks I Learned From My Colleagues](https://betterprogramming.pub/7-vs-code-tricks-i-learned-from-my-colleagues-6abb340601b4
+12. [kaggle Learn](https://www.kaggle.com/learn)
+13. [การใช้ f-string เพื่อจัดรูปแบบสายอักขระใน python](https://phyblas.hinaboshi.com/20190714)
+14. [300+ Python Interview Questions and Answers ](https://pythonawesome.com/300-python-interview-questions-and-answers/)
+15. [Pretty Printed : Python Web Development Tutorials](https://prettyprinted.com/)
+16. [A basic calculator using Tkinter GUI.](https://github.com/Rogerup/Tkalc)
+17. [50 Python Projects with Source Code ](https://dev.to/kiransethu46/50-python-projects-with-source-code-2n7g)
+18. [Programmer's guide to Python](https://github.com/Anku5hk/Programmers_guide_to_Python/blob/main/book.md)
+19. [Testing GraphQL Queries with Apollo Client](https://programmingwithmosh.com/)
+20. [realpython](https://realpython.com/)
+21. [Python for Absolute Beginners Course](https://training.talkpython.fm/courses/explore_beginners/python-for-absolute-beginners?utm_source=talkpython)
+22. [MASTERMIND](http://www.easysurf.cc/master3.htm)
+23. [Python_Mathayom_1_2_3.ipynb](https://colab.research.google.com/drive/1rm-kW7Nh5q3kk9JsnvBea2oUr42W9GIF#scrollTo=UA3GRRX3iees)
+24. [damien-hirst](https://www.phillips.com/detail/damien-hirst/UK010120/16)
 
 
 
