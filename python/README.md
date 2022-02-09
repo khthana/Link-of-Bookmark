@@ -71,6 +71,7 @@
 4. [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 5. [Kalle Hallden](https://www.youtube.com/c/KalleHallden)
 6. [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+7. [Botnoi DSE Basic Python 33 Clips](https://www.youtube.com/playlist?list=PLAgCqpRa2bgv108WwTPAWh6fDwRyS49Vm)
 
 ## Packt Book
 1. [Python 3 Object-Oriented Programming - Third Edition](https://www.packtpub.com/product/python-3-object-oriented-programming-third-edition/9781789615852)
@@ -83,14 +84,15 @@
 
 ## NumPy, Data Science
 1. [ปูพื้นฐานการใช้ Python ร่วมกับ NumPy | สำหรับงาน Data Science (KongRuksiam)](https://www.youtube.com/watch?v=MDA8SbfdLKA)
-2. 
+2. [Data Science for Business](https://datascience.botnoi.ai/tutorials/python-tutorials/)
 
 ## GitHub from book
 1. [Mastering-Python-Design-Patterns-Second-Edition](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition)
 2. [Python-3-Object-Oriented-Programming-Third-Edition](https://github.com/PacktPublishing/Python-3-Object-Oriented-Programming-Third-Edition)
 3. [Python-Object-Oriented-Programming---4th-edition](https://github.com/PacktPublishing/Python-Object-Oriented-Programming---4th-edition)
-4. [PYTHON WORLD](https://github.com/Python-World)
-5. 
+4. [Mastering-Object-Oriented-Python-Second-Edition](https://github.com/PacktPublishing/Mastering-Object-Oriented-Python-Second-Edition)
+5. [PYTHON WORLD](https://github.com/Python-World)
+6. 
 
 ## PyShark
 1. [Pyshark - Python Wrapper For Tshark, Allowing Python Packet Parsing Using Wireshark Dissectors](https://www.kitploit.com/2019/08/pyshark-python-wrapper-for-tshark.html)
