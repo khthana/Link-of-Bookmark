@@ -1,6 +1,7 @@
 ## General Programming
 1. [Programming in Practice - Executive Summary](https://www.udemy.com/course/pipintroduction/learn/lecture/28868934#overview)
-2. 
+2. [10 popular coding interview problems](https://www.udemy.com/course/10-problems/learn/lecture/30016086#overview)
+
 
 
 ## Case Study
@@ -40,6 +41,7 @@
 7. [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 8. [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
 9. [12 Hour Coding Livestream - Creating an Online Game with Python](https://www.youtube.com/watch?v=wDIQ17T3sRk)
+10. [Python Object Oriented Programming (OOP) - For Beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)
 
 ## PYGAME
 1. [TECHWITHTIM : pygame-tutorial](https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/)
@@ -70,6 +72,11 @@
 5. [Kalle Hallden](https://www.youtube.com/c/KalleHallden)
 6. [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 
+## Packt Book
+1. [Python 3 Object-Oriented Programming - Third Edition](https://www.packtpub.com/product/python-3-object-oriented-programming-third-edition/9781789615852)
+2. [Python Object-Oriented Programming - Fourth Edition](https://subscription.packtpub.com/book/programming/9781801077262/1)
+
+
 ## Online IDE
 1. [pythontutor](https://pythontutor.com/live.html#mode=edit)
 2. [replit](https://replit.com/@ThanaHongsuwan/Chapter1#main.py)
@@ -85,6 +92,12 @@
 4. [PYTHON WORLD](https://github.com/Python-World)
 5. 
 
+## PyShark
+1. [Pyshark - Python Wrapper For Tshark, Allowing Python Packet Parsing Using Wireshark Dissectors](https://www.kitploit.com/2019/08/pyshark-python-wrapper-for-tshark.html)
+2. [Analyzing Packet Captures with Python](https://vnetman.github.io/pcap/python/pyshark/scapy/libpcap/2018/10/25/analyzing-packet-captures-with-python-part-1.html)
+3. [Building your own Network Monitor with PyShark](https://linuxhint.com/building-your-own-network-monitor-with-pyshark/)
+4. [Google Sheets API using Python](https://pyshark.com/google-sheets-api-using-python/)
+5. [The Top 13 Python Pyshark Open Source Projects on Github](https://awesomeopensource.com/projects/pyshark/python)
 
 ## ETC
 1. [Python Developer Roadmap](https://stackpython.co/tutorial/python-developer-roadmap)
