@@ -1,6 +1,7 @@
 ## UDEMY
 1. [Software Architecture: REST API Design - The Complete Guide ](https://www.udemy.com/course/rest-api-design-the-complete-guide/)
-2. 
+2. [150+ Exercises - Object Oriented Programming in Python - OOP](https://www.udemy.com/course/exercises-object-oriented-programming-in-python-oop-course/)
+3. [Python OOP - Object Oriented Programming for Beginners](https://www.udemy.com/course/python-object-oriented-programming-oop/)
 
 ## YOUTUBE
 
@@ -17,6 +18,7 @@
 5. [Introduction to Microservices](https://www.coursera.org/lecture/service-oriented-architecture/4-3-3-introduction-to-microservices-YbECT)
 6. [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture)
 7. [Software Construction in Java](https://www.edx.org/course/software-construction-in-java)
+8. 
 
 
 ## ETC
@@ -28,5 +30,6 @@
 6. [Free API and Microservice Books](https://apiacademy.co/api-books/)
 7. [Sequence Diagram](https://plantuml.com/sequence-diagram)
 8. [Multiple inheritance and mixin classes in Python](https://www.thedigitalcatonline.com/blog/2020/03/27/mixin-classes-in-python/)
-9. 
+9. [SOLID Principles คืออะไร](https://nobrain.codes/solid-principles-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/)
+10. [SDP - UML](https://web.microsoftstream.com/channel/ac9425cd-46d1-4930-b297-ec24f7959e32)
 
