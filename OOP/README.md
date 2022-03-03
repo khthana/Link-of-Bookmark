@@ -27,4 +27,6 @@
 5. [SOLID Principles คืออะไร ทำไมโปรแกรมเมอร์ทุกคนต้องรู้จัก](https://nobrain.codes/solid-principles-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/)
 6. [Free API and Microservice Books](https://apiacademy.co/api-books/)
 7. [Sequence Diagram](https://plantuml.com/sequence-diagram)
+8. [Multiple inheritance and mixin classes in Python](https://www.thedigitalcatonline.com/blog/2020/03/27/mixin-classes-in-python/)
+9. 
 
