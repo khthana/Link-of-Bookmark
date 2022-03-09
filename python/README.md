@@ -1,6 +1,7 @@
 ## General Programming
 1. [Programming in Practice - Executive Summary](https://www.udemy.com/course/pipintroduction/learn/lecture/28868934#overview)
 2. [10 popular coding interview problems](https://www.udemy.com/course/10-problems/learn/lecture/30016086#overview)
+3. [Free Python Books](https://github.com/oddsun/Free-Python-Books)
 
 
 
@@ -32,16 +33,17 @@
 7. [Advanced Foundations of Python Programming | 2021 Training](https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/learn/lecture/28083060#overview)
 
 ## YOUTUBE
-1. [Python As Fast as Possible - Learn Python in ~75 Minutes](https://www.youtube.com/watch?v=VchuKL44s6E)
-2. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 1]](https://www.youtube.com/watch?v=N1fnq4MF3AE)
-3. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 2]](https://www.youtube.com/watch?v=2_TK8JYJiwQ&t=31620s)
-4. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 3]](https://www.youtube.com/watch?v=_G-yOINsXvE)
-5. [Python Programming the Series](https://www.youtube.com/playlist?list=PLXa5k-zW5T_0HoABfZADoiPbHWuZio_ib)
-6. [Ultimate Python](https://www.youtube.com/c/UltimatePython)
-7. [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
-8. [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
-9. [12 Hour Coding Livestream - Creating an Online Game with Python](https://www.youtube.com/watch?v=wDIQ17T3sRk)
-10. [Python Object Oriented Programming (OOP) - For Beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)
+1. [Tech With Tim](https://www.youtube.com/c/TechWithTim/playlists)
+2. [Python As Fast as Possible - Learn Python in ~75 Minutes](https://www.youtube.com/watch?v=VchuKL44s6E)
+3. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 1]](https://www.youtube.com/watch?v=N1fnq4MF3AE)
+4. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 2]](https://www.youtube.com/watch?v=2_TK8JYJiwQ&t=31620s)
+5. [เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase 3]](https://www.youtube.com/watch?v=_G-yOINsXvE)
+6. [Python Programming the Series](https://www.youtube.com/playlist?list=PLXa5k-zW5T_0HoABfZADoiPbHWuZio_ib)
+7. [Ultimate Python](https://www.youtube.com/c/UltimatePython)
+8. [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+9. [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
+10. [12 Hour Coding Livestream - Creating an Online Game with Python](https://www.youtube.com/watch?v=wDIQ17T3sRk)
+11. [Python Object Oriented Programming (OOP) - For Beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)
 
 ## PYGAME
 1. [TECHWITHTIM : pygame-tutorial](https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/)
@@ -77,6 +79,11 @@
 1. [Python 3 Object-Oriented Programming - Third Edition](https://www.packtpub.com/product/python-3-object-oriented-programming-third-edition/9781789615852)
 2. [Python Object-Oriented Programming - Fourth Edition](https://subscription.packtpub.com/book/programming/9781801077262/1)
 
+### TechStar
+1. [4 Python Libraries สุดเจ๋ง ที่ไม่ค่อยมีใครรู้จัก แต่มีประโยชน์มาก](https://www.techstarthailand.com/blog/detail/4-Cool-Python-Libraries-That-You-Should-Know-About/1819)
+2. [7 Python Libraries ที่ช่วยให้การทำ Automation เป็นเรื่องง่าย](https://www.techstarthailand.com/blog/detail/7-Python-Libraries-to-Make-Automation-Easy/1851)
+3. [6 Python Projects สุดเจ๋ง ที่คุณสามารถทำเสร็จได้ในเวลาสั้น ๆ](https://www.techstarthailand.com/blog/detail/6-Cool-Python-Projects-That-You-Can-Finish-This-Weekend/1855)
+
 
 ## Online IDE
 1. [pythontutor](https://pythontutor.com/live.html#mode=edit)
@@ -92,7 +99,9 @@
 3. [Python-Object-Oriented-Programming---4th-edition](https://github.com/PacktPublishing/Python-Object-Oriented-Programming---4th-edition)
 4. [Mastering-Object-Oriented-Python-Second-Edition](https://github.com/PacktPublishing/Mastering-Object-Oriented-Python-Second-Edition)
 5. [PYTHON WORLD](https://github.com/Python-World)
-6. 
+
+## DJANGO
+1. [Django REST framework](https://www.django-rest-framework.org/)
 
 ## PyShark
 1. [Pyshark - Python Wrapper For Tshark, Allowing Python Packet Parsing Using Wireshark Dissectors](https://www.kitploit.com/2019/08/pyshark-python-wrapper-for-tshark.html)
@@ -126,6 +135,9 @@
 22. [MASTERMIND](http://www.easysurf.cc/master3.htm)
 23. [Python_Mathayom_1_2_3.ipynb](https://colab.research.google.com/drive/1rm-kW7Nh5q3kk9JsnvBea2oUr42W9GIF#scrollTo=UA3GRRX3iees)
 24. [damien-hirst](https://www.phillips.com/detail/damien-hirst/UK010120/16)
+25. [ทำ REST APIs บน AWS Lambda ด้วย Go](https://sennalabs.com/en/blogs/REST-APIs-on-AWSLambda-with-Go)
+
+
 
 
 
