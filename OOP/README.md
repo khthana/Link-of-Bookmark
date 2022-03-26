@@ -2,6 +2,7 @@
 1. [Software Architecture: REST API Design - The Complete Guide ](https://www.udemy.com/course/rest-api-design-the-complete-guide/)
 2. [150+ Exercises - Object Oriented Programming in Python - OOP](https://www.udemy.com/course/exercises-object-oriented-programming-in-python-oop-course/)
 3. [Python OOP - Object Oriented Programming for Beginners](https://www.udemy.com/course/python-object-oriented-programming-oop/)
+4. [SOLID Principles: Introducing Software Architecture & Design](https://www.udemy.com/course/solid-design/)
 
 ## YOUTUBE
 
