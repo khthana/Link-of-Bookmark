@@ -56,6 +56,9 @@
 8. [UDEMY : Asteroids with Python PyGame](https://www.udemy.com/course/asteroids-with-python-pygame/learn/lecture/28293566?start=0#overview)
 9. [Creating a platformer in Pygame with a camera, collisions, animation states and particle effects](https://www.youtube.com/watch?v=YWN8GcmJ-jA)
 
+## FastAPI
+1. [FastAPI [ Python Web Framework ] Crash Course 2021 For Beginners](https://www.youtube.com/watch?v=62pP9pfzNRs)
+
 
 ## FreeCodeCamp
 1. [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
