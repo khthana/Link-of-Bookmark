@@ -3,8 +3,6 @@
 2. [10 popular coding interview problems](https://www.udemy.com/course/10-problems/learn/lecture/30016086#overview)
 3. [Free Python Books](https://github.com/oddsun/Free-Python-Books)
 
-
-
 ## Case Study
 1. [50 Python Projects with Source Code](https://dev.to/kiransethu46/50-python-projects-with-source-code-2n7g)
 2. [GitHub : A basic calculator using Tkinter GUI](https://github.com/Rogerup/Tkalc)
@@ -16,7 +14,6 @@
 3. [Python Learn by Python Projects & Python Quizzes in 2021](https://www.udemy.com/course/the-complete-python-for-beginner-master-python-from-scratch/learn/lecture/15434760?start=0#overview)
 4. [Top 30 Apple Coding Interview Questions (With Solutions)](https://betterprogramming.pub/top-30-apple-coding-interview-questions-with-solutions-19990071ebfc)
 5. 
-
 
 ## MOOC
 1. [EdX : Introduction to Programming Using Python](https://learning.edx.org/course/course-v1:UTArlingtonX+CSE1309x+1T2018/block-v1:UTArlingtonX+CSE1309x+1T2018+type@sequential+block@456ad9aaf08745e8b0319587698eb193/block-v1:UTArlingtonX+CSE1309x+1T2018+type@vertical+block@5e73bbf9a3114304bac93188a8002b07)
@@ -58,6 +55,9 @@
 
 ## FastAPI
 1. [FastAPI [ Python Web Framework ] Crash Course 2021 For Beginners](https://www.youtube.com/watch?v=62pP9pfzNRs)
+2. [บทเรียน Python Framework FastAPI ](https://www.mindphp.com/%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-php/278-python-framework-fastapi.html)
+3. [A FastAPI Tutorial](https://www.toptal.com/python/build-high-performing-apps-with-the-python-fastapi-framework)
+4. [Writing an API with Python and FastAPI](https://codingnomads.co/blog/python-fastapi-tutorial)
 
 
 ## FreeCodeCamp
