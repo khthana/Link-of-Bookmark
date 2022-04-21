@@ -21,6 +21,10 @@
 7. [Software Construction in Java](https://www.edx.org/course/software-construction-in-java)
 8. 
 
+## Copy Paste Engineer
+1. [เทคนิคเขียน Python OOP #1](https://www.youtube.com/watch?v=OCF7y3D0tKo)
+2. [เทคนิคเขียน Python OOP #2](https://www.youtube.com/watch?v=XPffRwiurvE)
+3. [เทคนิคเขียน Python OOP #3 : SOLID, Hexagonal Architecture + Python FastAPI Microservices](https://www.youtube.com/watch?v=blC_MYJjGoE)
 
 ## ETC
 1. [Sequence Diagram](https://devjourneys.com/2020/09/13/sequence-diagram/)
