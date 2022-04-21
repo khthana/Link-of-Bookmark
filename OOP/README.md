@@ -4,8 +4,12 @@
 3. [Python OOP - Object Oriented Programming for Beginners](https://www.udemy.com/course/python-object-oriented-programming-oop/)
 4. [SOLID Principles: Introducing Software Architecture & Design](https://www.udemy.com/course/solid-design/)
 
-## YOUTUBE
+## SOFTWARE ARCHITECTURE 
+1. [Software Architecture and Clean Code Design in OOP](https://www.udemy.com/course/software-architecture-learnit/)
+2. [Software Architecture & Technology of Large-Scale Systems](https://www.udemy.com/course/developer-to-architect/)
+3. [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture#courses)
 
+## YOUTUBE
 1. [Object Oriented Design 3](https://www.youtube.com/watch?v=uTy29hb1J_c)
 2. [MICROSERVICE-SPRINGBOOT](https://www.youtube.com/playlist?list=PLtsTccOGFwUIcbQnwl2Ta6IUNFi02py1_)
 3. [Object Oriented Programming with Python - Full Course for Beginners](https://www.youtube.com/watch?v=Ej_02ICOIgs)
