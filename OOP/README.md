@@ -4,6 +4,8 @@
 3. [Python OOP - Object Oriented Programming for Beginners](https://www.udemy.com/course/python-object-oriented-programming-oop/)
 4. [SOLID Principles: Introducing Software Architecture & Design](https://www.udemy.com/course/solid-design/)
 5. [Advanced Python: Python OOP with 10 Real-World Programs](https://www.udemy.com/course/the-python-pro-course/)
+6. [Python Beyond the Basics - Object-Oriented Programming](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/)
+7. [UML and Object-Oriented Design Foundations](https://www.udemy.com/course/uml-and-object-oriented-design-foundations/)
 
 
 ## SOFTWARE ARCHITECTURE 
@@ -19,13 +21,15 @@
 
 ## COURSE
 1. [https://www.youtube.com/playlist?list=PLtsTccOGFwUIcbQnwl2Ta6IUNFi02py1_](https://home.cs.colorado.edu/~kena/classes/5828/s07/lectures/)
-2. [Designing RESTful APIs - UDACITY](https://www.udacity.com/course/designing-restful-apis--ud388)
-3. [REST API Design - Coursera](https://www.coursera.org/lecture/api-design-apigee-gcp/rest-api-design-part-i-basics-1-vovPf)
-4. [Microservices Architectural Design Patterns](https://www.pluralsight.com/courses/microservices-architectural-design-patterns-playbook)
-5. [Introduction to Microservices](https://www.coursera.org/lecture/service-oriented-architecture/4-3-3-introduction-to-microservices-YbECT)
-6. [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture)
-7. [Software Construction in Java](https://www.edx.org/course/software-construction-in-java)
-8. 
+2. [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)
+3. [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-design)
+4. [Designing RESTful APIs - UDACITY](https://www.udacity.com/course/designing-restful-apis--ud388)
+5. [REST API Design - Coursera](https://www.coursera.org/lecture/api-design-apigee-gcp/rest-api-design-part-i-basics-1-vovPf)
+6. [Microservices Architectural Design Patterns](https://www.pluralsight.com/courses/microservices-architectural-design-patterns-playbook)
+7. [Introduction to Microservices](https://www.coursera.org/lecture/service-oriented-architecture/4-3-3-introduction-to-microservices-YbECT)
+8. [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture)
+9. [Software Construction in Java](https://www.edx.org/course/software-construction-in-java)
+10. [SDP - UML](https://web.microsoftstream.com/channel/ac9425cd-46d1-4930-b297-ec24f7959e32)
 
 ## Copy Paste Engineer
 1. [เทคนิคเขียน Python OOP #1](https://www.youtube.com/watch?v=OCF7y3D0tKo)
