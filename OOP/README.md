@@ -3,6 +3,8 @@
 2. [150+ Exercises - Object Oriented Programming in Python - OOP](https://www.udemy.com/course/exercises-object-oriented-programming-in-python-oop-course/)
 3. [Python OOP - Object Oriented Programming for Beginners](https://www.udemy.com/course/python-object-oriented-programming-oop/)
 4. [SOLID Principles: Introducing Software Architecture & Design](https://www.udemy.com/course/solid-design/)
+5. [Advanced Python: Python OOP with 10 Real-World Programs](https://www.udemy.com/course/the-python-pro-course/)
+
 
 ## SOFTWARE ARCHITECTURE 
 1. [Software Architecture and Clean Code Design in OOP](https://www.udemy.com/course/software-architecture-learnit/)
