@@ -1,19 +1,24 @@
 # Flutter
 
-<h2>Dart ดูจบแล้ว</h2>
-<ol>
-  <li><a href="https://www.udemy.com/course/dartlang/">Dart Course for Beginners</a></li>
-  <li><a href="https://www.udemy.com/course/dart-beginners-course/">Dart - Beginners Course</a></li>
-  <li><a href="https://www.udemy.com/course/dart-intermediate-course/">Dart - Intermediate Course ยังไม่จบ</a></li>  
-  <li><a href="https://www.udemy.com/course/learn-dart-programming/">Learn Dart Programming for Flutter</a></li>    
-</ol>
+### Dart ดูจบแล้ว
+1. [Dart Course for Beginners](https://www.udemy.com/course/dartlang/)
+2. [Dart - Beginners Course](https://www.udemy.com/course/dart-beginners-course/)
+3. [Dart - Intermediate Course ยังไม่จบ](https://www.udemy.com/course/dart-intermediate-course/)
+4. [Dart - Advanced Course](https://www.udemy.com/course/dart-advanced-course/)
+5. [Learn Dart Programming for Flutter](https://www.udemy.com/course/learn-dart-programming/)
+6. [Flutter & Dart - The Complete Guide [2022 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
-<h2>Flutter Course</h2>
-<ol>
-  <li><a href="https://classroom.udacity.com/courses/ud905">Build Native Mobile Apps with Flutter - Udacity</a></li>
-  <li><a href="https://www.udemy.com/course/flutter-bootcamp-with-dart/">The Complete 2020 Flutter Development Bootcamp with Dart</a></li>  
-  <li><a href=https://www.androidthai.in.th/android-flutter/">บทความ Flutter โดย มาสเตอร์อึ่ง</a></li>  
-</ol>  
+### Flutter Course
+1. [Build Native Mobile Apps with Flutter - Udacity](https://classroom.udacity.com/courses/ud905)
+2. [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+3. [บทความ Flutter โดย มาสเตอร์อึ่ง](https://www.androidthai.in.th/android-flutter/)
+
+### Flutter Youtube
+1. [Flutter Crash Course for Beginners 2021 - Build a Flutter App with Google's Flutter & Dart](https://www.youtube.com/watch?v=x0uinJvhNxI)
+2. [Flutter Dev : BLoC Pattern ตอนที่ 1](https://www.youtube.com/watch?v=34N6Gb19NNc)
+3. [Introducing Flutter Widgets 101](https://www.youtube.com/watch?v=CXedqMlLo7M&list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd)
+4. [SafeArea (Flutter Widget of the Week)](https://www.youtube.com/watch?v=lkF0TQJO0bA&list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE)
+5. [Building your first Flutter Widget](https://www.youtube.com/watch?v=W1pNjxmNHNQ&list=PLOU2XLYxmsIK_ZeW1fh49iu5-j2D99O-P)
 
 <h2>Flutter Course Udemy</h2>
 <ol>
