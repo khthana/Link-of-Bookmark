@@ -79,6 +79,7 @@
 17. [Flutter Awesome](https://flutterawesome.com/)
 18. [Awesome Open Source](https://awesomeopensource.com/project/mitesh77/Best-Flutter-UI-Templates)
 19. [Data Tables for Flutter](https://flutterawesome.com/data-tables-for-flutter/)
+20. [Build a Cat-Dog Detector App with Flutter & Tensorflow | Flutter Tutorial For Beginners](https://www.youtube.com/watch?v=-5kUv47xKy0)
 
  
   
