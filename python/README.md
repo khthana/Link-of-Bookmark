@@ -15,6 +15,9 @@
 4. [Top 30 Apple Coding Interview Questions (With Solutions)](https://betterprogramming.pub/top-30-apple-coding-interview-questions-with-solutions-19990071ebfc)
 5. 
 
+### Game for python
+1. [4 เกมสนุก ๆ ที่ช่วยฝึกฝนทักษะ Python](https://www.techstarthailand.com/blog/detail/4-Free-Games-to-Easily-Learn-Python-While-Having-Fun/1915)
+
 ## MOOC
 1. [EdX : Introduction to Programming Using Python](https://learning.edx.org/course/course-v1:UTArlingtonX+CSE1309x+1T2018/block-v1:UTArlingtonX+CSE1309x+1T2018+type@sequential+block@456ad9aaf08745e8b0319587698eb193/block-v1:UTArlingtonX+CSE1309x+1T2018+type@vertical+block@5e73bbf9a3114304bac93188a8002b07)
 2. [Udacity : Introduction to Python](https://learning.edx.org/course/course-v1:UTArlingtonX+CSE1309x+1T2018/block-v1:UTArlingtonX+CSE1309x+1T2018+type@sequential+block@456ad9aaf08745e8b0319587698eb193/block-v1:UTArlingtonX+CSE1309x+1T2018+type@vertical+block@5e73bbf9a3114304bac93188a8002b07)
