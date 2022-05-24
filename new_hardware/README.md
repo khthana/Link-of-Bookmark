@@ -1,6 +1,38 @@
 ### Hardware
 
 1. [LED Dot Matrix สุ่มชื่อคนในห้อง](https://www.reddit.com/r/arduino/comments/lcvrqj/device_to_pick_a_random_student_to_call_on_in/)
+2. [Arduino Programming Cheat Sheet](https://www.facebook.com/wanchai.udomkitwanit/posts/10213675528829850)
+3. [Huawei Health Reverse Engineering](https://media.ccc.de/v/eh19-186-all-your-fitness-data-belongs-to-you-reverse-engineering-the-huawei-health-android-app#t=1755)
+4. [บันทึกข้อมูลจาก sensor บน Sense HAT ลงสู่ Google Sheet](https://tutorial.cytron.io/2020/10/06/log-sensor-data-from-sense-hat-to-google-sheets-using-raspberry-pi/)
+5. [ESP32 Weather Station](https://randomnerdtutorials.com/esp32-weather-station-pcb/)
+6. [Self-Supervised Representation Learning from Wearable Data in Federated Setting](https://towardsdatascience.com/self-supervised-representation-learning-from-wearable-data-in-federated-setting-dc3c9c754594)
+7. [List of PDF Files : MicroPython](https://think-embedded.gitbook.io/micropython/list-of-pdf-files)
+8. [TensorFlow Lite Micro support on the ESP32](https://blog.tensorflow.org/2020/08/announcing-tensorflow-lite-micro-esp32.html)
+9. [Circuit Construction Kit: DC](https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc)
+10. [Yahboom K210 Developer Kit](http://www.yahboom.net/study/K210-Developer-Kit)
+11. [How to Update Your Raspberry Pi to the Latest Raspbian OS](https://www.makeuseof.com/tag/raspberry-pi-update-raspbian-os/)
+12. [จับมือติดตั้ง OpenCV4 บน Raspberry Pi4 แบบไม่มีคำว่าลงไม่ได้](https://makerasia.com/opencv4-%E0%B8%9A%E0%B8%99-raspberry-pi4/)
+13. [ESP32-WiFi-Hash-Monster ](https://github.com/G4lile0/ESP32-WiFi-Hash-Monster)
+14. [การแก้ปัญหา WatchDog บน ESP8266 อีกแนวทางหนึ่ง แบบ TridentTD](https://medium.com/@TridentTD/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2-watchdog-%E0%B8%9A%E0%B8%99-esp8266-%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87-%E0%B9%81%E0%B8%9A%E0%B8%9A-tridenttd-1945378ce7)
+15. [ApproxFFT: Fastest FFT Function for Arduino](https://create.arduino.cc/projecthub/abhilashpatel121/approxfft-fastest-fft-function-for-arduino-fd4917/)
+16. [Face Tracking Robot with an ESP32-CAM](https://robotzero.one/face-tracking-robot/)
+17. [Run Your Favorite 8-bit Games On An ESP32](https://hackaday.com/2020/06/09/run-your-favorite-8-bit-games-on-an-esp32/)
+18. [bit racer ](https://www.facebook.com/vsupacha.engrtu/videos/2252234894871213/)
+19. [FIRE EFFECT ON M5STICKC WATCH](https://www.instructables.com/FIRE-EFFECT-ON-M5STICKC-WATCH/)
+20. [Serverless IoTs with Firebase Realtime Database and ESP32](https://medium.com/@vibrologic/serverless-iots-with-firebase-realtime-database-and-esp32-def049181b57)
+21. [Arduino Selfie Camera](https://www.instructables.com/Arduino-Selfie-Camera/?fbclid=IwAR1MppIKg2z0siGiUUA7cksxCUW7pgHUXZ_nmrmEjrFq7EspLc0evOvB7LU)
+22. [สอนวิธีใช้ TensorFlow Lite บน ESP32](https://colab.research.google.com/drive/1lUtBq-4VqfGpKLPU47SiuDq77RnYTAiw?usp=sharing#scrollTo=P5cLZK4NbFXC)
+23. [เริ่มต้นใช้งาน MicroPython กับ ESP32 ด้วย uPyCraft IDE](https://micropythonthai.blogspot.com/)
+24. [ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard)
+25. [Retro Gaming with Raspberry Pi](https://magpi.raspberrypi.com/books/retro-gaming)
+26. [programmer สำหรับเบิร์นโค้ด arduino](https://www.facebook.com/groups/arduino.thai/permalink/3117072668335489/)
+27. [ออกแบบจอกราฟฟิก](https://www.facebook.com/groups/arduino.thai/permalink/3079294805446609/)
+28. [มาเล่น AWS IoT กันเถอะ EP.3 Rule engine & Rule action](https://iamteam.me/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-aws-iot-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-ep-3-rule-engine-rule-action-db583213f84d)
+29. [UI สำหรับ esp32](https://www.facebook.com/leng.kittikun/posts/10158972065094901)
+30. [เกมเลี้ยงลูกบอล](https://www.facebook.com/watch/?ref=saved&v=525164738004132)
+31. [image ไฟล์สำหรับใช้กับ Raspberry pi 4](https://www.facebook.com/groups/rpi.th/permalink/2521315211455633/)
+32. [แก้ Bug littleGV](https://www.facebook.com/groups/2896526883905826/permalink/2899907610234420/)
+33. [esp32-music-audio-mp3-player](https://how2electronics.com/esp32-music-audio-mp3-player)
 
 
 ### Youtube
@@ -8,4 +40,8 @@
 2. [LED dot matrix p10](https://www.youtube.com/watch?v=5mU31rCpxEg)
 3. [Audio Spectrum on ESP32](https://www.youtube.com/watch?v=rP7kiefdr58)
 4. [Teensy Drum Sample Player](https://www.youtube.com/watch?v=exhIvvogbsg)
-5. 
+5. [MS Paint on ESP32 - draw in real time](https://www.youtube.com/watch?app=desktop&v=Q7YubyHPzJk)
+6. [The Smallest WiFi Button in the World (ESP8266, MQTT, IFTTT)](https://www.youtube.com/watch?v=ImVK5cGVrpQ)
+7. [6 DOF Manipulator Aluminum Robot Arm with Claw and Base](https://www.youtube.com/watch?v=GRNKYtz0jxQ)
+8. [Amazing Intro to M5stack setup and first program](https://www.youtube.com/watch?v=tLetFlVe5xA&list=PLgvIHLw9-cydbokzAKhi7lWcOVJ67RRTR)
+9. 
