@@ -7,13 +7,23 @@
 1. [50 Python Projects with Source Code](https://dev.to/kiransethu46/50-python-projects-with-source-code-2n7g)
 2. [GitHub : A basic calculator using Tkinter GUI](https://github.com/Rogerup/Tkalc)
 3. [Snake in Excel with Python (& xlwings)](https://www.youtube.com/watch?v=kayebcQ8pFw)
+4. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ## โจทย์ 
 1. [Project Euler](https://projecteuler.net/archives)
 2. [codewars](https://www.codewars.com/kata/556deca17c58da83c00002db/train/python)
 3. [Python Learn by Python Projects & Python Quizzes in 2021](https://www.udemy.com/course/the-complete-python-for-beginner-master-python-from-scratch/learn/lecture/15434760?start=0#overview)
 4. [Top 30 Apple Coding Interview Questions (With Solutions)](https://betterprogramming.pub/top-30-apple-coding-interview-questions-with-solutions-19990071ebfc)
-5. 
+5. [17 List Comprehension Exercises](https://gist.github.com/ryanorsinger/f7d7c1dd6a328730c04f3dc5c5c69f3a)
+
+##EXERCISE
+1. [Python Basic Exercise for Beginners](https://pynative.com/python-basic-exercise-for-beginners/)
+2. [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
+3. [Practice Python](https://www.practicepython.org/)
+4. [รวมข้อสอบ Python สำหรับ Coding Core Trainer ทั้งรุ่น 1 และรุ่น 2](http://www.nattapon.com/2019/11/python-coding-core-trainer/)
+5. [ace-python-coding-interview](https://www.educative.io/path/ace-python-coding-interview)
+6. [Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
+7. [Recursion for Coding Interviews in Python](https://www.educative.io/courses/recursion-for-coding-interviews-in-python)
 
 ### Game for python
 1. [4 เกมสนุก ๆ ที่ช่วยฝึกฝนทักษะ Python](https://www.techstarthailand.com/blog/detail/4-Free-Games-to-Easily-Learn-Python-While-Having-Fun/1915)
@@ -44,6 +54,8 @@
 9. [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
 10. [12 Hour Coding Livestream - Creating an Online Game with Python](https://www.youtube.com/watch?v=wDIQ17T3sRk)
 11. [Python Object Oriented Programming (OOP) - For Beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)
+12. [Learn Python - Getting started + 3 Projects for Excel & Data people](https://www.youtube.com/watch?v=uoC48wrJ-yM)
+
 
 ## PYGAME
 1. [TECHWITHTIM : pygame-tutorial](https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/)
@@ -142,6 +154,8 @@
 23. [Python_Mathayom_1_2_3.ipynb](https://colab.research.google.com/drive/1rm-kW7Nh5q3kk9JsnvBea2oUr42W9GIF#scrollTo=UA3GRRX3iees)
 24. [damien-hirst](https://www.phillips.com/detail/damien-hirst/UK010120/16)
 25. [ทำ REST APIs บน AWS Lambda ด้วย Go](https://sennalabs.com/en/blogs/REST-APIs-on-AWSLambda-with-Go)
+26. [17 Python One-Liners ที่ช่วยทำงานซับซ้อน ให้ง่ายขึ้น](https://www.techstarthailand.com/blog/detail/Python-One-Liners-for-seemingly-complex-tasks/2084)
+
 
 
 
