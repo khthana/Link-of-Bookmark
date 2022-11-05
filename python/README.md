@@ -2,6 +2,8 @@
 1. [Programming in Practice - Executive Summary](https://www.udemy.com/course/pipintroduction/learn/lecture/28868934#overview)
 2. [10 popular coding interview problems](https://www.udemy.com/course/10-problems/learn/lecture/30016086#overview)
 3. [Free Python Books](https://github.com/oddsun/Free-Python-Books)
+4. [awesome-python](https://github.com/vinta/awesome-python)
+5. [5 Python GUI Frameworks ที่สามารถใช้สร้าง Desktop, Web และ Mobile Apps ได้](https://www.techstarthailand.com/blog/detail/5-Python-GUI-Frameworks-to-Create-Desktop-Web-and-Even-Mobile-Apps/1980)
 
 ## Case Study
 1. [50 Python Projects with Source Code](https://dev.to/kiransethu46/50-python-projects-with-source-code-2n7g)
@@ -31,7 +33,9 @@
 ## MOOC
 1. [EdX : Introduction to Programming Using Python](https://learning.edx.org/course/course-v1:UTArlingtonX+CSE1309x+1T2018/block-v1:UTArlingtonX+CSE1309x+1T2018+type@sequential+block@456ad9aaf08745e8b0319587698eb193/block-v1:UTArlingtonX+CSE1309x+1T2018+type@vertical+block@5e73bbf9a3114304bac93188a8002b07)
 2. [Udacity : Introduction to Python](https://learning.edx.org/course/course-v1:UTArlingtonX+CSE1309x+1T2018/block-v1:UTArlingtonX+CSE1309x+1T2018+type@sequential+block@456ad9aaf08745e8b0319587698eb193/block-v1:UTArlingtonX+CSE1309x+1T2018+type@vertical+block@5e73bbf9a3114304bac93188a8002b07)
-3. 
+3. [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer?utm_campaign=metalp_backendcert&utm_medium=institutions&utm_source=meta)
+4. [Full-stack Python](https://www.educative.io/courses/using-python-transcrypt-transpiler-front-end-coding/B8VRq7wzq1Y)
+5. [Introduction to Computational Thinking and Data Science](https://learning.edx.org/course/course-v1:MITx+6.00.2x_4+3T2015/home)
 
 ## UDEMY
 1. [The Ultimate Python Guide for Beginners](https://www.udemy.com/course/the-ultimate-python-guide-for-beginners/learn/lecture/26286888#overview)
@@ -73,15 +77,18 @@
 2. [บทเรียน Python Framework FastAPI ](https://www.mindphp.com/%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-php/278-python-framework-fastapi.html)
 3. [A FastAPI Tutorial](https://www.toptal.com/python/build-high-performing-apps-with-the-python-fastapi-framework)
 4. [Writing an API with Python and FastAPI](https://codingnomads.co/blog/python-fastapi-tutorial)
+5. [ FastAPI - Build your first API with Python's Fastest API Web Framework!](https://www.youtube.com/watch?v=NH4VZaP3_9s)
+6. 
 
 
 ## FreeCodeCamp
 1. [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
 2. [12 Beginner Python Projects - Coding Course](https://www.youtube.com/watch?v=8ext9G7xspg)
-3. [Backend Web Development with Python - Full Course(https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/)
+3. [Backend Web Development with Python - Full Course](https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/)
 4. [OpenCV Tutorial - Develop Computer Vision Apps in the Cloud With Python](https://www.youtube.com/watch?v=iXNsAYOTzgM)
 5. [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
 6. [Learn Algorithms and Data Structures in Python](https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/)
+7. [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody)
 
 
 ## สอนเขียนโปรแกรมใน YOUTUBE
@@ -120,6 +127,7 @@
 
 ## DJANGO
 1. [Django REST framework](https://www.django-rest-framework.org/)
+2. [Python Django 7 Hour Course](https://www.youtube.com/watch?v=PtQiiknWUcI)
 
 ## PyShark
 1. [Pyshark - Python Wrapper For Tshark, Allowing Python Packet Parsing Using Wireshark Dissectors](https://www.kitploit.com/2019/08/pyshark-python-wrapper-for-tshark.html)
@@ -155,6 +163,13 @@
 24. [damien-hirst](https://www.phillips.com/detail/damien-hirst/UK010120/16)
 25. [ทำ REST APIs บน AWS Lambda ด้วย Go](https://sennalabs.com/en/blogs/REST-APIs-on-AWSLambda-with-Go)
 26. [17 Python One-Liners ที่ช่วยทำงานซับซ้อน ให้ง่ายขึ้น](https://www.techstarthailand.com/blog/detail/Python-One-Liners-for-seemingly-complex-tasks/2084)
+27. [GitHub Classroom: Creating assignments - Using a GitHub Repository](https://www.youtube.com/watch?v=6QzKZ63KLss&list=PLIRjfNq867bewk3ZGV6Z7a16YDNRCpK3u&index=4)
+28. [Azure Kubernetes Service Fundamentals](https://www.youtube.com/watch?v=or-MzD4OAic&list=PLWApnCxWplk5l3w-Gr-6wHSd4icUsLbyq&index=2)
+29. [Top 7 Python Libraries Used For Hacking](https://analyticsindiamag.com/top-7-python-libraries-used-for-hacking/)
+30. [6 Algorithms พื้นฐาน ที่ Developer ควรรู้จักไว้](https://www.techstarthailand.com/blog/detail/6-Algorithms-Every-Developer-Should-Know/1983)
+31. [Top 14 Data Structure Algorithm Applications In Real World](https://www.cselectricalandelectronics.com/top-14-data-structure-algorithm-applications-in-real-world/)
+32. [Applications of Data Structures in Computer Science](https://csveda.com/data-structure/applications-of-data-structures/)
+33. [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12202018?components=add_to_cart%2Cavailable_coupons%2Cbuy_button%2Cbuy_for_team%2Ccacheable_buy_button%2Ccacheable_deal_badge%2Ccacheable_discount_expiration%2Ccacheable_price_text%2Ccacheable_purchase_text%2Ccurated_for_ufb_notice_context%2Cdeal_badge%2Cdiscount_expiration%2Cgift_this_course%2Cincentives%2Cinstructor_links%2Clifetime_access_context%2Cmoney_back_guarantee%2Cprice_text%2Cpurchase_tabs_context%2Cpurchase%2Crecommendation%2Credeem_coupon%2Csidebar_container%2Cpurchase_body_container#overview)
 
 
 
