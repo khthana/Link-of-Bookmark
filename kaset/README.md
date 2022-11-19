@@ -13,7 +13,13 @@
 - [(ริวิว)มาสรุปเพาะเห็ดฟางตะกร้า เอาไว้กินในครัวเรือน](https://pantip.com/topic/33614576)
 - [เกษตรผสมผสาน มะนาวแป้นโคราช](http://koratmanaopan.blogspot.com/)
 - [วิธีการเพาะเชื้อเห็ดฟางจากต้นกล้วย](https://www.facebook.com/farmlandthai/photos?tab=album&album_id=1236236379754698)
-- []()
+- [รวมเรื่องราวเกี่ยวกับดินและแจกสูตรผสมดิน](https://www.baanlaesuan.com/44393/diy/easy-tips/tips-soil)
+- [ค้างผัก](https://kasetnana.blogspot.com/2017/04/blog-post_6.html)
+- [ชีวิตนี้จะไม่จน! ถ้าได้รู้จัก อธิศพัฒน์ วรรณสุทธิ์](https://praew.com/people/32713.html)
+- [ขยายจุลินทรีย์สังเคราะห์แสง Byอาชัย](https://www.facebook.com/RchaiSima/videos/628407810656194/)
+- [วิธีการเพาะเชื้อเห็ดฟางจากต้นกล้วย](https://www.facebook.com/groups/kasetmahachon/permalink/1009713332451259/)
+- [วิธีต่อไม้ไผ่](https://www.facebook.com/groups/1654202208135384/permalink/1789526251269645/)
+- 
 
 
 
