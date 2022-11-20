@@ -64,5 +64,5 @@
 - [12 Algorithms Every Data Scientist Should Know](https://www.datasciencecentral.com/12-algorithms-every-data-scientist-should-know/)
 - [Data Science (วิทยาการข้อมูล) คืออะไร? สายงานนี้ต้องทำอะไรบ้าง มาดูกันชัดๆ](https://blog.datath.com/data-science)
 - [ PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-- 
+- [ตัวอย่างโค้ดเรียกดูข้อมูลของกรมอุตุฯ](https://www.facebook.com/programmerthai/posts/1920364321586743)
 
