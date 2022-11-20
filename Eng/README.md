@@ -1,0 +1,4 @@
+- [ดาวน์โหลดหนังสืออ่านนอกเวลา 240 เล่ม](http://www.e4thai.com/e4e/index.php?view=article&catid=34%3Adownload-sites&id=161%3Apenguin-readers)
+- [ESL Fast - A free online English learning resource](https://www.eslfast.com/)
+- [มาฝึกทักษะการฟังภาษาอังกฤษ กับไฟล์เสียง story เกือบ 2,000 เรื่อง!!](https://www.wegointer.com/2014/11/2000-stories/)
+- 
