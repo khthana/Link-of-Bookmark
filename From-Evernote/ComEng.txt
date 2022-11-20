@@ -1,0 +1,4 @@
+### DB
+- [SQL Cheat Sheet](https://www.facebook.com/thaicoders/posts/1533507333420448)
+
+### NLP
