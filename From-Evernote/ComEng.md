@@ -18,3 +18,8 @@
 - [Big Data - พ็อดคาสท์ฟรีจาก Chulalongkorn University ใน iTunes](https://itunes.apple.com/th/itunes-u/big-data/id1109952360?l=th&mt=10)
 - [complete-overview-learning-python-data-analysis](https://www.datasciencelearner.com/complete-overview-learning-python-data-analysis/)
 - [รู้จัก Firebase Predictions ตั้งแต่ Zero จนเป็น Hero](https://medium.com/firebasethailand/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-firebase-predictions-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88-zero-%E0%B8%88%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-hero-45b3b95f35ec)
+- [Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+- Python for Data Science - YouTube](https://www.youtube.com/watch?v=Pdcc0DpaUBU)
+- [DQN เขียนโปรแกรมออกจากเขาวงกตโดยใช้ Q-learning [Part II]](https://medium.com/kosate/dqn-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%95%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89-q-learning-part-ii-bb23a25dd448)
+- [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+- 
