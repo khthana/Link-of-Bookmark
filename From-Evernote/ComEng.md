@@ -60,5 +60,9 @@
 - [Interactive Data Visualization using Bokeh (in Python)](https://www.analyticsvidhya.com/blog/2015/08/interactive-data-visualization-library-python-bokeh/)
 - [Splunk Workshop Driven Value of Your Data to Real Time IT Operation Analytic ](https://www.coursesquare.co/course/courseInfo/Splunk-Workshop-Driven-Value-of-Your-Data--to-Real-Time-IT-Operation-Analytic)
 - [60+ Free Books on Big Data, Data Science, Data Mining, Machine Learning, Python, R, and more](https://www.kdnuggets.com/2015/09/free-data-science-books.html)
+- [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning)
+- [12 Algorithms Every Data Scientist Should Know](https://www.datasciencecentral.com/12-algorithms-every-data-scientist-should-know/)
+- [Data Science (วิทยาการข้อมูล) คืออะไร? สายงานนี้ต้องทำอะไรบ้าง มาดูกันชัดๆ](https://blog.datath.com/data-science)
+- [ PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - 
 
