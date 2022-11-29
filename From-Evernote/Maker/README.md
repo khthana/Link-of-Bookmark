@@ -39,31 +39,14 @@
 - [beartai ](https://www.facebook.com/beartai/videos/1450700018296407/)
 - [Hi-light Video](https://www.facebook.com/JimmySoftware/videos/1199722270104813/)
 - [FabCafe](https://www.youtube.com/watch?v=CsMmgnTLfFM)
-- 
 
+### 
+- [คุณ Sato เมกเกอร์ชาวญี่ปุ่นเจ้าของหุ่นยนต์ตัวนี้](https://www.facebook.com/bangkokmakerfaire/videos/1767861986808278/)
+- [แนวทางการคำนวณแขนกลขนาดเล็ก Arduino Thailand](https://www.facebook.com/groups/arduino.thai/permalink/1341889999187107/)
+- [[Arduino #8] ซ่อมบูตโหลดเดอร์](https://www.praphas.com/index.php/2008-11-03-14-25-25/51-arduino/94-arduino-8)
+- [Piano Tiles 2 Robot Beginner 21.079 Record - YouTube](https://www.youtube.com/watch?v=fqOW84ZTL7k)
+- [SALTO หุ่นยนต์กระโดดไต่กำแพง – ThaiRobotics](https://www.thairobotics.com/2016/12/14/salto-vertical-jumping/)
 
-คุณ Sato เมกเกอร์ชาวญี่ปุ่นเจ้าของหุ่นยนต์ตัวนี้
-https://www.facebook.com/bangkokmakerfaire/videos/1767861986808278/
-
-Super Top 10 Arduino Robot Projects - Machines Media
-
-(36) Funny Arduino Projects TOP 5 - YouTube
-
-Vibration Cancellation Part1 ทดสอบตัวกระตุ้น (Actuator test) - Chiang Mai Maker Club Thailand
-
-Vibration Cancellation Part2 Active Damping test - Chiang Mai Maker Club Thailand
-
-(3) แนวทางการคำนวณแขนกลขนาดเล็ก Arduino Thailand
-
-How to make Arduino pong game-Arduino Project - MrModder.com
-
-[Arduino #8] ซ่อมบูตโหลดเดอร์
-
-(36) Piano Tiles 2 Robot Beginner 21.079 Record - YouTube
-
-SALTO หุ่นยนต์กระโดดไต่กำแพง – ThaiRobotics
-
-แจกไฟล์สำหรับทำบอร์ดอเนกประสงค์ Shield Arduino - elec108 Inspired by LnwShop.com
 
 200+ Arduino Projects List For Final Year Students
 
