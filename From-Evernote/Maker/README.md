@@ -40,97 +40,36 @@
 - [Hi-light Video](https://www.facebook.com/JimmySoftware/videos/1199722270104813/)
 - [FabCafe](https://www.youtube.com/watch?v=CsMmgnTLfFM)
 
-### 
+### ETC2
 - [คุณ Sato เมกเกอร์ชาวญี่ปุ่นเจ้าของหุ่นยนต์ตัวนี้](https://www.facebook.com/bangkokmakerfaire/videos/1767861986808278/)
 - [แนวทางการคำนวณแขนกลขนาดเล็ก Arduino Thailand](https://www.facebook.com/groups/arduino.thai/permalink/1341889999187107/)
 - [[Arduino #8] ซ่อมบูตโหลดเดอร์](https://www.praphas.com/index.php/2008-11-03-14-25-25/51-arduino/94-arduino-8)
 - [Piano Tiles 2 Robot Beginner 21.079 Record - YouTube](https://www.youtube.com/watch?v=fqOW84ZTL7k)
 - [SALTO หุ่นยนต์กระโดดไต่กำแพง – ThaiRobotics](https://www.thairobotics.com/2016/12/14/salto-vertical-jumping/)
-
-
-200+ Arduino Projects List For Final Year Students
-
-Nine Best Online Circuit Simulator Electronics Infoline
-
-Minimalist ATtiny85 wrist watch - Embedded Lab
-
-(36) รีวิว โมดูลตรวจจับความเคลื่อนไหวความแม่นยำสูง PIOX Motion Sersor - YouTube
-
-เปรียบเทียบโมดูลวัดระยะด้วยคลื่นอัตตร้าโซนิครุ่นต่าง ๆ พร้อมวิธีใช้งาน Inspired by LnwShop.com
-
-Turn mini Pringles cans into electronic drums Electronics Infoline
-
-(36) Arduino Step - YouTube - YouTube
-
-จับ Node32s (EPS32) มาคุยกับ Raspberry Pi ผ่าน Wireless Network - Raspberry Pi Thailand Blog
-
-(36) Rubik's Cube Robot - self solving - YouTube
-
-(5) Drive 7 segment common cathod ขนาด 5นิ้ว ใช้ไฟ 12 V Arduino Thailand
-
-Geek Clock FiBiNo Fibonacci Binary Arduino Clock 8 Steps (with Pictures)
-
-Arduino measures heart beat rate from fingertip - Embedded Lab
-
-(36) How to make Brushless Motor from motor DVD, VCD player - YouTube
-
-Wireless communication between two Arduinos using inexpensive RF modules - Embedded Lab
-
-(36) Servo Stabilizer gimbal with Arduino control - YouTube
-
-Running Accelstepper Faster - Code HodgePodging for a Faster Maximum Step Speed 3 Steps
-
-(36) FacebooktwitterYoutube Raspberry Pi box - YouTube
-
-ESP8266 กับการควบคุม RGB LED แบบเรียลไทม์ Inspired by LnwShop.com
-
-Wireless communication between two Arduinos using inexpensive RF modules - Embedded Lab
-
-(36) Smart Farm ระบบรดน้ำต้นไม้ จ่ายน้ำอัตโนมัติ Sensor ไร้สาย ไฟ SolarCell แยกช่องอิสระ - YouTube
-
-Connecting Node MCU with Azure IoT Hub
-
-(36) MPU-6050 6dof IMU tutorial for auto-leveling quadcopters with Arduino source code - YouTube
-
-(5) XY-bot
-
-Sensor21 Earn bitcoin by collecting environmental data
-
-(3) และนี่คือผลงานที่เขียนโปรแกรมแล้วสำหรับการทำงาน... - ThaiEasyElec Education
-
-(3) ทำไมในระบบไฟฟ้า 3 เฟส 4 สาย... - ห้องไฟฟ้า (Electrical Room)
-
-(3) Smart Home Solution ESP8266 THAILAND
-
-Google ‘smart contact lens’ aims to help monitor diabetes The Times & The Sunday Times
-
---Arduino Radar Project 11
-
----Arduino Home Security System sw232
-
-(3) It's an invention like nothing we've seen in the... - Shark Tank Australia
-
-(36) Intro x86 (32 bit) - YouTube - YouTube
-
-(3) IoT - T-tech Innovation & Solution
-
-การใช้ React Native ติดต่อกับ netpie.io และ React Native Playground - Chiang Mai Maker Club Thailand
-
-Velo Bling-Bling - Hackster.io
-
-[รีวิว + เล่น] เมื่อเราอยาก chat กับเครื่องใช้ไฟฟ้า ผ่าน facebook messenger – Anto's Blog
-
-(36) จัดอันดับ 100 ผลิตภัณฑ์ยอดเยี่ยมสุดล้ำ !! ปี 2016 - YouTube
-
-
-
-https://drive.google.com/file/d/0B75d34AF4x2bM2w5djBRMjNjUmM/view
-
-
-
-
-
-
+- [200+ Arduino Projects List For Final Year Students](https://www.electronicshub.org/arduino-project-ideas/)
+- [Minimalist ATtiny85 wrist watch - Embedded Lab](https://embedded-lab.com/blog/minimalist-attiny85-wrist-watch/)
+- [รีวิว โมดูลตรวจจับความเคลื่อนไหวความแม่นยำสูง PIOX Motion Sersor - YouTube](https://www.youtube.com/watch?v=EoHcQfI6XQ8)
+- [จับ Node32s (EPS32) มาคุยกับ Raspberry Pi ผ่าน Wireless Network - Raspberry Pi Thailand Blog](http://raspberrypi-thailand.blogspot.com/2016/11/node32s-eps32-raspberry-pi-wireless.html)
+- [Rubik's Cube Robot - self solving - YouTube](https://www.youtube.com/watch?v=qt_YYSK889k)
+- [Geek Clock FiBiNo Fibonacci Binary Arduino Clock 8 Steps (with Pictures)](https://www.instructables.com/Geek-Clock-FiBiNo-Fibonacci-Binary-Arduino-Clock/)
+- [Arduino measures heart beat rate from fingertip - Embedded Lab](https://embedded-lab.com/blog/arduino-heart-rate-meter-seven-segment-led-display/)
+- [How to make Brushless Motor from motor DVD, VCD player - YouTube](https://www.youtube.com/watch?v=78LvKOqoFko)
+- [Wireless communication between two Arduinos using inexpensive RF modules - Embedded Lab](https://embedded-lab.com/blog/wireless-communication-between-two-arduinos-using-low-cost-433mhz-ask-rf-modules/)
+- [Servo Stabilizer gimbal with Arduino control - YouTube](https://www.youtube.com/watch?v=TD9pkeKE_Q0)
+- [Running Accelstepper Faster - Code HodgePodging for a Faster Maximum Step Speed 3 Steps](https://www.instructables.com/Playing-with-Accelstepper-Code-HodgePodging-for-a-/)
+- [FacebooktwitterYoutube Raspberry Pi box - YouTube](https://www.youtube.com/watch?v=v2XymfjZn1k)
+- [Wireless communication between two Arduinos using inexpensive RF modules - Embedded Lab](https://embedded-lab.com/blog/wireless-communication-between-two-arduinos-using-low-cost-433mhz-ask-rf-modules/)
+- [Smart Farm ระบบรดน้ำต้นไม้ จ่ายน้ำอัตโนมัติ Sensor ไร้สาย ไฟ SolarCell แยกช่องอิสระ - YouTube](https://www.youtube.com/watch?v=Jd-O5ckMHTQ)
+- [Connecting Node MCU with Azure IoT Hub](https://icircuit.net/connecting-node-mcu-with-azure-iot-hub/1089)
+- [MPU-6050 6dof IMU tutorial for auto-leveling quadcopters with Arduino source code - YouTube](https://www.youtube.com/watch?v=4BoIE8YQwM8)
+- [XY-bot](https://www.facebook.com/notes/1214154225638018/)
+- [ทำไมในระบบไฟฟ้า 3 เฟส 4 สาย... - ห้องไฟฟ้า (Electrical Room)](https://www.facebook.com/watch/?v=957981487548585)
+- [It's an invention like nothing we've seen in the... - Shark Tank Australia](https://www.facebook.com/watch/?v=625338240963667)
+- [Intro x86 (32 bit) - YouTube - YouTube](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
+- [IoT - T-tech Innovation & Solution](https://www.facebook.com/ttechinnovation/videos/1190768534298422/)
+- [Velo Bling-Bling - Hackster.io](https://www.hackster.io/veloblingbling/velo-bling-bling-7b4a7e)
+- [[รีวิว + เล่น] เมื่อเราอยาก chat กับเครื่องใช้ไฟฟ้า ผ่าน facebook messenger – Anto's Blog](https://blog.anto.io/th/reviewfacebookbotchat3/)
+- [จัดอันดับ 100 ผลิตภัณฑ์ยอดเยี่ยมสุดล้ำ !! ปี 2016 - YouTube](https://www.youtube.com/watch?v=G50JNacvbCc)
 
 
 หมอจิม
