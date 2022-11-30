@@ -1,0 +1,178 @@
+ฮาร์ดแวร์
+
+รายละเอียดชิป ESP8266 จากผู้ผลิต : http://espressif.com/en/products/esp8266/
+หน้าเว็บหลักผู้ผลิตโมดูล ESP8266 รุ่นต่างๆ : https://www.ai-thinker.com/
+หน้าหลักผู้ผลิตบอร์ดพัฒนา ESP8266 NodeMCU : http://nodemcu.com/
+รายละเอียดของโมดูลเวอร์ชั่นต่างๆที่ผลิตโดย AI Thinker : http://bbs.ai-thinker.com/forum.php?mod=viewthread&tid=641
+
+เฟิร์มแวร์
+
+หน้าดาว์โหลด C SDK : http://espressif.com/new-sdk-release/
+พัฒนาเฟิร์มแวร์ ESP8266 บนโปรแกรม Arduino ด้วยภาษา C C++ : https://github.com/esp8266/Arduino
+NodeMCU Firmware พัฒนา ESP8266 ด้วยภาษา Lua : https://github.com/nodemcu/nodemcu-firmware
+Sming Firmware พัฒนา ESP8266 ด้วยภาษา C++ : https://github.com/SmingHub/Sming
+MicroPython พัฒนา ESP8266 ด้วยภาษา Python : https://github.com/micropython/micropython/tree/master/esp8266
+smart.js พัฒนา ESP8266 ด้วยภาษา JavaScript : https://github.com/cesanta/smart.js/tree/master/platforms/esp8266
+
+โปรแกรมแฟลชเฟิร์มแวร์ / เครืองมือ
+
+ESP Flasher Tool : https://drive.google.com/open?id=0B_ctPy0pJuW6V2ViNDR0NGdnYTQ&authuser=1
+NodeMCU Flasher : https://github.com/nodemcu/nodemcu-flasher
+Smart.js flashing tool : https://github.com/cesanta/smart.js/releases
+esptool (on Linux) : https://github.com/themadinventor/esptool/
+XTCOM : ?
+esp8266 flasher (old) : http://www.thaieasyelec.com/downloads/EWLM107/esp8266_flasher.rar
+Eclipse IDE for ESP8266 : http://www.esp8266.com/viewtopic.php?f=9&t=820
+
+เอกสารอย่างเป็นทางการ
+
+การติดตั้งเครื่อมือ / คอมไพล์โค้ด C SDK : https://github.com/esp8266/esp8266-wiki/wiki
+การติดตั้งเครื่องมือ / คอมไพล์โค้ด Sming Firmware : https://github.com/SmingHub/Sming/wiki
+รายละเอียดฟังก์ชั่นของ NodeMCU Firmware : https://github.com/nodemcu/nodemcu-firmware/wiki/nodemcu_api_en
+รายละเอียดฟังก์ชั่นของ Smart.js : https://www.cesanta.com/developer/smartjs#_javascript_api_reference
+
+บทความการใช้งานจากผู้ใช้
+
+
+ภาษาอังกฤษ
+
+ESP8266 & Arduino
+Arduino and ESP8266 Control ThingSpeak : http://microcontrollerkits.blogspot.com/2015/05/arduino-esp8266-iot-control-thingspeak.html
+Arduino to ESP8266 By Serial Communication : http://www.martyncurrey.com/arduino-to-esp8266-serial-commincation/
+Programando un Arduino remotamente con el módulo ESP8266 : http://www.sistemasorp.es/2014/11/11/programando-un-arduino-remotamente-con-el-modulo-esp8266/
+GETTING STARTED WITH ESP8266 : http://www.seeedstudio.com/blog/2014/09/11/getting-started-with-esp8266/
+First Impression on the ESP8266 Serial-to-WiFi Module : http://rayshobby.net/first-impression-on-the-esp8266-serial-to-wifi-module/
+ESP8266 – Further experimentation : https://www.ibm.com/developerworks/community/blogs/hickmat/entry/esp8266_further_experimentation?lang=en
+ESP8266 based Temperature Data logger using Arduino : https://elementztechblog.wordpress.com/2015/05/13/esp8266-based-temperature-data-logger-using-arduino/
+Arduino Due + ESP8266 web server controlled LED : http://arduino-er.blogspot.com/2015/05/arduino-due-esp8266-web-server.html
+Wireless Communication with ESP8266 : http://fab.cba.mit.edu/classes/865.15/people/dan.chen/esp8266/
+Send sensor data (DHT11 & BMP180) to ThingSpeak with an Arduino, using cable or WiFi (ESP8266) : http://www.instructables.com/id/Send-sensor-data-DHT11-BMP180-to-ThingSpeak-with-a/
+Arduino + ESP8266 + Thingspeak example code : http://www.awam.com.au/design/arduino-esp8266-thingspeak-example-code/
+Arduino Due + ESP8266 + DHT11, to update ThingSpeak : http://arduino-er.blogspot.com/2015/05/arduino-due-esp8266-dht11-to-update_27.html
+ESP8266 (Only)
+Arduino programming on the ESP8266 : http://www.penninkhof.com/2015/08/arduino-programming-on-the-esp8266/
+ESP8266 and Arduino IDE – blink example : http://iot-playground.com/2-uncategorised/38-esp8266-and-arduino-ide-blink-example
+Using Arduino IDE : https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide
+How to use ESP8266 ESP-01 as a SENSOR web client : https://importhack.wordpress.com/2014/11/22/how-to-use-ep8266-esp-01-as-a-sensor-web-client/
+LAN Based Stand Alone ESP8266 : http://thinkingparts.blogspot.com/2015/02/home-automation-lan-based-stand-alone.html
+ESP8266 controlling a Water Heater (boiler) – Small step towards a smart house : http://www.whatimade.today/esp8266-and-the-water-heater/
+ESP8266 WiFi relay switch (Arduino IDE) : http://iot-playground.com/2-uncategorised/40-esp8266-wifi-relay-switch-arduino-ide
+ESP8266 WiFi gas sensor (Arduino IDE) : http://iot-playground.com/2-uncategorised/53-esp8266-wifi-gas-sensor-arduino-ide
+ESP8266 WiFi DS18B20 temperature sensor (Arduino IDE) : http://iot-playground.com/2-uncategorised/41-esp8266-ds18b20-temperature-sensor-arduino-ide
+Graphic Equalizer Display using ESP8266-12, MSGEQ7 and WS2812 : http://www.whatimade.today/graphic-equalizer-using-esp8266-msgeq7-ws2812/
+ESP8266 Web Server Tutorial : http://randomnerdtutorials.com/esp8266-web-server/
+ESP8266 Web Server (Without Arduino) : http://www.instructables.com/id/ESP8266-Web-Server-Without-Arduino/
+ESP8266 Thing Hookup Guide : https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/all
+ESP8266 Temperature / Humidity Webserver : https://learn.adafruit.com/esp8266-temperature-slash-humidity-webserver
+How to Make an Interactive TCP Server with NodeMCU on the ESP8266 : http://www.allaboutcircuits.com/projects/how-to-make-an-interactive-tcp-server-nodemcu-on-the-esp8266/
+ESP8266 Webserver with AJAX GPIO Toggle : http://sompi.pl/esp8266-webserver-with-ajax-gpio-toggle/
+An inexpensive IoT enabler using ESP8266 : http://www.instructables.com/id/An-inexpensive-IoT-enabler-using-ESP8266/
+Report the temperature with ESP8266 to MQTT : https://home-assistant.io/blog/2015/10/11/measure-temperature-with-esp8266-and-report-to-mqtt/
+Connect an ESP8266 with the Arduino SDK to the IBM IoT Foundation : https://developer.ibm.com/recipes/tutorials/connect-an-esp8266-with-the-arduino-sdk-to-the-ibm-iot-foundation/
+ESP8266 AND IOT: STREAMING SERIAL ACCELEROMETER DATA VIA MQTT : http://tinker.yeoman.com.au/2015/03/29/esp8266-and-iot-streaming-serial-accelerometer-data-via-mqtt/
+Building a battery powered WiFi IoT Sensor with ESP8266, MS-5611 (GY-63), nodemcu and MQTT : http://www.agocontrol.com/2015/03/building-a-battery-powered-wifi-iot-sensor-with-esp8266-ms-5611-gy-63-nodemcu-and-mqtt/
+ESP8266 + DS18B20 Temperature sensor sends data to Thingspeak.com : http://pixelatedpic.blogspot.com/2015/05/esp8266-ds18b20-temperature-sensor.html
+Using NodeMCU Lua : https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-nodemcu-lua
+wireless logger ESP8266 NodeMCU v1.0 with Arduino IDE : http://www.instructables.com/id/ESP8266-NodeMCU-v10-ESP12-E-with-Arduino-IDE/
+A simple connected object with NodeMCU and MQTT : http://www.foobarflies.io/a-simple-connected-object-with-nodemcu-and-mqtt/
+ESP8266 NodeMCU – DHT22 humidity sensor with MQTT and deep sleep : https://odd-one-out.serek.eu/esp8266-nodemcu-dht22-mqtt-deep-sleep/
+
+ภาษาไทย
+
+Arduino + ESP8266 กับการควบคุมหลอดไฟผ่านระบบอินทราเน็ต : http://www.elec-za.com/arduino-esp8266-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%a7%e0%b8%9a%e0%b8%84%e0%b8%b8%e0%b8%a1%e0%b8%ab%e0%b8%a5%e0%b8%ad%e0%b8%94%e0%b9%84%e0%b8%9f/
+เขียนโปรแกรมควบคุม ESP8266 ด้วย Arduino IDE : http://www.elec-za.com/arduino-ide-program-esp8266/
+ioESP แอพฯควบคุมพอร์ต ESP8266 : http://www.elec-za.com/ioesp-app/
+ESP8266 บน Arduino IDE : http://www.thaieasyelec.com/article-wiki/embedded-electronics-application/esp8266-on-adurino-ide.html
+บทความการใช้งานเริ่มต้น ESP8266 NodeMCU และการใช้งาน Application ต่างๆ ตอนที่ 1 ติดตั้ง Arduino IDE ลงบน ESP8266 NodeMCU : http://www.thaieasyelec.com/article-wiki/embedded-electronics-application/getting-started-with-esp8266-nodemcu.html
+บทความการใช้งานเริ่มต้น ESP8266 NodeMCU และการใช้งาน Application ต่างๆ ตอนที่ 2 วิธีเชื่อมต่อ NodeMCU เข้ากับระบบ Network : http://www.thaieasyelec.com/article-wiki/embedded-electronics-application/getting-started-with-esp8266-nodemcu-ch2.html
+บทความการใช้งานเริ่มต้น ESP8266 NodeMCU และการใช้งาน Application ต่างๆ ตอนที่ 3 การใช้งาน TCP/IP : http://www.thaieasyelec.com/article-wiki/embedded-electronics-application/getting-started-with-esp8266-nodemcu-ch3.html
+บทความการใช้งานเริ่มต้น ESP8266 NodeMCU และการใช้งาน Application ต่างๆ ตอนที่ 4 การใช้งาน GPIO : http://www.thaieasyelec.com/article-wiki/embedded-electronics-application/getting-started-with-esp8266-nodemcu-ch4.html
+บทความการใช้งานเริ่มต้น ESP8266 NodeMCU และการใช้งาน Application ต่างๆ ตอนที่ 5 Web Server : http://www.thaieasyelec.com/article-wiki/embedded-electronics-application/getting-started-with-esp8266-nodemcu-ch5.html
+บทความการใช้งานเริ่มต้น ESP8266 NodeMCU และการใช้งาน Application ต่างๆ ตอนที่ 6 Web Client : http://www.thaieasyelec.com/article-wiki/embedded-electronics-application/getting-started-with-esp8266-nodemcu-ch6.html
+มาเล่น Ultrasonic Sensor กับ NodeMCU Dev Kit กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-ultrasonic-sensor-%e0%b8%81%e0%b8%b1%e0%b8%9a-nodemcu-dev-kit-%e0%b8%81%e0%b8%b1%e0%b8%99/
+มาเล่น NodeMCU devkit กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-nodemcu-devkit-%e0%b8%81%e0%b8%b1%e0%b8%99/
+มาเล่น NodeMCU DevKit V2 กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-nodemcu-devkit-v2-%e0%b8%81%e0%b8%b1%e0%b8%99/
+มาใช้งาน Arduino ESP8266 IDE กับ NodeMCU Dev Kit กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-arduino-esp8266-ide-%e0%b8%81%e0%b8%b1%e0%b8%9a-nodemcu-dev-kit-%e0%b8%81%e0%b8%b1%e0%b8%99/
+มาเล่น NodeMCU กับ ThingSpeak : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-nodemcu-%e0%b8%81%e0%b8%b1%e0%b8%9a-thingspeak/
+มาเล่น NodeMCU กับ DHT22 กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-nodemcu-%e0%b8%81%e0%b8%b1%e0%b8%9a-dht22-%e0%b8%81%e0%b8%b1%e0%b8%99/
+มาเล่น NET-PIE กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-net-pie-%e0%b8%81%e0%b8%b1%e0%b8%99/
+มาเล่น ESP8266 กับจอ LCD กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-esp8266-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%88%e0%b8%ad-lcd-%e0%b8%81%e0%b8%b1%e0%b8%99/
+มาเล่น DW.miniESP กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-dw-miniesp-%e0%b8%81%e0%b8%b1%e0%b8%99/
+เพิ่มบอร์ด ESP8266 ใน Arduino IDE : http://thaiopensource.org/%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%94-esp8266-%e0%b9%83%e0%b8%99-arduino-ide/
+มา Flash Firmware ให้ ESP8266 ด้วย ESPTool กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2-flash-firmware-%e0%b9%83%e0%b8%ab%e0%b9%89-esp8266-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-esptool-%e0%b8%81%e0%b8%b1%e0%b8%99/
+มาลองเล่น Arduino ESP IDE กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-arduino-esp-ide-%e0%b8%81%e0%b8%b1%e0%b8%99/
+มาเล่น SmartConfig บน ESP8266 กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-smartconfig-%e0%b8%9a%e0%b8%99-esp8266-%e0%b8%81%e0%b8%b1%e0%b8%99/
+มาเล่น Blynk กับ ESP8266 กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-blynk-%e0%b8%81%e0%b8%b1%e0%b8%9a-esp8266-%e0%b8%81%e0%b8%b1%e0%b8%99/
+มาวาด Bitmap บนจอ OLED และ ESP8266 กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b8%a7%e0%b8%b2%e0%b8%94-bitmap-%e0%b8%9a%e0%b8%99%e0%b8%88%e0%b8%ad-oled-%e0%b9%81%e0%b8%a5%e0%b8%b0-esp8266-%e0%b8%81%e0%b8%b1%e0%b8%99/
+มาเล่น ESP8266 กับจอ OLED 128×64 ด้วย Arduino ESP กัน : http://thaiopensource.org/%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-esp8266-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%88%e0%b8%ad-oled-128×64-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-arduino-esp-%e0%b8%81%e0%b8%b1%e0%b8%99/
+ESP8266 วิธีทดสอบและใช้งาน : http://www.ayarafun.com/2014/09/esp8266-at-command-tutorial/
+Micro WebServer จาก ESP8266 และ Arduino : http://www.ayarafun.com/2014/09/micro-webserver-from-esp8266-and-arduino/
+มาเล่น ESP8266 บน Arduino IDE กันเถอะ : http://www.ayarafun.com/2015/04/arduino-ide-for-esp8266/
+DIY Smart Bulb แบบที่เราทำเองได้จาก ESP8266 และ Android App : http://www.ayarafun.com/2014/10/diy-smart-bulb-with-esp8266-and-android-app/
+แจกไฟล์ esp8266 NodeMCU สำหรับ Fritzing ครับ : http://www.ayarafun.com/2015/07/esp8266-nodemcu-for-fritzing/
+ก้าวแรกสู่ IoT : ESP8266 บันทึกข้อมูลเข้า Cloud ของ data.sparkfun.com : http://www.ayarafun.com/2015/04/pushing-data-to-data-sparkfun-com-with-esp8266/
+รู้จักกับ Arduino ESP8266 (NodeMCU) : http://www.ayarafun.com/2015/08/introduction-arduino-esp8266-nodemcu/
+ESP8266 บันทึกข้อมูลเข้า Thingspeak : http://www.ayarafun.com/2015/09/esp8266-sending-data-to-thingspeak/
+ติดตั้ง Arduino ESP สำหรับ NodeMCU V1.0 : http://www.ayarafun.com/2015/08/setup-arduino-esp-with-nodemcu/
+การใช้งาน NodeMCU สำหรับโมดูล ESP8266 เบื้องต้น : http://cpre.kmutnb.ac.th/esl/learning/index.php?article=esp8266-nodemcu
+การเริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE (ตอนที่ 1 – ติดตั้ง Arduino IDE กับ ESP8266 พร้อม flash โปรแกรม) : https://cmmakerclub.com/esp8266/%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b8%95%e0%b9%89%e0%b8%99%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-esp8266-%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%99-arduino-ide/
+ทดลองทำ Shield DW.mini ESP8266 ให้ใช้ร่วมกับ Arduino Nano shield ของ Gravitech : https://cmmakerclub.com/esp8266/esp8266-shield-for-support-arduino-nano-gravitech/
+ESP8266 ส่งค่าผ่าน HTTP GET + TCP : https://cmmakerclub.com/esp8266/esp8266-%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%84%e0%b9%88%e0%b8%b2%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%99-http-get-tcp/
+ทดสอบ ESP8266, จอ 2.8” TFT Adafruit ผ่าน SPI, บน Arduino IDE พร้อม Shield For ESP8266 : https://cmmakerclub.com/esp8266/%e0%b8%97%e0%b8%94%e0%b8%aa%e0%b8%ad%e0%b8%9a-esp8266-%e0%b8%88%e0%b8%ad-2-8-tft-adafruit-%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%99-spi-%e0%b8%9a%e0%b8%99-arduino-ide-%e0%b8%9e%e0%b8%a3%e0%b9%89/
+ทดสอบ ESP8266, จอ Liquid Crystal LCD Modules ผ่าน I2C, และ Arduino IDE : https://cmmakerclub.com/esp8266/%e0%b8%97%e0%b8%94%e0%b8%aa%e0%b8%ad%e0%b8%9a-esp8266-%e0%b8%88%e0%b8%ad-liquid-crystal-lcd-modules-%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%99-i2c-%e0%b9%81%e0%b8%a5%e0%b8%b0-arduino-ide/
+ทดสอบ ESP8266, จอ OLED 128×64 ผ่าน I2C, และ Arduino IDE : https://cmmakerclub.com/esp8266/%e0%b8%97%e0%b8%94%e0%b8%aa%e0%b8%ad%e0%b8%9a-esp8266-%e0%b8%88%e0%b8%ad-oled-128×64-%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%99-i2c-%e0%b9%81%e0%b8%a5%e0%b8%b0-arduino-ide/
+ปฐมบทการส่งข้อมูลขึ้น Thingspeak และ Sparkfun โดยใช้ ESP8266 + Arduino IDE (Native) : https://cmmakerclub.com/esp8266/esp8266-data-logge-to-thingspeak/
+การอ่าน และเขียน SD Card บน ESP8266 : https://cmmakerclub.com/esp8266/using-sdcard-with-esp8266-nodemcu-arduino-ide/
+การอ่าน และเขียน SD Card บน ESP8266 : https://cmmakerclub.com/esp8266/%e0%b8%97%e0%b8%94%e0%b8%aa%e0%b8%ad%e0%b8%9a%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-hardware-spi-%e0%b8%9a%e0%b8%99esp8266-%e0%b8%81%e0%b8%b1%e0%b8%9a-%e0%b9%80%e0%b8%82%e0%b8%b5/
+การอ่านค่า DS18B20 ด้วย ESP8266 Native + Arduino IDE : https://cmmakerclub.com/esp8266/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%84%e0%b9%88%e0%b8%b2-ds18b20-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-esp8266-native-arduino-ide/
+การใช้ ESP8266 อ่านค่า Analog (ADC) อย่างง่าย : https://cmmakerclub.com/esp8266/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-esp8266-%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%84%e0%b9%88%e0%b8%b2-analog-adc-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%87/
+การอ่านค่า DHT22 ด้วย ESP8266 บน DW.miniESP Native + Arduino IDE : https://cmmakerclub.com/esp8266/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%84%e0%b9%88%e0%b8%b2-dht22-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-esp8266-native-arduino-ide/
+การใช้งาน MQTT บน native ESP8266 + Arduino IDE และทดสอบเชื่อมกับ cloudmqtt : https://cmmakerclub.com/esp8266/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-mqtt-%e0%b8%9a%e0%b8%99-esp8266-%e0%b8%9e%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%97%e0%b8%94%e0%b8%aa%e0%b8%ad/
+ทดสอบใช้ PWM บน ESP8266 เขียนด้วย Arduino IDE + dw.EspMini : https://cmmakerclub.com/esp8266/%e0%b8%97%e0%b8%94%e0%b8%aa%e0%b8%ad%e0%b8%9a%e0%b9%83%e0%b8%8a%e0%b9%89-pwm-%e0%b8%9a%e0%b8%99-esp8266-%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-arduino-ide/
+การใช้ ESP8266 ผ่าน Arduino IDE ด้วย Ubuntu 14.04 : https://cmmakerclub.com/esp8266/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-esp8266-%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%99-arduino-ide-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-ubuntu-14-04/
+ESP8266 แปลงหน่วยวัตต์ไฟฟ้าให้เป็นจำนวนเงิน : https://cmmakerclub.com/esp8266/esp8266-%e0%b9%81%e0%b8%9b%e0%b8%a5%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%a7%e0%b8%a2%e0%b8%a7%e0%b8%b1%e0%b8%95%e0%b8%95%e0%b9%8c%e0%b9%84%e0%b8%9f%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b9%83%e0%b8%ab/
+การเริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE (ตอนที่ 2 – การใช้งานขา GPIO บน ESP8266) : https://cmmakerclub.com/esp8266/%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b8%95%e0%b9%89%e0%b8%99%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-esp8266-%e0%b8%95%e0%b8%ad%e0%b8%992/
+การอ่านค่า Dust Sensor ( SEN12291P ) ด้วย esp8266 และแสดงออกจอ Lcd และส่งขึ้น thingspeak อย่างง่าย : https://cmmakerclub.com/esp8266/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%84%e0%b9%88%e0%b8%b2-dust-sensor-sen12291p-%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%88%e0%b8%ad/
+การ build/compile Arduino IDE (เวอร์ชั่น ESP8266) : https://cmmakerclub.com/micro/arduino-2/%e0%b8%81%e0%b8%b2%e0%b8%a3-buildcompile-arduino-ide-%e0%b9%80%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%8a%e0%b8%b1%e0%b9%88%e0%b8%99-esp8266/
+การ compile micropython firmware สำหรับ esp8266 และการติดตั้ง esp-open-sdk พร้อมกับ Xtensa lx106 toolchain บน mac osx : https://cmmakerclub.com/esp8266/%e0%b8%81%e0%b8%b2%e0%b8%a3-compile-micropython-firmware-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-esp8266-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%b4/
+นาฬิกา IoT ชิ้งก์กับ Internet ด้วย ESP8266 | Synchronized Clock with ESP8266 : https://cmmakerclub.com/micro/arduino-2/synchronize-clock-with-esp8266/
+จับ ESP8266 มาอ่านค่าและสั่งงาน Bluetooth Low Energy ผ่าน Serial Port แล้วส่งขึ้น Cloud Server (ใช้ MQTT) : https://cmmakerclub.com/bluetooth/%e0%b8%88%e0%b8%b1%e0%b8%9a-esp8266-bluetooth-ble-mqtt-%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b8%a7%e0%b8%a1%e0%b8%81%e0%b8%b1%e0%b8%99/
+WiFi Connector Library สำหรับ ESP8266 + Arduino Ide : https://cmmakerclub.com/esp8266/wifi-connector-helper-for-esp8266-arduino-ide/
+สอน วิธี ใช้งาน Arduino Wi-Fi Module ESP8266 : http://www.arduinoall.com/article/%E0%B8%AA%E0%B8%AD%E0%B8%99-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-arduino-wi-fi-module-esp8266
+ESP8266 ตอนที่ 1 รู้จักกับ ESP และรุ่นที่นิยมใช้งาน : http://www.ioxhop.com/article/esp8266-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-1-%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-esp-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99
+ESP8266 ตอนที่ 2 การต่อวงจรเพื่อโปรแกรมและใช้งาน : http://www.ioxhop.com/article/esp8266-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-2-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99
+ESP8266 ตอนที่ 3 การอัพโหลด Firmware และใช้งาน AT Command เบื่องต้น : http://www.ioxhop.com/article/esp8266-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-3-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%9E%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-firmware-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-at-command-%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99
+มอนิเตอร์อุณหภูมิออนไลน์ด้วย ESP8266 และ DHT11 : http://www.ioxhop.com/article/%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B8%B8%E0%B8%93%E0%B8%AB%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-esp8266-%E0%B9%81%E0%B8%A5%E0%B8%B0-dht11
+การ Flash ESP8266 ด้วยบอร์ด Arduino Uno R3 : http://www.ioxhop.com/article/%E0%B8%81%E0%B8%B2%E0%B8%A3-flash-esp8266-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94-arduino-uno-r3
+ESP8266 กับการควบคุมความเร็วมอเตอร์ออนไลน์ : http://www.ioxhop.com/article/esp8266-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C
+
+คอมมูนิตี้
+
+หน้าฟอรั่มของ ESP8266 จากผู้ผลิต : http://bbs.espressif.com/
+หน้าฟอรั่มของ ESP8266 จากผู้ใช้ทั่วไป : http://www.esp8266.com/
+หน้าฟอรั่มของ NodeMCU : http://bbs.nodemcu.com/
+กลุ่มพัฒนา ESP8266 บน Facebook : ?
+
+ร้านค้าจำหน่าย ESP8266
+
+ESP8266 ESP-01 รุ่นใหม่ PCB สีดำ Flash 1MB : http://www.ioxhop.com/product/131/esp8266-esp-01-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-pcb-%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B3-flash-1mb
+ESP8266 ESP-12e : http://www.ioxhop.com/product/22/esp8266-esp-12e
+ESP8266 ESP12F : http://www.ioxhop.com/product/165/esp8266-esp12f
+NodeMCU V2 Lua WIFI Internet of Things development board based ESP8266 : http://www.ioxhop.com/product/133/nodemcu-v2-lua-wifi-internet-of-things-development-board-based-esp8266
+ESP8266-01 WiFi Serial Transceiver Module (Flash Memory 1MB) : http://www.thaieasyelec.com/products/china-direct/esp8266-01-wifi-serial-transceiver-module-flash-memory-1mb-detail.html
+ESP8266-07 WiFi Serial Transceiver Module : http://www.thaieasyelec.com/products/china-direct/esp8266-07-wifi-serial-transceiver-module-detail.html
+ESP8266-12E WiFi Serial Transceiver Module : http://www.thaieasyelec.com/products/china-direct/esp8266-12e-wifi-serial-transceiver-module-detail.html
+ESP8266-12F WiFi Serial Transceiver Module : http://www.thaieasyelec.com/products/china-direct/esp8266-12f-wifi-serial-transceiver-module-detail.html
+ESP-WROOM-02 WiFi Serial Transceiver Module (ESP8266) : http://www.thaieasyelec.com/products/wireless-modules/wifi-modules/esp-wroom-02-wifi-serial-transceiver-module-esp8266-detail.html
+NodeMCU Development Kit V2 : http://www.thaieasyelec.com/products/china-direct/nodemcu-development-kit-v2-detail.html
+ESP-01โมดูลสื่อสารข้อมูลอนุกรมไร้สายผ่าน WiFi (ESP8266EX) : http://inex.co.th/shop/application-module/wireless/esp-01-wifi-esp8266ex.html
+NodeMCU V2.0 : http://inex.co.th/shop/application-module/wireless/nodemcu-v2-0.html
+ESP-01 ESP8266 WiFi Module : https://www.gravitechthai.com/product_detail.php?d=845
+ESP-12E ESP8266 Wifi Module : https://www.gravitechthai.com/product_detail.php?d=988
+Sparkfun ESP8266 : https://www.gravitechthai.com/product_detail.php?d=987
+Espressif ESP-WROOM-02 ESP8266 Wi Fi Module : https://www.gravitechthai.com/product_detail.php?d=1009
+ESP-07 ESP8266 Wifi Module : https://www.gravitechthai.com/product_detail.php?d=881
+NodeMCU : https://www.gravitechthai.com/product_detail.php?d=986
+DW.miniESP ( ESP8266-12 Model ) : http://www.deaware.com/product/dw-miniesp-esp8266-12-model/
+
+DW.miniESP ( ESP8266-07 Model ) : http://www.deaware.com/product/dw-miniesp-esp8266-07-model/
