@@ -70,6 +70,15 @@
 - [Velo Bling-Bling - Hackster.io](https://www.hackster.io/veloblingbling/velo-bling-bling-7b4a7e)
 - [[รีวิว + เล่น] เมื่อเราอยาก chat กับเครื่องใช้ไฟฟ้า ผ่าน facebook messenger – Anto's Blog](https://blog.anto.io/th/reviewfacebookbotchat3/)
 - [จัดอันดับ 100 ผลิตภัณฑ์ยอดเยี่ยมสุดล้ำ !! ปี 2016 - YouTube](https://www.youtube.com/watch?v=G50JNacvbCc)
+-
+
+### Self Balancing Robot
+- [ArduRoller - An Arduino Based Self Balancing Robot](https://circuitdigest.com/project/arduroller-arduino-self-balancing-robot)
+- [PIDDYBOT - DIY Arduino Balancing Robot](https://www.hackster.io/seanhodgins/piddybot-diy-arduino-balancing-robot-14ce90)
+- [Codesys Powered Self Balancing Robot](https://www.youtube.com/watch?v=EwrQEsFmL4E)
+
+
+
 
 
 หมอจิม
