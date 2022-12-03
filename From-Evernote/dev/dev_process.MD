@@ -57,4 +57,10 @@
 - [Big-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
 - [ดาวน์โหลด ebook ฟรี ประกอบหนังสือ JavaScript ](https://www.patanasongsivilai.com/blog/download-ebook-free-javascript/)
 - [แจกฟรีหนังสือคอมพิวเตอร์ เกี่ยวกับฐานข้อมูล](https://www.patanasongsivilai.com/blog/ebook-database/)
+- [kamranahmedsedeveloper-roadmap Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
+- [15 Javascript สำหรับทำ Chart บนเว็บแอพMobile App Nextflow](https://nextflow.in.th/2015/15-javascript-chart-for-mobile-app-web-app-ionic/)
+- [ตัวช่วยในการเรียนรู้ CSS ให้สนุกและง่ายกว่าเรียนแบบเดิม](https://medium.com/tonpc/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89-css-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1-205839155a50)
+- [Thread Synchronization จากบทหนึ่งในชั้นเรียน สู่บทหนึ่งในการใช้งานจริง จาก Basic สู่ Applied-ใ…](https://developers.ascendcorp.com/thread-synchronization-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9A%E0%B8%97%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B8%97%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87-%E0%B8%88%E0%B8%B2%E0%B8%81-basic-%E0%B8%AA%E0%B8%B9%E0%B9%88-applied-%E0%B9%83-94c145294d9c)
+- [การผจญภัยของผมที่ THiNKNET](https://www.facebook.com/notes/10214391789147954/)
+- [CSSPIN - CSS Spinners and Loaders](https://webkul.github.io/csspin/)
 
