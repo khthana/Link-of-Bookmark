@@ -1,6 +1,19 @@
 ### Agile & Scrum
-- [
-
+- [ความล้มเหลวของการนำ Scrum ไปใช้แบบไม่เข้าใจ – aj.jammy – Medium](https://medium.com/@aj.jammy/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%89%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3-scrum-%E0%B9%84%E0%B8%9B%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88-3abf1532bae1)
+- [5 Framework ที่ผู้นำองค์กรต้องเรียน](https://www.facebook.com/thegeekceo/photos/a.227072341020969.1073741828.216291662099037/397758907285644/?type=3)
+- [มาทำความรู้จักกับ Agile and Scrum แนวคิดการทำงานของบริษัทยุคใหม่ Brand Inside](https://brandinside.asia/agile-and-scrum-for-new-business/)
+- [12 Indispensable DevOps Tools for 2017](https://www.tripwire.com/state-of-security/12-indispensable-devops-tools-for-2017)
+- [12 คำถามที่ Software Developer ควรถามหาจากบริษัท – Praphan Klairith – Medium](https://bird-praphan.medium.com/12-%E0%B8%84%E0%B8%B3%E0%B8%96%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88-software-developer-%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%96%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97-8b6569605781)
+- [agile รู้จักกับ AGILE](https://www.youtube.com/watch?v=OJ-9Eq91WKs)
+- [เริ่มต้น Test ทำไง คิดยังไง - oxygenyoyo](https://www.oxygenyoyo.com/2017/08/20/just-test-it-part-1/)
+- [ทำไมยิ่งคนมากงานยิ่งเสร็จช้า – Agile Development in Thai – Medium](https://medium.com/agile-development-in-thai/-6fac0175e7f4)
+- [เมื่อฉันได้เห็นการ Planning โดยใช้ A-DAPT Blueprint](https://medium.com/@chonnikantoboonlarng/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3-planning-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89-a-dapt-blueprint-a3ae5a69c6e8)
+- [[VDO] Unit Testing 101 – Siam Chamnankit Family](https://siamchamnankit.co.th/vdo-unit-testing-101-f33e1770848c)
+- [กลยุทธในการทดสอบสถาปัตยกรรมแบบ Microservice – Siam Chamnankit Family](https://siamchamnankit.co.th/%E0%B8%81%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%81%E0%B8%9A%E0%B8%9A-microservice-6040e024ef9d)
+- [Micro frontends คืออะไรหนอ – Siam Chamnankit Family](https://siamchamnankit.co.th/micro-frontends-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%AB%E0%B8%99%E0%B8%AD-b4b4bc258156)
+- [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [มาทำความรู้จักกับ Testing Pyramid กัน (Software Testing)](https://igokuz.com/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-testing-pyramid-%E0%B8%81%E0%B8%B1%E0%B8%99-software-testing-4ea625bd6d3a)
+- [Software Tester คุณคือ จุดอ่อนด้อยง่อยเปลี้ยเสียขาข้างขวา!!!](https://welovebug.com/software-tester-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%84%E0%B8%B7%E0%B8%AD-%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%87%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%82%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%A7%E0%B8%B2-beda974c7011)
 
 
 ### ETC
