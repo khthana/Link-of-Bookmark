@@ -6,4 +6,4 @@
 - [ซีอีโอ Docker บอกซัพพอร์ต Kubernetes เพื่อลดความสับสนและความขัดแย้ง Blognone](https://www.blognone.com/node/96455)
 - [ถึงเวลาเล่นของใหญ่อย่าง Kubernetes](https://www.howtoautomate.in.th/qa-kuberbetes-rancher-playground/)
 - [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
-- [Introduction to Kubernetes on AWS)(https://www.facebook.com/watch/live/?ref=watch_permalink&v=2006152269650041)
+- [Introduction to Kubernetes on AWS](https://www.facebook.com/watch/live/?ref=watch_permalink&v=2006152269650041)
