@@ -1,3 +1,10 @@
+### Agile & Scrum
+- [
+
+
+
+### ETC
+
 - [Refactor code ไม่ยาก แค่เขียน Unit test ตอนที่ 1](https://www.babelcoder.com/blog/articles/refactor-code-with-unit-testing-technique-1)
 - [ว่าด้วยเรื่องของ REST กับ GraphQL](http://www.somkiat.cc/rest-vs-graphql/)
 - [สรุปงูๆ ปลาๆ จากงาน Code Mania 110](https://mesodiar.wordpress.com/2017/11/29/code-mania-110/)
