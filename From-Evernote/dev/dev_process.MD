@@ -19,44 +19,22 @@
 - [Scrum เขาทำกันยังไงอ่ะ – Piyawut Thongsang](https://piyawut.com/scrum-%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87%E0%B8%AD%E0%B9%88%E0%B8%B0-1234bc9f4b38)
 - [แนะนำ 3 เกมที่ทำให้ภาษา Assembly เป็นเรื่องสนุก - TechTalkThai](https://www.techtalkthai.com/assembly-fun-games/)
 - [Minecraft Education Edition - Home](https://education.minecraft.net/en-us)
+- [ขั้นตอนง่าย ๆ สำหรับการพัฒนาระบบงานด้วย ReactJS](http://www.somkiat.cc/basic-step-to-use-reactjs/)
+- [Developer’s Guide - WebAssembly](https://webassembly.org/getting-started/developers-guide/)
+- [Stories of Sellsuki](https://medium.com/secrets-of-sellsuki#.pggtjtfh8)
+- [Programming and motivation](Programming and motivation)
+- [เปรียบเทียบ React, Vue 2 และ Angular 2 เลือกใช้อะไรดี (ตอนที่ 1)](https://www.babelcoder.com/blog/articles/react-vs-vue2-angular2-1)
+- [รู้จัก Firebase Authentication ตั้งแต่ Zero จนเป็น Hero — Medium](https://medium.com/firebasethailand/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-firebase-authentication-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88-zero-%E0%B8%88%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-hero-7dd5839d3588#.s6zvl9m9h)
+- [Facebook ออกโรง! เปิดเนื้อหาสอน AI ฉบับเข้าใจง่ายสำหรับทุกคนใน Facebook AI Education - TechTalkThai](https://www.techtalkthai.com/facebook-ai-education/)
+- [GitHub - adminholearning-it](https://github.com/adminho/learning-it/)
+- [GitHub - Developer-Ycs-video-courses List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses)
+- [รัฐบาลเคนยา ใช้ IBM Blockchain แก้ปัญหาการปลอมแปลงวุฒิการศึกษา - TechTalkThai](https://www.techtalkthai.com/kenyan-government-uses-ibm-blockchain-to-stop-certification-fraud-in-academic-level/)
+- [Reactive Programming คืออะไร รู้จัก RxJS และการสร้าง Observables](https://www.babelcoder.com/blog/articles/rxjs-observables)
+- [ทำแชทบอทง่าย ๆ แบบไม่ต้องโค้ด!! – Medium](https://lukkiddd.com/%E0%B8%97%E0%B8%B3%E0%B9%81%E0%B8%8A%E0%B8%97%E0%B8%9A%E0%B8%AD%E0%B8%97%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B9%86-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94-45cc89ffe7ca#.lm6rwq237)
+- [Tetris in Python in under 2KB of Code](https://nerdparadise.com/programming/pythontetris)
+- [Tetris tutorial in C++ platform independent focused in game logic for beginners Javilop](https://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/)
+- [Implementing Tetris Collision Detection](https://gamedevelopment.tutsplus.com/tutorials/implementing-tetris-collision-detection--gamedev-852)
+- [Big-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
+- [ดาวน์โหลด ebook ฟรี ประกอบหนังสือ JavaScript ](https://www.patanasongsivilai.com/blog/download-ebook-free-javascript/)
+- [แจกฟรีหนังสือคอมพิวเตอร์ เกี่ยวกับฐานข้อมูล](https://www.patanasongsivilai.com/blog/ebook-database/)
 
-
-ขั้นตอนง่าย ๆ สำหรับการพัฒนาระบบงานด้วย ReactJS
-
-Developer’s Guide - WebAssembly
-
-“Webpack” ทำงานยังไง ไม่รู้ถือว่าบาป !!
-
-(2) Programming and motivation
-
-เปรียบเทียบ React, Vue 2 และ Angular 2 เลือกใช้อะไรดี (ตอนที่ 1)
-
-คอร์สเรียนออนไลน์ Basic JavaScript for Modern Developer รุ่นที่ 2
-
-รู้จัก Firebase Authentication ตั้งแต่ Zero จนเป็น Hero — Medium
-
-Facebook ออกโรง! เปิดเนื้อหาสอน AI ฉบับเข้าใจง่ายสำหรับทุกคนใน Facebook AI Education - TechTalkThai
-
-Kong Ruksiam - YouTube
-
-GitHub - adminholearning-it
-
-GitHub - Developer-Ycs-video-courses List of Computer Science courses with video lectures.
-
-รัฐบาลเคนยา ใช้ IBM Blockchain แก้ปัญหาการปลอมแปลงวุฒิการศึกษา - TechTalkThai
-
-Internet of Things 2016 สิงหาคม element14 Internet of Things
-
-Reactive Programming คืออะไร รู้จัก RxJS และการสร้าง Observables
-
-ทำแชทบอทง่าย ๆ แบบไม่ต้องโค้ด!! – Medium
-
-Tetris in Python in under 2KB of Code
-
-Tetris tutorial in C++ platform independent focused in game logic for beginners Javilop
-
-Implementing Tetris Collision Detection
-
-Big-O Algorithm Complexity Cheat Sheet
-
-https://docs.google.com/a/kmitl.ac.th/forms/d/e/1FAIpQLSfZp0Vz-p6Oj1cDAKIXfmexAbTh2vFDymFYlCIn8JwkA7UIrA/viewform?c=0&w=1
