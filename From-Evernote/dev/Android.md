@@ -1,0 +1,5 @@
+- [The Complete Android Development Course – Build 5 Apps Zenva Academy](https://academy.zenva.com/product/android-mobile-development-mini-degree-2019/?a=1)
+- [NuuNeoI - บันทึกการพัฒนาระบบ Online Learning Platform ตอนที่ 3 วาง Server Stack ด้วย Docker](https://nuuneoi.com/blog/blog.php?read_id=868)
+- [Android Dev Tips เขียนโปรแกรมให้เป็น คิดกันอย่างไร แก้ปัญหากันอย่างไร [ตอนที่ 4]](https://www.akexorcist.com/2017/08/better-coder-part-4.html)
+- [Android Code รู้จักและเรียกใช้งาน Camera API v1 บนแอนดรอยด์แบบง่ายๆ [ตอนที่ 2] ~ Sleeping For Less](https://akexorcist.dev/android-camera-api-v1-part-2/)
+- 
