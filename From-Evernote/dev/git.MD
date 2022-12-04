@@ -1,0 +1,6 @@
+- [เมื่อเราสามารถนำ Trello board มาแสดงใน Bitbucket ได้](http://www.somkiat.cc/hello-trello-boards-in-bitbucket/)
+- [จัดเก็บ Test Script ให้ปลอดภัยด้วย Git](https://www.qahive.com/2018/01/07/git-for-qa/)
+- [เดี๋ยวนี้ใครๆก็ใช้ Git กันแล้ว น้องๆรู้ก่อนได้เปรียบนะเออ](https://mikkipastel.com/git-tutorial/)
+- [จัดเก็บ Test Script ให้ปลอดภัยด้วย Git QA Hive](https://www.qahive.com/2018/01/07/git-for-qa/#comment-52)
+- [มาเรียนรู้ Git จาก Sketchnote น่ารัก ๆ](http://www.somkiat.cc/git-purr/)
+- [มาดู feature ที่น่าสนใจของ GitHub](http://www.somkiat.cc/use-github/)
