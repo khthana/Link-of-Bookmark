@@ -1,0 +1,66 @@
+-[สรุป 17 เทคนิคการใช้งาน Visual Studio Code (Editor) ที่น่าสนใจ - Coding Thailand's Blog](https://codingthailand.com/blog/%e0%b8%aa%e0%b8%a3%e0%b8%b8%e0%b8%9b-20-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-visual-studio-code/)
+
+Ctrl-Shift-X : Extension ใช้สำหรับติดตั้ง Extension ต่างๆ 
+
+Ctrl-Shift-E : Explorer ใช้สำหรับเข้าไปที่ Extension บางตัว เช่น Platform I/O และแสดงตัวที่เปิดอยู่ ใช้ switch windows
+
+Ctrl-Shift-P : Palette จะเป็นการเรียกคำสั่งมาทำงาน สามารถ Search ได้
+
+
+
+
+
+---
+
+Multi-Cursor Editing เป็นการสร้าง Cursor หลายบรรทัด เพื่อป้อนพร้อมกัน 
+
+การสร้าง cursor : กด Alt-Shift แล้วลากเมาส์ (หลายบรรทัด) หรือ Ctrl-Alt แล้วกดลูกศรขึ้น ลง หรือ Alt+Click Mouse (ทีละบรรทัด) 
+
+การสร้าง cursor ในทุกตำแหน่งของ string ให้ cursor อยู่ที่ string ที่ต้องการเลือก แล้วกด Ctrl-Shift-L ใช้กรณีต้องการแก้ไข String ทุกตัวพร้อมกัน 
+
+---
+
+Line Actions
+
+Copy บรรทัดปัจจุบันไปบรรทัดบนหรือล่าง กด Shift-Alt แล้วกดลูกศรขึ้น หรือ ลง 
+
+Move ทั้งบรรทัดไปบนหรือล่าง กด Alt แล้วกดลูกศรขึ้น หรือ ลง 
+
+Delete ทั้งบรรทัด Ctrl-Shift-K
+
+Ctrl-/ ใช้ Toggle Comment 
+
+---
+
+Formatting
+
+Shift-Alt-F จัด Format ทั้งโปรแกรม กด คลิกขวา ก็ได้ 
+
+---
+ การ Config ให้ Compile ภาษา C 
+
+1. ติดตั้ง MinGW
+2. เรียก  C/Cpp: Edit configurations...
+
+เพิ่ม 
+
+{
+"name": "MinGW",
+"intelliSenseMode": "clang-x64",
+"compilerPath": "C:/mingw64/bin/gcc.exe",
+"includePath": [
+"${workspaceFolder}"
+],
+"defines": [],
+"browse": {
+"path": [
+"${workspaceFolder}"
+],
+"limitSymbolsToIncludedHeaders": true,
+"databaseFilename": ""
+},
+"cStandard": "c11",
+"cppStandard": "c++17"
+}
+
+3. เปิด 
