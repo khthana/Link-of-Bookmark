@@ -10,4 +10,13 @@
 - [Arduino ESP32 tutorials ](http://www.iotsharing.com/2017/08/esp32-tutorials.html)
 - [How to Use Bluetooth(BLE) With ESP32](https://www.instructables.com/How-to-Use-BluetoothBLE-With-ESP32/)
 - [https://medium.com/chiang-mai-maker-club](https://medium.com/chiang-mai-maker-club)
+- [ Deep Learning Convolution Neural Network รันบน ESP32 ](https://www.facebook.com/comdet/posts/2343329332351274)
+- [Frogger on ESP32! Drawing the main screen and moving the sprites](https://www.youtube.com/watch?v=J3DWVayI2-Q)
+- [ESP32 #71: Arduino Bluetooth (BLE) Robot Buggy with L298 (Android example)](https://www.youtube.com/watch?v=lUi2jhFIz80)
+- [esphome](https://esphome.io/index.html)
+- [3 บทความ สำหรับผู้เริ่มต้นเรียนรู้การใช้งาน ESP32](https://www.facebook.com/groups/ThaiPGAssociateSociety/permalink/862884273922843/)
+- [ESP32SingleChannelGateway](https://github.com/vpcola/ESP32SingleChannelGateway)
+- [Build a Tank Volume Reader in Under $30 Using ESP32](https://www.instructables.com/Build-a-Tank-Volume-Reader-in-Under-30-Using-ESP32/)
+- [Mail Alarm](https://www.hackster.io/Tiobel/mail-alarm-bfe496)
+- [PACMAN with M5STACK](https://macsbug.wordpress.com/2018/03/07/pacman-with-m5stack/)
 - 
