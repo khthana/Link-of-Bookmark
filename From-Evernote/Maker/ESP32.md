@@ -1,0 +1,13 @@
+### ETC
+- [ zhouhan0126 /WIFIMANAGER-ESP32](https://github.com/zhouhan0126/WIFIMANAGER-ESP32)
+- [Using a Camera with the ESP32](https://www.hackster.io/news/using-a-camera-with-the-esp32-9d6994b34a2b)
+- [Want to Build Yourself an ESP32 Cluster? Just Add a Little Broccoli!](https://www.hackster.io/news/want-to-build-yourself-an-esp32-cluster-just-add-a-little-broccoli-6ce07d7ffdab)
+- [ESP To Wireshark](https://hackaday.com/2017/07/06/esp-to-wireshark/)
+- [ESP32 Module with OLED Part #1 - Install MicroPython](https://www.youtube.com/watch?v=ay2yuGId7Ag)
+- [micropython บน esp32](https://www.facebook.com/wanchai.udomkitwanit/posts/10212737929270447)
+- [ESP32 : Creating task using FreeRTOS](https://icircuit.net/esp32-creating-task-using-freertos/1938)
+- [ESP32 : Introduction to FreeRTOS](https://icircuit.net/esp32-introduction-freertos/1297)
+- [Arduino ESP32 tutorials ](http://www.iotsharing.com/2017/08/esp32-tutorials.html)
+- [How to Use Bluetooth(BLE) With ESP32](https://www.instructables.com/How-to-Use-BluetoothBLE-With-ESP32/)
+- [https://medium.com/chiang-mai-maker-club](https://medium.com/chiang-mai-maker-club)
+- 
