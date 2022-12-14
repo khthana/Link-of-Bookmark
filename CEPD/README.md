@@ -1,0 +1,3 @@
+- [เว็บไซต์โหลดเทมเพลต PowerPoint ฟรี](https://notebookspec.com/web/671828-free-download-powerpoint-template)
+- [Active Listening การฟังเชิงรุก](https://www.schoolofchangemakers.com/knowledge/11175/)
+- 
