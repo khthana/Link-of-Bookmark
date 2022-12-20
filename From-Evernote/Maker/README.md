@@ -78,6 +78,16 @@
 - [Codesys Powered Self Balancing Robot](https://www.youtube.com/watch?v=EwrQEsFmL4E)
 
 
+### CNC+3D Print
+- [4xiDraw](https://www.instructables.com/4xiDraw/)
+- [แนะนำ CNC Controller Estlcam ](https://panmaneecnc.blogspot.com/2017/04/cnc-controller-estlcam.html)
+- [cnc เด็กหัดเดิน](https://aofcnc.blogspot.com/)
+- [Hard surface modeling – 3ds Max](http://candle3d.com/hard-surface-modeling-3ds-max)
+- [A Low Cost 3D Printer With Basic Tools](https://www.instructables.com/A-low-cost-3D-printer-with-basic-tools/)
+- [การใช้งาน Linuxcnc ไม่ได้ยากอย่างที่คิด](https://panmaneecnc.blogspot.com/2017/08/linuxcnc-usb-drive.html)
+- [CNC Drum Plotter](https://www.instructables.com/CNC-Drum-Plotter/)
+- [Arduino CNC Laser Enrgaver From DVD Drive](https://www.instructables.com/Arduino-CNC-Laser-Enrgaver-From-DVD-Drive/)
+- [Top 10 Arduino projects](https://www.youtube.com/watch?v=L2jRiyRfHpk)
 
 
 
