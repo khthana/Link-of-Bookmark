@@ -2,6 +2,10 @@
 
 - [dw_utf8_gfont_library](https://github.com/deaware/dw_utf8_gfont_library)
 
+### FPGA
+- [ทำไมต้อง FPGA](https://forfpgadesign.wordpress.com/2017/01/27/first-blog-post/)
+- [VHDL Course](http://narong.ece.engr.tu.ac.th/vhdl/)
+
 ### Robot ARM
 - [ทำแขนกล Robot ARM ด้วย Arduino แถมยังบันทึกตำแหน่งแบบง่ายๆ](https://eleceasy.com/t/robot-arm-arduino/72)
 - [ตัวควบคุมแขนกล 2 ก้านต่อบน ESP32 และ NETPIE](https://dewninjathai.blogspot.com/2018/04/2-esp32-netpie.html)
