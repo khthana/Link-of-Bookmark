@@ -32,4 +32,18 @@
 - [มหัศจรรย์แห่งเส้นค่าเฉลี่ย](https://www.siamquant.com/faber-gtta-moving-average/)
 - [Long Term P/E Ratio ความลับสำคัญในการวัดความถูก-แพงของราคาหุ้น!](https://www.siamquant.com/long-term-pe-ratio/)
 - [สรุปตารางงบการเงินแบบเข้าใจง่ายๆ](https://pantip.com/topic/36525041)
+- [รู้ทันหุ้นโรงพยาบาล](https://www.facebook.com/FundTalk/posts/10155397419220320)
+- [หลักสูตรเรียนออนไลน์ FREE](https://www.facebook.com/wanchai.udomkitwanit/posts/10212510823632948)
+- [รวมบทความต่างๆ ที่เกี่ยวกับ Technical Analysis ](https://www.facebook.com/sumhoon/photos/a.520733968057017.1073741829.519467758183638/987966934667049/?type=3&theater)
+- [รันกราฟแบบcanslim](https://www.facebook.com/investidea.in.th/posts/1242143895903357)
+- [PE ของหุ้นตัวไหนควรเป็นเท่าไหร่](https://www.facebook.com/investdiary/posts/982590421876205)
+- [รวมสรุป 50 บริษัท ใน SET50](https://www.facebook.com/investdiary/)
+- [รวม กราฟแท่งเทียน 80 รูปแบบ](https://pantip.com/topic/36234427)
+- [Magic Formula](https://www.facebook.com/ClubVI/posts/1443337642384925)
+- [5จุดสำคัญอ่าน Fact sheet ให้เข้าใจธุรกิจ](https://www.investidea.in.th/2015/09/fact-sheet.html)
+- [Foreign flow Template ใหม่จากโปรแกรม efin StockPickUp](https://www.youtube.com/watch?v=h5fC_ubpeJI)
+- [บทที่ 1 1 แนะนำให้รู้จักเครื่องมือวิเคราะห์หุ้นด้วยตัวเอง](https://www.youtube.com/watch?v=vrbJ6wy_VyI)
+- [ประวัติศาสตร์ SET รอบ 18 ปี](https://www.facebook.com/niranpr/media_set?set=a.10209709070296242.1073741835.1014780851&type=3)
+- 
+
 
