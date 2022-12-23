@@ -44,6 +44,9 @@
 - [Foreign flow Template ใหม่จากโปรแกรม efin StockPickUp](https://www.youtube.com/watch?v=h5fC_ubpeJI)
 - [บทที่ 1 1 แนะนำให้รู้จักเครื่องมือวิเคราะห์หุ้นด้วยตัวเอง](https://www.youtube.com/watch?v=vrbJ6wy_VyI)
 - [ประวัติศาสตร์ SET รอบ 18 ปี](https://www.facebook.com/niranpr/media_set?set=a.10209709070296242.1073741835.1014780851&type=3)
-- 
+- [รู้ทันเจ้ามือ ลักษณะราคาหุ้นก่อนออกตัว ](https://www.investidea.in.th/2015/04/blog-post.html)
+- [7 อัตราส่วนทางการเงินที่นักลงทุนต้องรู้](https://www.facebook.com/groups/ThaiviOrg/permalink/1221970944501428/)
+- [VDO และ Clip สอนอ่านงบการเงิน การลงทุน](https://www.mrlikestock.com/category/vdo/)
+- [Elliott wave นับคลื่นเอลเลียต](https://www.youtube.com/watch?v=_0u7SeTJ79I)
 
 
