@@ -11,6 +11,16 @@
 - [ตัวควบคุมแขนกล 2 ก้านต่อบน ESP32 และ NETPIE](https://dewninjathai.blogspot.com/2018/04/2-esp32-netpie.html)
 - [Object Avoiding FSM Robot Arm - Arduino Project Hub](https://create.arduino.cc/projecthub/Marcos10Soares/object-avoiding-fsm-robot-arm-3f1296)
 
+### Hardware
+- [These Students Built A Glove That Translates Sign Language Into English](https://www.fastcompany.com/3059616/these-students-built-a-glove-that-translates-sign-language-into-english)
+- [โปรแกรมจำลองการทำงานวงจรไฟฟ้าแบบออนไลน์ ที่ดีที่สุด 10 อันดับ](http://www.ayarafun.com/2016/03/top-10-online-electronics-design-automation/)
+- [These Middle Schoolers Built a Custom Arduino Board Game to Explore Ancient Egypt](https://makezine.com/article/home/fun-games/these-middle-schoolers-built-custom-arduino-board-game-explore-ancient-egypt/)
+- [วิธีการทำเลเซอร์หุ่นยนต์ควบคุมระยะไกล](https://www.youtube.com/watch?v=3N0wFJNq8q0)
+- [มาลองสร้าง Robot Framework กับ Appium กันเถอะ](https://medium.com/@ppraserts/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-robot-framework-%E0%B8%81%E0%B8%B1%E0%B8%9A-appium-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-415f0dc355c9#.m5kfoqk84)
+- [evive: the best electronic prototyping platform! ](https://www.indiegogo.com/projects/evive-the-best-electronic-prototyping-platform#/)
+- [The Final 10 Entries Of The 2016 Hackaday Prize](https://hackaday.com/2016/11/03/the-final-10-entries-of-the-2016-hackaday-prize/)
+- [มาออกแบบ Protocol ไว้สื่อสารกันเถอะ](https://robotics-za.blogspot.com/2016/11/protocol.html)
+
 ### ETC
 - [บันทึก TESA](https://github.com/vsupacha/tensailab-public)
 - [Live พาทัวร์งาน Maker Faire Bangkok 2018](https://www.facebook.com/khaosod/videos/2961834793833460/)
