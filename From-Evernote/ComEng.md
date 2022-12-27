@@ -1,6 +1,22 @@
 ### DB
 - [SQL Cheat Sheet](https://www.facebook.com/thaicoders/posts/1533507333420448)
 
+### Tensorflow
+- [AWS Greengrass – Run AWS Lambda Functions on Connected Devices](https://aws.amazon.com/th/blogs/aws/aws-greengrass-run-aws-lambda-functions-on-connected-devices/)
+- [Tensorflow for Deep Learning Research - Lecture 1](https://www.youtube.com/watch?v=g-EvyKpZjmQ&list=PLDuNt91tg0urwwTQNKyUbncSDvMEl74ww)
+- [ทดลองติดตั้ง TensorFlow บน Windows ผ่าน Anaconda](https://medium.com/ingkwan/%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-tensorflow-%E0%B8%9A%E0%B8%99-windows-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-anaconda-570adf8ee7a3)
+- [7 Great Articles About TensorFlow](https://www.datasciencecentral.com/9-great-articles-about-tensorflow/)
+- [Neural Machine Translation](https://github.com/tensorflow/nmt)
+- [TensorFlow ฉบับมือใหม่ โดยใช้ Python](https://thanachart-rit.medium.com/tensorflow-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89-python-784ba3df5bc4)
+- [Introducing TensorFlow Lite (Coding TensorFlow)](https://www.youtube.com/watch?v=5J72iMSQmy8)
+- [PyTorch 01 : ทดสอบการจัดการ Tensor ด้วย torch ](https://medium.com/@paripoltoopiroh/pytorch-%E0%B8%97%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-tensor-torch-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%97%E0%B8%99-numpy-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-google-colab-with-free-5b58b1836369)
+- [TensorFlow Basics — TensorFlow for Hackers (Part I)](https://medium.com/@curiousily/tensorflow-for-hackers-part-i-basics-2c46bc99c930)
+- [TensorFlow Image Recognition on a Raspberry Pi](https://blog.insightdatascience.com/tensorflow-image-recognition-on-a-raspberry-pi-3645a1634c66)
+- [สอน Deep Learning ด้วย TensorFlow (Part 1) จาก Google Developer Expert!!](https://www.youtube.com/watch?v=UzIY4Jz9wa8&list=PLlL4JXpXTSi-gDaIm2SZqn3KN8qe19MPY)
+- [Tensorflow Tutorial : Part 1 – Introduction](https://www.datasciencecentral.com/tensorflow-tutorial-part-1-introduction/)
+- [Machine Learning TensorFlow Android App Demo](https://androidcontrol.blogspot.com/2017/03/machine-learning-tensorflow-android-app.html)
+- [Sound Classification with TensorFlow](https://www.iotforall.com/tensorflow-sound-classification-machine-learning-applications)
+
 ### Docker
 - [easy-create-docker-image-for-express-and-nodejs](https://nextflow.in.th/2017/easy-create-docker-image-for-express-and-nodejs/)
 - [เริ่มต้นติดตั้ง + ใช้งาน Kubernetes กับ AWS](https://medium.com/@tanutsun/%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-kubernetes-%E0%B8%81%E0%B8%B1%E0%B8%9A-aws-dca9ffb0c4c7)
