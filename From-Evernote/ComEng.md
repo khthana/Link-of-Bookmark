@@ -71,7 +71,10 @@
 - [7 things you need to know about designing a chatbot](https://booking.design/7-things-you-need-to-know-about-designing-a-chat-bot-4f07886d3fd0)
 - [Chatbot สร้างไม่ยาก แต่ทำให้ดี…ไม่ง่าย](https://medium.com/skooldio/lessons-learned-youpin-chatbot-88c66b8ec443)
 - [ทำ Chatbot ง่ายๆอย่างย่อ](https://nonthakon.medium.com/%E0%B8%97%E0%B8%B3-chatbot-%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A2%E0%B9%88%E0%B8%AD-2323ecc322d8)
-- 
+- [Lab การสร้าง Chat Bot บน Facebook Messenger ด้วย PHP](http://www.daydev.com/developer/facebook-developer/facebook-messenger-chat-bot-php.html)
+- [Chatbot AI อันดับ 1 ในไทยเพื่อธุรกิจขนาดกลางและใหญ่](https://www.amity.co/th/bots)
+- [สร้าง Chat bots อย่างง่ายๆ ด้วย Python](https://www.patanasongsivilai.com/blog/chat-bots-easy/)
+- [AI Chatbot for Business](https://www.facebook.com/watch/live/?ref=watch_permalink&v=10154399929591987)
 
 ### Link
 - [Open Source Society University](https://github.com/ossu/computer-science)
@@ -181,6 +184,14 @@
 - [15 Deep Learning Tutorials](https://www.datasciencecentral.com/15-deep-learning-tutorials/)
 - [RealTime Object Detection with Machine Learning](https://www.youtube.com/watch?v=Br5doLFLaBo)
 - [OpenCV Python Neural Network Autonomous RC Car](https://www.youtube.com/watch?v=BBwEF6WBUQs)
-- 
+- [การตรวจจับภาพคนทั้งตัว ด้วย Histogram of Oriented Gradeint และ Support Vector Machines ](http://peerajakwitoonchart.blogspot.com/2017/04/histogram-of-oriented-gradeint-support.html)
+- [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
+- [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu/)
+- [Proceedings of Machine Learning Research ](http://proceedings.mlr.press/v70/)
+- [Deepcut Thai word Segmentation](https://www.slideshare.net/BAINIDA/deepcut-thai-word-segmentation-nida)
+- [7 ขั้นตอนในการเรียนรู้ Deep Learning สำหรับผู้เริ่มต้น](https://medium.com/machines-school/7-%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89-deep-learning-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99-5ef5bea2e287)
+- [สร้างปัญญาประดิษฐ์แปลภาษาด้วยตัวเอง กูเกิลเปิดโค้ดพร้อมบทความสอนการสร้างระบบแปลภาษา](https://www.blognone.com/node/94028)
+
+
 
 
