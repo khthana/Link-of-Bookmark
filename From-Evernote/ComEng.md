@@ -1,6 +1,10 @@
 ### DB
 - [SQL Cheat Sheet](https://www.facebook.com/thaicoders/posts/1533507333420448)
 
+### OpenCV & Image
+- [opencv_contrib](https://github.com/opencv/opencv_contrib)
+- [Smart Security Camera](https://www.hackster.io/hackershack/smart-security-camera-90d7bd)
+
 # Security
 - [คอร์สจากผู้เริ่มต้นสู่นักเจาะระบบ (hacker)](https://stephack.com/course4.html)
 - [The Secret step-by-step Guide to learn Hacking](https://www.youtube.com/watch?v=2TofunAI6fU)
