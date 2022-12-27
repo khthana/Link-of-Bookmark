@@ -1,6 +1,37 @@
 ### DB
 - [SQL Cheat Sheet](https://www.facebook.com/thaicoders/posts/1533507333420448)
 
+### Docker
+- [easy-create-docker-image-for-express-and-nodejs](https://nextflow.in.th/2017/easy-create-docker-image-for-express-and-nodejs/)
+- [เริ่มต้นติดตั้ง + ใช้งาน Kubernetes กับ AWS](https://medium.com/@tanutsun/%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-kubernetes-%E0%B8%81%E0%B8%B1%E0%B8%9A-aws-dca9ffb0c4c7)
+- [เรียนรู้และทดลองใช้ Docker กันง่ายๆ](https://www.techtalkthai.com/learn-docker-easily-on-play-with-docker/)
+- [Play with Docker Classroom](https://training.play-with-docker.com/)
+- [Docker Tutorials and Labs](https://github.com/docker/labs)
+
+### Blockchain
+- [รู้จัก Blockchain](https://www.facebook.com/watch/live/?ref=watch_permalink&v=237623316716482)
+- [ทำความรู้จัก Blockchain Consensus Protocol แบบต่าง ๆ: เมื่อโลกนี้ไม่ได้มีแค่ Proof of Work](https://nuuneoi.com/blog/blog.php?read_id=933)
+- [สร้าง Blockchain ด้วย Hyperledger : #4 การเขียน NodeJS Application บน Fabric](https://medium.com/@methuz/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-blockchain-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-hyperledger-4-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-nodejs-application-%E0%B8%9A%E0%B8%99-fabric-26b265cd8743)
+- [หัวข้อสัมมนา Blockchain in Healtcare](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1594714800623624)
+- [มาเขียนระบบเลือกตั้ง 0.4 ในไทย ให้ทันสมัยด้วย Blockchain (Ethereum) แบบง่ายๆ กันเถอะ](https://igroomgrim.medium.com/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-0-4-%E0%B9%83%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%A2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-blockchain-ethereum-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-463d549150dc)
+- [Blockchain Technology Explained](https://www.youtube.com/watch?v=qOVAbKKSH10)
+
+### Chatbot
+- [ทำแชทบอทง่าย ๆ แบบไม่ต้องโค้ด!!](https://lukkiddd.com/%E0%B8%97%E0%B8%B3%E0%B9%81%E0%B8%8A%E0%B8%97%E0%B8%9A%E0%B8%AD%E0%B8%97%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B9%86-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94-45cc89ffe7ca#.lm6rwq237)
+- [Line Chatbot as Conversation AI](https://havespirit.blogspot.com/2017/08/line-chatbot-as-conversation-ai.html)
+- [สร้าง LINE Chatbot แบบไม่แตะโค้ด : ตอนที่ 1 — แนะนำ Dialogflow](https://manussanun.medium.com/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-line-chatbot-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%95%E0%B8%B0%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-1-%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3-dialogflow-88afb864f8fc)
+- [สร้าง LINE Bot ด้วย Node.js + Messaging API — A Beginner’s Guide](https://medium.com/ingkwan/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-line-bot-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-node-js-aiml-a-beginners-guide-b7708b0b2440)
+- [Build a Bot with Zero Coding on Google Sheets](https://chatbotsmagazine.com/build-a-bot-with-zero-coding-on-google-sheets-922f20d80c51)
+- [Line bot กับงูเขียวน้อย (python)~](https://geidtiphong.medium.com/line-bot-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2-python-f3947f67cf1b)
+- [Building A Simple AI Chatbot With Web Speech API And Node.js](https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/)
+- [การนำ chatbot AI Abdul ของ Nectec มาประยุกต์ใช้งานกับงานผู้ดูแลระบบ network](https://havespirit.blogspot.com/2017/08/chatbot-ai-abdul-nectec-network.html)
+- [Build a Yoda Chatbot: Part 1](https://chatbotslife.com/build-a-yoda-chatbot-part-1-4176b76d555b)
+- [Intent-Based vs. Flow-Based Conversation](https://medium.com/hbot/intent-based-vs-flow-based-conversation-e0f7551e674b)
+- [7 things you need to know about designing a chatbot](https://booking.design/7-things-you-need-to-know-about-designing-a-chat-bot-4f07886d3fd0)
+- [Chatbot สร้างไม่ยาก แต่ทำให้ดี…ไม่ง่าย](https://medium.com/skooldio/lessons-learned-youpin-chatbot-88c66b8ec443)
+- [ทำ Chatbot ง่ายๆอย่างย่อ](https://nonthakon.medium.com/%E0%B8%97%E0%B8%B3-chatbot-%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A2%E0%B9%88%E0%B8%AD-2323ecc322d8)
+- 
+
 ### Link
 - [Open Source Society University](https://github.com/ossu/computer-science)
 - [คณิตศาสตร์คอมพิวเตอร์](https://sites.google.com/site/05051101mathcom/xeksar-prakxb-kar-sxn)
