@@ -166,6 +166,21 @@
 - [บอกเล่าประสบการณ์การสัมภาษณ์งาน Software Development Engineer กับ Amazon (1/2)](https://pantip.com/topic/36748866)
 - [Dream of Bikbok วิศวกรคอมพิวเตอร์หนุ่มไทยใน PIXAR](https://www.facebook.com/notes/3610653445621317/)
 - [Six Ds of Exponential Technology: Disrupt or Die](https://www.disruptignite.com/blog/six-ds-of-exponential-technology-disrupt-or-die)
+- [สร้างไฟล์ MS Word จาก Word Template สำหรับงานเอกสารราชการ](https://www.programmerthailand.com/tutorial/post/view/212/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C-ms-word-%E0%B8%88%E0%B8%B2%E0%B8%81-word-template-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3)
 
 ### AI
+- [กลุ่ม OpenAI เปิดซอร์ส Universe แพลตฟอร์มฝึกสอน AI เล่นเกมและทำงานกว่า 1,000 แบบ](https://www.blognone.com/node/87891)
+- [AI Concept 30 June 2017](https://www.facebook.com/notes/672122187014116/)
+- [A survivor's guide to Artificial Intelligence courses at Stanford](https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html)
+- [ทดลอง Tesseract 4.0alpha กับภาษาไทย](https://bact.cc/2018/tesseract-thai/)
+- [NLP Course @ Chula](https://github.com/ekapolc/nlp_course)
+- [Artificial Neural Networks Demystified](https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07)
+- [Deep Unsupervised Learning](https://www.youtube.com/watch?v=P8_W5Wc4zeg)
+- [ใช้ AI เขียนโค้ดอัตโนมัติ เพียงดูภาพหน้าจอ GUI ของโปรแกรม](https://www.patanasongsivilai.com/blog/ai-coding-gui/)
+- [Automatic Speech Recognition](https://www.youtube.com/playlist?list=PLcBOyD1N1T-NHospFLG9vGrlz2TXjlRCO)
+- [15 Deep Learning Tutorials](https://www.datasciencecentral.com/15-deep-learning-tutorials/)
+- [RealTime Object Detection with Machine Learning](https://www.youtube.com/watch?v=Br5doLFLaBo)
+- [OpenCV Python Neural Network Autonomous RC Car](https://www.youtube.com/watch?v=BBwEF6WBUQs)
+- 
+
 
