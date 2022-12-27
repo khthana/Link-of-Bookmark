@@ -1,6 +1,21 @@
 ### DB
 - [SQL Cheat Sheet](https://www.facebook.com/thaicoders/posts/1533507333420448)
 
+# Security
+- [คอร์สจากผู้เริ่มต้นสู่นักเจาะระบบ (hacker)](https://stephack.com/course4.html)
+- [The Secret step-by-step Guide to learn Hacking](https://www.youtube.com/watch?v=2TofunAI6fU)
+- [HackerOne เปิดคอร์สฟรี Hacker101 บน GitHub สอนเรื่อง Web Security พื้นฐานโดยเฉพาะ](https://www.techtalkthai.com/hackerone-free-hacker101-web-security-course-on-github/)
+- [FAQ: อยากแฮกเป็นจุงเบย ศึกษาอะไรดี](https://www.facebook.com/legacy/notes/316524601840908/)
+- [ลองแฮกช่องโหว่ที่ TrueMove-H ทำข้อมูลรั่วแบบ step-by-step](https://medium.com/@u0x/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AE%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88-truemove-h-%E0%B8%97%E0%B8%B3%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A-step-by-step-e93f8b62e788)
+- [F5 อ่อนว่ะ - คอร์สนี้จะกลายเป็นตำนานของวงการ IT ไทย #F5อ่อนว่ะ](https://www.kanouivirach.com/2015/11/f5-%e0%b8%ad%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%a7%e0%b9%88%e0%b8%b0-%e0%b8%84%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%aa%e0%b8%95%e0%b8%b3%e0%b8%99%e0%b8%b2%e0%b8%99-it-%e0%b9%84%e0%b8%97%e0%b8%a2/)
+- [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [Kali Linux Revealed: Mastering the Penetration Testing Distribution](https://kali.training/)
+- [1. Introduction, Threat Models](https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
+- [Best Hacking Tools Of 2017](https://www.facebook.com/watch/?v=960419360759668)
+- [Cyber kid stuns experts showing toys can be 'weapons'](https://www.youtube.com/watch?v=cpz6W9grTXo)
+- [Cracking WPA/WPA2 – PSK Encryption](https://latesthackingnews.com/2015/02/21/cracking-wpawpa2-psk-encryption/)
+- [Secure API](https://www.facebook.com/paullee3ds/posts/1057012004392522)
+
 ### Tensorflow
 - [AWS Greengrass – Run AWS Lambda Functions on Connected Devices](https://aws.amazon.com/th/blogs/aws/aws-greengrass-run-aws-lambda-functions-on-connected-devices/)
 - [Tensorflow for Deep Learning Research - Lecture 1](https://www.youtube.com/watch?v=g-EvyKpZjmQ&list=PLDuNt91tg0urwwTQNKyUbncSDvMEl74ww)
