@@ -1,6 +1,12 @@
 ### DB
 - [SQL Cheat Sheet](https://www.facebook.com/thaicoders/posts/1533507333420448)
 
+### Linux
+- [กระบวนการเริ่มทำงานของ Linux (Boot process)](https://aorjoa.medium.com/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87-linux-boot-process-39f94200c9da)
+
+### Data Structure
+- [https://github.com/keon/algorithms](https://github.com/keon/algorithms)
+
 ### OpenCV & Image
 - [opencv_contrib](https://github.com/opencv/opencv_contrib)
 - [Smart Security Camera](https://www.hackster.io/hackershack/smart-security-camera-90d7bd)
@@ -151,4 +157,15 @@
 - [Data Science (วิทยาการข้อมูล) คืออะไร? สายงานนี้ต้องทำอะไรบ้าง มาดูกันชัดๆ](https://blog.datath.com/data-science)
 - [ PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [ตัวอย่างโค้ดเรียกดูข้อมูลของกรมอุตุฯ](https://www.facebook.com/programmerthai/posts/1920364321586743)
+
+### ETC
+- [Jirasak Sittigorn](https://www.facebook.com/ong.jirasak/posts/1866017346747483)
+- [แหล่งเรียนรู้ด้านคอมพิวเตอร์ ฟรี (เน้นภาษาไทย)](https://github.com/adminho/learning-it)
+- [Riding Out The Tsunami Wave โดยคุณกระทิง พูนผล](https://www.facebook.com/DisruptUniversity/videos/1682765565149867/)
+- [จุฬา 100 ปี](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1239451776110450)
+- [บอกเล่าประสบการณ์การสัมภาษณ์งาน Software Development Engineer กับ Amazon (1/2)](https://pantip.com/topic/36748866)
+- [Dream of Bikbok วิศวกรคอมพิวเตอร์หนุ่มไทยใน PIXAR](https://www.facebook.com/notes/3610653445621317/)
+- [Six Ds of Exponential Technology: Disrupt or Die](https://www.disruptignite.com/blog/six-ds-of-exponential-technology-disrupt-or-die)
+
+### AI
 
