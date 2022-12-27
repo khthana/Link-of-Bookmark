@@ -1,6 +1,26 @@
 ### DB
 - [SQL Cheat Sheet](https://www.facebook.com/thaicoders/posts/1533507333420448)
 
+### Link
+- [Open Source Society University](https://github.com/ossu/computer-science)
+- [คณิตศาสตร์คอมพิวเตอร์](https://sites.google.com/site/05051101mathcom/xeksar-prakxb-kar-sxn)
+- [Markov Chains](https://setosa.io/ev/markov-chains/)
+- [Design Thinking: กลยุทธ์สำคัญที่สิงคโปร์ผสานรวมลงไปในการศึกษา เตรียมสร้างชาติในระยะยาว](https://www.techtalkthai.com/design-thinking-as-the-innovative-strategy-of-singapore/)
+- [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
+- [Pattern Recognition](https://www.youtube.com/watch?v=mhtxOL_IynQ&list=PLcBOyD1N1T-OQd0a6mqjY6gWOuIl_stuv)
+- [Python Type Annotation: ทำไม Python ต้องเขียน Type ด้วย](https://yothinix.medium.com/python-type-annotation-%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1-python-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-type-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-2559187f94ed)
+- [1 ปีของ Kubernetes ที่วงใน](https://life.wongnai.com/a-year-of-kubernetes-at-wongnai-1a763673a952)
+- [Technology Radar Vol. 17](http://www.somkiat.cc/technology-radar-vol-17/)
+- [Digital Circuit Laboratory 2557](https://www.youtube.com/playlist?list=PLPuQfxd5_l7wlRpRGXe-xWqNAOSrFD_Xw)
+- [คุยกับไทยพาณิชย์ เปิดดูสถาปัตยกรรมเบื้องหลัง SCB Easy ที่เขียนใหม่ในเวลา 10 เดือน](https://www.blognone.com/node/95873)
+- [1 ปีที่ผ่านมาไปเป็น Developer บริษัท Startups แห่งหนึ่งย่านสีลมครับ ของกินเยอะเลยครับแถวนี้…](https://blog.finnomena.com/1-%E0%B8%9B%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-developer-%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97-startups-%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%A5%E0%B8%A1%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%96%E0%B8%A7%E0%B8%99%E0%B8%B5%E0%B9%89-d77ede845129)
+- [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+- [2,160 ชั่วโมงกับการทำ Senior Project [ตอนที่ 1]](https://medium.com/@phiraphongbenz/2-160-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3-senior-project-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-1-c8952e5c8f5a)
+- [12 แหล่งเรียน Coding ฟรี! ที่คนไอทีไม่ควรพลาด](https://www.techstarthailand.com/blog/detail/12-websites-to-learn-to-code-for-free/186)
+- [แชร์ประสบการณ์ สัมภาษณ์งาน ตำแหน่ง Web Developer](https://medium.com/@supakorn.t/%E0%B9%81%E0%B8%8A%E0%B8%A3%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%93%E0%B9%8C%E0%B8%87%E0%B8%B2%E0%B8%99-%E0%B8%95%E0%B8%B3%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%87-web-developer-wongnai-nextzy-scale360-e546dbc0333a)
+- [อยากเป็นโปรแกรมเมอร์ละอ่อนใน 3เดือน](https://timeff.medium.com/%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%99-3%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99-7201b312e115)
+- [[Startup] อ่าน Lean Startup 3 จบ … ไม่เท่า ลองทำแล้วพบว่าไม่ใช่ (pivot) รอบเดียว !](https://medium.com/sathittham/%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99-lean-startup-3-%E0%B8%88%E0%B8%9A-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2-%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%9E%E0%B8%9A%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88-pivot-%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7-8c53f1f0d77a)
+
 ### NLP
 - [wannaphongcompythainlp](https://github.com/PyThaiNLP/pythainlp)
 - [ตัดคำภาษาไทยโดยใช้ Deep learning (AI)](https://www.patanasongsivilai.com/blog/tudkumthai/)
