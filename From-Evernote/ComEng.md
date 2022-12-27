@@ -1,6 +1,23 @@
 ### DB
 - [SQL Cheat Sheet](https://www.facebook.com/thaicoders/posts/1533507333420448)
 
+### Computer
+- [Google I/O 2017](https://www.facebook.com/JimmySoftware/posts/1302716386472067)
+- [รู้จัก Firebase Remote Config ตั้งแต่ Zero จนเป็น Hero](https://medium.com/firebasethailand/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-firebase-remote-config-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88-zero-%E0%B8%88%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-hero-c49a2375703b)
+- [รู้จัก VMware NSX กับแนวคิด Software Defined Network](https://www.techtalkthai.com/techtalk-webinar-replay-introduction-to-vmware-nsx-and-software-defined-network-by-vmug-thailand/)
+- [Infrastructure as Code](https://d0.awsstatic.com/whitepapers/DevOps/infrastructure-as-code.pdf?sc_channel=sm&sc_campaign=Docs&sc_publisher=FACEBOOK&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&sc_content=mt_whitepaper&sc_category=Amazon_CloudWatch%2CAmazon_EC2+Systems+Manager%2CAWS_CloudFormation%2CAWS_Config%2CAWS_Trusted+Advisor&linkId=40456201)
+- [PCB Design a Tiny Arduino In Altium CircuitMaker](https://www.udemy.com/course/pcb-design-a-tiny-arduino-in-altium-circuitmaker/learn/lecture/4429606#overview)
+- [Chromeless Run 1000s of browser integration tests in parallel](https://github.com/prisma-archive/chromeless)
+- [Google I/O 2017](https://medium.com/aun-taraseina/google-i-o-2017-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0-app-%E0%B8%95%E0%B8%AD%E0%B8%99-1-e0a0f90b10ab)
+- [read barcode and QRcode](https://github.com/sarodp/mypgzbarlight)
+- [มาทำให้ Browser ช่วยกรอก form ด้วย Auto fill form เนียนๆกันเถอะ](https://blog.thangman22.com/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89-browser-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%81-form-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-auto-fill-form-%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%86%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-b3a36d3995bf)
+- [รู้จัก Cloud Functions for Firebase ตั้งแต่ Zero จนเป็น Hero](https://medium.com/firebasethailand/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-cloud-functions-for-firebase-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88-zero-%E0%B8%88%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-hero-1c94acbb55af)
+- [Startup Business in Digital Economy โดย นายแพทย์ ภาณุทัต เตชะเสน](https://www.youtube.com/watch?v=jdIasut3aUc)
+- [สอน UNIX Linux Command ตอนที่ 1- Introduction](https://www.youtube.com/watch?v=ahSUMC-x95Y&list=PLEE74DyIkwEnFIqCQE-vZou7pXOgnjwFo)
+- [OpenCV tutorial: Computer vision with Node.js](https://blog.risingstack.com/opencv-tutorial-computer-vision-with-node-js/)
+- [Shenzhen: The Silicon Valley of Hardware ](https://www.youtube.com/watch?v=SGJ5cZnoodY)
+- 
+
 ### Linux
 - [กระบวนการเริ่มทำงานของ Linux (Boot process)](https://aorjoa.medium.com/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87-linux-boot-process-39f94200c9da)
 
@@ -75,6 +92,29 @@
 - [Chatbot AI อันดับ 1 ในไทยเพื่อธุรกิจขนาดกลางและใหญ่](https://www.amity.co/th/bots)
 - [สร้าง Chat bots อย่างง่ายๆ ด้วย Python](https://www.patanasongsivilai.com/blog/chat-bots-easy/)
 - [AI Chatbot for Business](https://www.facebook.com/watch/live/?ref=watch_permalink&v=10154399929591987)
+- [create-chatbot-facebook-messenger-nodejs-microsoft-bot-framework-azure-thai](https://nextflow.in.th/2017/create-chatbot-facebook-messenger-nodejs-microsoft-bot-framework-azure-thai/)
+- [/create-and-upload-chatbot-to-github-repository-microsoft-azure-thai](https://nextflow.in.th/2017/create-and-upload-chatbot-to-github-repository-microsoft-azure-thai/)
+- [codelabs](https://codelabs.developers.google.com/)
+- [12 แหล่งเรียน Coding ฟรี! ที่คนไอทีไม่ควรพลาด](https://www.techstarthailand.com/blog/detail/12-websites-to-learn-to-code-for-free/186)
+- [เส้นทางสู่ Silicon Valley ในแบบ ฝันให้ไกลแล้วไปให้ถึง](https://jirawatee.medium.com/%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B9%E0%B9%88-silicon-valley-%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%A1-4ef66ae5a620)
+- [Data Center University](http://datacenteruniversity.org/)
+- [Tuning Your DBMS Automatically with Machine Learning](https://aws.amazon.com/th/blogs/machine-learning/tuning-your-dbms-automatically-with-machine-learning/)
+- [คณิตศาสตร์คอมพิวเตอร์](https://sites.google.com/site/05051101mathcom/xeksar-prakxb-kar-sxn)
+- [วิธีใช้ Docker](https://www.techtalkthai.com/start-learning-docker-in-2017/)
+- [NASA Software Catalog](https://software.nasa.gov/)
+- [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html)
+- [โปรแกรมจำลองการทำงานวงจรไฟฟ้าแบบออนไลน์ ที่ดีที่สุด 10 อันดับ](http://www.ayarafun.com/2016/03/top-10-online-electronics-design-automation/)
+- [Think Complexity](https://greenteapress.com/complexity/html/index.html)
+- [สิ่งที่ควรทำสำหรับ Automated Acceptance Testing](http://www.somkiat.cc/automated-acceptance-testing/)
+- [CSE 201 Intro to Software Engineering](http://miamioh.edu/cec/academics/departments/cse/academics/course-descriptions/cse-201/index.html)
+- [CSE 211 Software Construction](http://miamioh.edu/cec/academics/departments/cse/academics/course-descriptions/cse-211/index.html)
+- [Basic FPGA](https://www.youtube.com/playlist?list=PLzg156ONmKl8x0PQDTvt5TMB9z1abyfY_)
+- [Digital System Fundamentals ](https://aefis.wisc.edu/index.cfm/page/AefisCourse.ABETSyllabusForm?courseid=224)
+- [Career path for Developers at Travis CI](https://ballweera.medium.com/career-path-for-developers-2e3420ec111#.xy9m8hoky)
+- [Microservice คืออะไร และสำคัญอย่างไร](http://www.somkiat.cc/introduction-to-microservice/)
+- [Megaprocessor](https://www.youtube.com/channel/UCB_Zl-VNSH5DLAtG40riCCg)
+- [Know Thy Complexities! Big O](https://www.bigocheatsheet.com/)
+
 
 ### Link
 - [Open Source Society University](https://github.com/ossu/computer-science)
