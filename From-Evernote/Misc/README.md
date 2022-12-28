@@ -11,8 +11,6 @@
 - [สารคดี ตามรอยบทธรรมปริศนา](https://www.youtube.com/watch?v=F50Izhd8SUU)
 - [มหาสติ..คืออะไร](https://www.facebook.com/permalink.php?story_fbid=1547088265329913&id=174670492571704)
 
-
-
 ขอให้มีเมตตาไม่มีประมาณ. ชำนาญการออกจากทุกข์.  มีความสุขได้ง่ายๆ สุขภาพกายและใจแข็งแรงครับ
 
 ที่สุดแห่งธรรม
@@ -29,3 +27,18 @@
      ที่สุดแห่งความเพียร. คือการเลิกยึดติดในการกระทำ
      ที่สุดแห่ง การภาวนา. คือจิตปราศจากมายา
      ที่สุดแห่ง ปัญญา. คือไม่ยึดติดทุกสิ่งตามที่มันปรากฏ
+     
+### 26 ตค
+- [พระราชพิธีถวายพระเพลิงพระบรมศพ (26 ต.ค.60)](https://www.facebook.com/tnamcot/photos?tab=album&album_id=1281206845316785)
+- [๙๙ ภาพ จารึกประวัติศาสตร์](https://www.facebook.com/thairath/photos/?tab=album&album_id=10156244532752439)
+- [รวมภาพพระเมรุมาศในรัชกาลที่9 ตั้งแต่การจัดสร้างถึงปัจจุบัน](https://www.facebook.com/everycamera/photos?tab=album&album_id=1144771478988990)
+- [ภูมิทัศน์พระเมรุมาศ](https://www.facebook.com/Thairath/posts/10156237083177439)
+- [ระเมรุ และ พระเมรุมาศ ของรัชกาลต่างๆ](https://www.facebook.com/permalink.php?story_fbid=10210341278556916&id=1490681263)
+- [พระเมรุมาศในหลวง ร.๙](https://www.facebook.com/Mono29News/posts/435409050194587)
+- [ขอเก็บภาพบรรยากาศวันถวายพระเพลิงไว้](https://www.facebook.com/keatkong/media_set?set=a.10155838966659310.1073741855.616624309&type=3)
+- [รัชกาลที่ ๙ ทรงร่วมริ้วขบวนพระราชพิธีถวายพระเพลิงพระบรมศพรัชกาลที่ ๘](https://www.facebook.com/clipdet1000000view/posts/1459375330847636)
+- [VDO พระเมรุมาศ](https://www.facebook.com/teerath.sirisuriyabavornkul/videos/10209110847922091/)
+- [ประมวลภาพมุมสูงพระเมรุมาศ พระราชพิธีถวายพระเพลิงพระบรมศพ](https://www.facebook.com/watch/?v=1758807341087407)
+- [ประมวลภาพชุดพระเมรุมาศเสร็จสมบูรณ์ สมพระเกียรติ](https://www.facebook.com/tnamcot/photos?tab=album&album_id=1275830715854398)
+- [นาทีควันสีขาวพวยพุ่งเหนือพระเมรุมาศ](https://www.khaosod.co.th/the-royal-cremation/news_596533)
+
