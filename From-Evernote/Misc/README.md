@@ -42,3 +42,16 @@
 - [ประมวลภาพชุดพระเมรุมาศเสร็จสมบูรณ์ สมพระเกียรติ](https://www.facebook.com/tnamcot/photos?tab=album&album_id=1275830715854398)
 - [นาทีควันสีขาวพวยพุ่งเหนือพระเมรุมาศ](https://www.khaosod.co.th/the-royal-cremation/news_596533)
 
+### ETC
+- [ทุกอย่างมันมีมาตรฐานของมัน](https://www.facebook.com/groups/549654008474013/permalink/1435367269902678/)
+- [เพลงที่ชิวที่สุดในโลก](https://www.facebook.com/3min.mahalai/posts/490785631276832)
+- [แนะนำทางเลี่ยง](https://www.facebook.com/MittraphapRoad/posts/1782063981868362)
+- [เปิดคลังสมบัติความคิด สิทธาเศรษฐี 'จิมมี่ ชวาลา' ](https://www.facebook.com/watch/?v=1664703463549732)
+- [ด้านใน "พระที่นั่งอนันตสมาคม" ](https://seeme.me/ch/motionnews/MmaZOM)
+- [อยากบอก บัณฑิตจบใหม่](https://www.facebook.com/permalink.php?story_fbid=1495902903835146&id=422259541199493)
+- [10 ทักษะ! ที่ถูก ‘จ้างงาน’ มากที่สุดในปีนี้](https://www.marketingoops.com/digital-life/10-skills-got-hired-job/)
+- [Systems Problem Solving (คิดเป็นระบบ สยบทุกปัญหา) ](https://www.slideshare.net/toffeemen/systems-problem-solving)
+- [สุดยอดเว็บโหลดภาพสต๊อกฟรี](https://www.facebook.com/panyawa/posts/10211899508034583)
+- [Excel VBA](https://drive.google.com/file/d/0Bxpfgh-rqhIWY2VoM1dQSjV4bGc/view?resourcekey=0-Bzd5vpGazAevUg5NtzjlIw)
+- [ภรรยาประธานาธิบดีสีจิ้นผิง](https://www.facebook.com/permalink.php?story_fbid=10213178598686792&id=1450051196)
+- [
