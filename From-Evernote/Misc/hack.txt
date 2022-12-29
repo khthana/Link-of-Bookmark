@@ -1,0 +1,76 @@
+FAQ: อยากแฮกเป็นจุงเบย ศึกษาอะไรดี
+สำหรับ ใครที่รู้สึกว่า Kali ก็ลงแล้ว aircrack ก็แคร็ก wifi ได้แบบในยูทูป, กด gen โทรจัน/keylogger จากโปรแกรมสำเร็จรูป darkcomet/blackshades/cybergate etc. แกล้งเพื่อนในเน็ตก็แล้ว, ลอง havij sqlmap union all select ดึง database ออกมาได้ตาม tutorial ในเว็บแล้วไม่รู้สึกแฮกเป็นเลย
+
+2600 Thailand ขอแนะนำำำำ material จากโครงการ Hack Night ของ NYU Poly (Polytechnic Institute of New York University)
+
+https://github.com/isislab/Hack-Night
+
+- Source Code Auditing
+ - Web Security
+ - Reverse Engineering
+ - Exploitation
+ - Application Security
+(เข้าไปกดดู pdf/video/article ได้จากใน resource ตามในลิ้ง github)
+
+
+ หรือดูจากเว็บต้นทางวีดีโอได้ที่
+ - http://opensecuritytraining.info/Training.html
+ - http://www.securitytube.net/groups?operation=viewall&groupId=0
+ - https://www.owasp.org/index.php/OWASP_Testing_Guide_v3_Table_of_Contents
+ - http://www.cs.fsu.edu/~redwood/OffensiveSecurity/lectures.html
+ - http://www.binary-auditing.com/
+ - http://beginners.re/
+
+ [+] แฮกช่องโหว่ Memory Corruption ทั้งหลาย
+ เว็บภาษาไทยจาก sleepya
+ - http://thtutz.blogspot.com/p/exploit-linux.html
+ tutorial จาก corelan (มีหลาย part กดไปเรื่อย ๆ)
+ - https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+ (หรือดูหมวด Exploit Writing Tutorials จากล่างขึ้นบน https://www.corelan.be/index.php/articles/ )
+ challenge แบบง่าย-ยาก อยู่ใน VM เริ่มจาก Protostar ไป Fusion
+ - http://exploit-exercises.com/
+
+ หรือใครแบบชอบอ่านข่าว 0-day/exploit รายวันวิเคราะห์เทคนิคการโจมตีใหม่ ๆ
+ ไม่รู้จะไปหาจากที่ไหนดี
+ - http://www.reddit.com/r/netsec/
+ - http://seclists.org/fulldisclosure/
+
+
+ ชอบบอ่านหนังสือแฮก ๆ เล่มไหนดี
+ - http://dfir.org/?q=node/8
+ - http://www.sans.edu/research/book-reviews/article/security-books-best
+
+ เขียนโปรแกรมม
+http://learnpythonthehardway.org/book/ (Python)
+http://c.learncodethehardway.org/book/ (C)
+
+ สำหรับใครที่แบบขี้เกียจไม่ชอบเรียนอยากหาอะไร challenge ทำก็
+ มาลองแฮก lab / การแข่งขันจากเว็บเหล่านี้ได้
+
+http://game.rop.sh/ ← เว็บจากทีมงาน 2600
+http://vulnhub.com/ ← รวม vm ที่มีช่องโหว่มาให้ลองแฮก เช่น owasp bwa รวมช่องโหว่เว็บ
+http://www.amanhardikar.com/mindmaps/Practice.html ←  รวม vm ที่มีช่องโหว่มาให้ลองแฮก
+https://www.pentesterlab.com/exercises/ ← รวม vm ที่มีช่องโหว่มาให้ลองแฮกเน้น web security
+http://www.root-me.org/en/Challenges/ ← challenge ให้ลองแฮกช่องโหว่หลายหมวดแบบง่ายๆ - ยาก
+https://www.hacking-lab.com/index.html ← challenge ให้ลองแฮก
+https://microcorruption.com/login ← challenge reverse engineering
+http://exploit-exercises.com/ ← challenge exploitation (vm)
+http://overthewire.org/wargames/ ← มีหลายหมวดเน้น exploitation บนเครื่อง server เค้าจริง ๆ
+https://github.com/SpiderLabs/CryptOMG ← เว็บช่องโหว่ crypto แฮกเว็บถอดรหัส for code breaker !
+http://cryptopals.com/ ← เว็บช่องโหว่ crypto แฮกเว็บถอดรหัส for code breaker !
+https://ctftime.org/ ← เว็บไว้ติดตามแข่งขัน hacking capture-the-flag ที่จัดเกือบทุกเดือน *อันนี้ยาก*
+https://lab.pentestit.ru/ ← Pentest Lab ให้ VPN เข้าไปแฮกจำลองเป็น network องค์กรได้ฟรี
+
+
+
+ แฮกอะไรเอ่ยได้ตังด้วย? แฮกเว็บในโครงการ Bug Bounty แฮกได้แจกตัง!
+https://bugcrowd.com/list-of-bug-bounty-programs/
+https://hackerone.com/programs
+ เจอ ช่องโหว่ที่ยังไม่โดนแพทช์ในซอฟต์แวร์ที่คนใช้เยอะ ๆ ? จ่ายเลยดีกว่าขั้นต่ำ 3 หมื่นบาท
+http://zerodayinitiative.com/about/benefits/
+ ที่อื่น ๆ ที่รับซื้อช่องโหว่ร้ายแรง
+https://www.netragard.com/zero-day-exploit-acquisition-program
+https://www.zerodium.com/program.html
+
+ แฮกเป็นแล้วหางานแฮกในไทยทำที่ไหนเค้าแฮกกัน?
+https://www.facebook.com/notes/2600-thailand/รวมรายชื่อบริษัทรับทำ-penetration-testing-และ-information-security-consult-ในไทย/292280590931976
