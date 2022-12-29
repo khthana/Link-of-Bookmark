@@ -41,10 +41,8 @@
 - [ตอนที่ ๒ ในหลวงรัชกาลที่ ๙ – สมเด็จพระราชินี กับ พระพุทธศาสนา ...](https://www.facebook.com/watch/?v=1839141736370120)
 - [จำลอง “พระเมรุมาศ” ](https://www.facebook.com/watch/?v=1475878525779336)
 - [พระเจ้าอยู่หัวฯ ทรงช่วยราษฎรของพระองค์อย่างไร? ](https://www.facebook.com/permalink.php?story_fbid=745621095597839&id=188583217968299)
-- 
 
 
-- 
 ### 26 ตค
 - [พระราชพิธีถวายพระเพลิงพระบรมศพ (26 ต.ค.60)](https://www.facebook.com/tnamcot/photos?tab=album&album_id=1281206845316785)
 - [๙๙ ภาพ จารึกประวัติศาสตร์](https://www.facebook.com/thairath/photos/?tab=album&album_id=10156244532752439)
@@ -63,6 +61,23 @@
 - [หน้าหลักพระเมรุมาศ](http://www.kingrama9.th/)
 - [พระโกศ ไม้จันทน์](https://www.facebook.com/kobnokkala/posts/2241991625827060)
 
+### ประวัติศาสตร์
+- [Watch as 1000 years of European borders change (timelapse map)](https://www.facebook.com/TribesPeople/videos/1671348653124505/)
+- [รวมคลิปวีดีโอจาก 7 วิทยากรในงานสามก๊ก ปลุกชีวิต คิดการใหญ่](https://www.samkok911.com/2017/07/video-from-samkok-live-talk.html)
+- [The History of Southeast Asia: Every Year by Ollie Bye](https://www.facebook.com/watch/?v=1572931609408076)
+- [วิกฤตเศรษฐกิจต้มยำกุ้ง](https://www.facebook.com/roojingthaiecon/videos/1503858116303476/)
+- [เปิดที่มาสถาปัตยกรรมโบราณ "เสาชิงช้า"](https://www.tnews.co.th/contents/324766)
+- [ตำนานสมเด็จพระนเรศวรมหาราช ภาคอวสานหงสา กับเหตุการณ์ตามหลักฐานทางประวัติศาสตร์](https://pantip.com/topic/33579048)
+- [เปิดลายมือคุณพี่หมื่นตัวจริง จากเอกสาร “ต้นทางฝรั่งเศส”](https://ngthai.com/history/9256/%E0%B9%88journey-to-france/)
+
+### อาหาร
+- [สอนทำ "ส้มตำ" By รายการ กิน อยู่ ](https://www.facebook.com/NoGmoDay/videos/221023321601234/)
+- [40 เมนูอาหารสุดบรรเจิดจาก ‘ไข่’ ที่ทุกคนไม่ควรพลาด!!](https://www.naibann.com/40-amazing-egg-recipes-you-cannot-miss/)
+- [กล้วยเชื่อมสีชาด ราดหัวกะทิสด สูตรบ้านอาจารย์คมสัน](https://www.facebook.com/komson.ayuddhaya/posts/10212901069595838)
+- [ฮันนี่โทสต์ (Honey Toast) ทำเองได้ง่ายๆ ใครๆก็ทำได้](https://pantip.com/topic/33632933)
+- [ไอศกรีมโฮมเมดง่ายๆ เตรียมแค่ 5 นาที แช่เย็นอีก 3 ชั่วโมง ก็อร่อยได้แล้ว!](https://www.naibann.com/coffee-homemade-icecream-recipe/)
+- [วุ้นกะทิมะพร้าวอ่อนดอกกุหลาบ ขนมไทยกรุบกรอบทำง่าย ๆ](https://cooking.kapook.com/view83691.html)
+- 
 
 ### ETC
 - [ทุกอย่างมันมีมาตรฐานของมัน](https://www.facebook.com/groups/549654008474013/permalink/1435367269902678/)
@@ -101,6 +116,24 @@
 - [Memory (1/7)](https://www.youtube.com/watch?v=ER2kb45bTBc)
 - [10000 ชม](https://www.facebook.com/1Thing.1Thing/posts/883708935091852)
 - [ขวดพลาสติคที่ไม่ใช้แล้ว มีประโยชน์ใช้สอยมากมาย](https://www.facebook.com/groups/thaidiyidea/permalink/675628459271664/)
+- [14 คาเฟ่ลาดกระบัง น่านั่งพักผ่อนในแบบที่คุณจะต้องหลงรักแน่นอน](https://www.ryoiireview.com/article/cafe-sweet-latkrabang-bkk/)
+- ["สุวิทย์ เมษินทรีย์" เตือนภัยจุดเปลี่ยนประเทศ ปฏิรูป "คุณภาพคน" ก่อนไทยไร้ที่ยืน!](https://www.thairath.co.th/business/512641)
+- [กลางวงสนทนา Bill Gates และ Warren Buffett](https://ahead.asia/2017/05/08/bill-gates-talk-to-warren-buffett/)
+- [อุดมศึกษา-พลังขับเคลื่อนประเทศไทย 4.0](https://thaipublica.org/2018/03/somkid-university-expo/)
+- [ณภัทร จาตุศรีพิทักษ์](https://thaipublica.org/2018/04/napat-data-science-applications-in-economics/)
+- [Marvel Cinematic Universe ผูกเรื่องราวมหากาพย์อันยาวนานนับพันๆปี...](https://pantip.com/topic/33512368)
+- [มาทำแผ่นทางเดินคอนกรีตลายไม้เก่าและลายอื่น ๆ (DIY)](http://topicstock.pantip.com/home/topicstock/2012/02/R11657232/R11657232.html)
+- [ฟอนต์ไทยฟรี !! ที่นักออกแบบไทยนิยมใช้กันมากที่สุด ](https://grappik.com/font-thai-free-download/)
+- [สิ่งที่ควรรู้ก่อนไปญี่ปุ่น 19 ข้อรู้ไว้ เที่ยวสบาย](https://chillchilljapan.com/17-tips-for-travel-in-japan/)
+
+### แปลก 
+- [Just unbelievable! Video from Salut Salon.](https://www.facebook.com/watch/?v=10154136049871457)
+- [Seats fold flat](https://www.facebook.com/watch/?v=410046766003625)
+- [Pissed Off Game](https://www.facebook.com/watch/?v=1244049855677468)
+- [วิธีเล่นรูบิค](https://www.facebook.com/wanchai.udomkitwanit/posts/10211990518985657)
+- [This dog just loves his automatic ball launcher](https://www.facebook.com/watch/?v=1314060242069148)
+- [4 lane without traffic light](https://www.facebook.com/mthie/videos/10155192480939067/)
+- [This Bamboo Bike Grows With Your Child](https://www.facebook.com/watch/?v=10157302627072598)
 
 ### บ้าน
 - [รีวิวบ้านปูนขัดมัน แต่งเติมด้วยไม้ในสวนชนบท](https://www.banidea.com/home-loft-and-garden-by-prom/)
@@ -109,3 +142,48 @@
 - [Tiny House : 20 บ้านหลังเล็ก ของคนรักอิสรภาพ ](https://www.banidea.com/20-tiny-house-design/)
 
 
+### ตลก
+
+ความแตกต่างระหว่าง "ผู้ชายกับผู้หญิง"
+ผู้ชาย จ่ายเงิน 10 บาท เพื่อให้ได้ของราคา 5 บาท
+
+ถ้าเขาต้องการมัน
+
+ผู้หญิง จ่ายเงิน 5 บาท เพื่อให้ได้ของ 10 บาท
+
+ที่เธอไม่ต้องการ แต่..เพราะมันลดราคา
+
+ผู้หญิงกังวลเกี่ยวกับอนาคต...จนกว่าเธอจะมีสามี
+
+ผู้ชายไม่เคยกังวลเกี่ยวกับอนาคต...จนกว่าเขาจะมีภรรยา
+
+ผู้ชายที่ประสบความสำเร็จคือ....คนที่สามารถหาเงิน ได้มากกว่าที่ภรรยาของเขาสามารถใช้ให้หมดได้
+
+ผู้หญิงที่ประสบความสำเร็จคือ...
+
+ผู้หญิงที่หาผู้ชายคนดังกล่าวเจอ
+
+การจะมีความสุขกับผู้ชาย........
+
+คุณจะต้องเข้าใจเขาให้มาก โดยรักเขาเพียงนิดเดียวก็พอ
+
+การจะมีความสุขกับผู้หญิง........
+
+คุณต้องรักเธอมากๆ และอย่าคาดหวังว่าจะเข้าใจเธอ
+
+ชายที่แต่งงานแล้ว อายุยืนกว่าชายที่เป็นโสด....
+
+แต่ชายที่แต่งงานแล้วยินดีจะตายมากกว่า
+
+ผู้หญิงแต่งงานกับผู้ชายโดยคาดหวังว่า...
+
+เขาจะเปลี่ยนแปลง...แต่เขาไม่
+
+ผู้ชายแต่งงานกับผู้หญิงโดยคาดหวังว่า...
+
+เธอจะไม่เปลี่ยน...แต่เธอเปลี่ยนไป.....
+
+ผู้หญิงจะเป็นคนกล่าวคำสุดท้ายในการโต้เถียงทุกครั้ง
+
+ชายผู้ใดกล่าวอะไรหลังจากนั้น
+จะเป็นการเริ่มการโต้เถียงครั้งใหม่
